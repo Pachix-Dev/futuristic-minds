@@ -1,0 +1,23 @@
+.card-ponet{
+border: 2px solid #ffffff; /* Borde azul sólido de 2px de grosor */
+border-radius: 10px; 
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.title-ponet{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.text-ponet{
+    font-size: 18px;
+}
+
+.img-ponet{ 
+    padding: 0px auto;
+    width: 210px;
+}

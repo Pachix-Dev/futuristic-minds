@@ -1,0 +1,74 @@
+
+p{
+    font-family: Oxanium;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.title-padre{
+    font-family: Oxanium;
+    font-weight: 800;
+    font-size: 60px;
+    margin: 80px auto 30px auto;
+    padding: 60px 0px;
+    color: rgb(248, 233, 246);
+}
+
+.button-registro, .button-programa{
+    font-family: Oxanium;
+    font-weight: 800;
+    padding: 1em 2em;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    transition: all 1000ms;
+    font-size: 15px;
+    position: relative;
+    overflow: hidden;
+} 
+
+.button-registro {  
+    color: #fffffff2;
+    background-color: #ff0505;
+    outline: 2px solid #ffffff;
+  }
+
+  .button-programa {
+    color: #0d0289;
+    background-color: #ffffff;
+    outline: 2px solid #02b5fb;
+  }
+  
+  .btn:hover {
+    color: #ffffff;
+    transform: scale(1.1);
+    outline: 2px solid #70bdca;
+    box-shadow: 4px 5px 15px -4px #ffffff;
+  }
+  
+  .btn::before {
+    content: "";
+    position: absolute;
+    left: -50px;
+    top: 0;
+    width: 0;
+    height: 100%;
+    background-color: #00187a;
+    transform: skewX(45deg);
+    z-index: -1;
+    transition: width 1000ms;
+  }
+  
+  .btn:hover::before {
+    width: 250%;
+  }
+  
+
+  /* Media query para dispositivos móviles */
+@media (max-width: 767px) {
+    .title-padre{
+        font-size: 40px;
+    }
+}

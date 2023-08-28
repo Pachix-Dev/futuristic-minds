@@ -1,0 +1,82 @@
+/* iconos de redes sociales */
+.footer-socialmedia svg {
+    fill: #fafafa;
+    width: 30px;
+    margin: 0px 20px;
+}
+.tarjeta{
+    border-top: 1px solid #727272;
+    border-bottom: 1px solid #727272;
+}
+
+.footer-socialmedia svg:hover{
+    fill: #0f94f9;
+}
+ 
+.img-contacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-language {
+    padding: 10px 0;
+    border-top: 1px solid #727272;
+    border-bottom: 1px solid #727272;
+}
+
+.item-link, .link{text-decoration: none;}
+.item-link{ margin: 0px 20px;}
+
+
+.img-logos-mtech{
+    width: 90px;
+}
+.body-card{
+    background-color: rgba(8, 9, 8, 0);
+    border: px solid  rgb(0, 253, 0);
+    padding: 0px 20px;
+}
+
+.item-link-aviso{
+    color: #fafafa;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.item-link-aviso:hover{
+    color: rgb(170, 255, 0);
+    font-weight: 500;
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .img-logos-mtech{
+        margin-left: 300px;
+    }
+  }
+
+@media  (max-width: 640px) {
+    .img-logos{
+        width: 110px;
+    }
+    .img-logos-mtech{
+        width: 90px;
+        padding: 0px 15px;
+    }
+    .tex-contacto p, h5{
+        text-align: center;
+    }
+    .item-link{
+        text-align: center;
+    }
+    .menu-footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        margin: 0px;
+    }
+
+  }
+
