@@ -11,7 +11,7 @@ export function Slider(){
               <div className="witem-slider100 item-slider">
                 <div className="text-center img-futuristic"><img className="w-100" src={logoFuturistics} alt="futuristic-minds" /></div>
                 <div className="text-center">
-                  <Col><h1 className="title-slider">PROGRAMA PARA ESTUDIANTES <span className="" style={{ color: '#e8001e' }}>INDUSTRIAL TRANSFORMATION MEXICO</span></h1> </Col>
+                  <Col><h1 className="title-slider px-2">PROGRAMA PARA ESTUDIANTES <span className="" style={{ color: '#e8001e' }}>INDUSTRIAL TRANSFORMATION MEXICO</span></h1> </Col>
                   <Col className="text-sede">
                     <p className="text-sede">CENTRO DE CIENCIAS EXPLORA</p>
                     <p className="text-sede">4 - 6 DE OCTUBRE, 2023</p>

@@ -21,12 +21,12 @@ export function AboutUs(){
                     <p>¿La inteligencia artificial y la electromovilidad despiertan tu curiosidad?</p>
                 </Col>
             </Row>
-            <Row className="justify-content-md-center">
+            <Row className="justify-content-md-center px-5">
                 <Col className="text-center">
                     <h1 className="title-padre">¡FUTURISTIC MINDS ES PARA TI!</h1>
                 </Col>
             </Row>
-            <Row className="justify-content-center">
+            <Row className="justify-content-center px-4">
                 <Col lg={4} className="m-3"><a href="https://itm.ahmreg.com.mx/"  target='_blank' rel="noopener noreferrer"><button className="btn button-registro w-100">REGISTRATE AHORA</button></a></Col>
                 <Col lg={4} className="m-3"><button className="btn button-programa w-100">VER PROGRAMA</button></Col>
             </Row>

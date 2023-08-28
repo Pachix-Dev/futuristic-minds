@@ -30,6 +30,7 @@
     font-size: 30px;
   }
 
+
 @media (max-width: 768px) {
 
   .title-slider{
@@ -54,21 +55,22 @@
     display: block;
     justify-content: center;
     height: 70vh;
-    padding: 30px;
+    padding: auto 10px;
   }
 
   .img-futuristic{
     margin: 0px auto;
-    width: 280px;
+    width: 260px;
   }
 
   .title-slider{
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 700;
   }
 
   .text-sede{
     font-size: 20px;
   }
+
 
 }
