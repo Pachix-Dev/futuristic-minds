@@ -23,7 +23,7 @@ const programITM = {
         rol: 'SIN TITULO',
         institution: 'NASA',
         conference: 'SIN TITULO',
-        resume: "AGREGAR DESCRIPCIÓN"
+        resume: "INFORMACIÓN POR CONFIRMAR"
       },
       {
         id: 3,
@@ -34,7 +34,7 @@ const programITM = {
         rol: 'Ingenieros de producto',
         institution: 'Mitsubishi',
         conference: 'Ellos también fueron jóvenes. La brecha generacional en la industria',
-        resume: "AGREGAR DESCRIPCIÓN"
+        resume: "INFORMACIÓN POR CONFIRMAR"
       },
       {
         id: 4,
@@ -45,7 +45,7 @@ const programITM = {
         rol: 'Gobernador del estado de Guanajuato',
         institution: 'Gobierno del Estado de Guanajuato',
         conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
-        resume: "AGREGAR DESCRIPCIÓN"
+        resume: "INFORMACIÓN POR CONFIRMAR"
       },
     ],
     oct_5: [
@@ -60,7 +60,7 @@ const programITM = {
         rol: 'Sales Distributors Engineer',
         institution: 'Schneider Electric',
         conference: 'Estudiantes líderes: las Industrias del Futuro están en tus manos',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -73,7 +73,7 @@ const programITM = {
         rol: 'Ventas de soluciones y servicios',
         institution: 'Mitsubishi',
         conference: 'Crecimiento profesional',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 6,
@@ -86,7 +86,7 @@ const programITM = {
         rol: 'Industry Manager',
         institution: 'Endress + Hauser México',
         conference: 'Empower the School',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ],
     oct_6: [
@@ -101,7 +101,7 @@ const programITM = {
         rol: 'Business Developer',
         institution: 'Schneider Electric',
         conference: 'Implicaciones del Edge computing en la Industria (HBN)',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 6,
@@ -114,7 +114,7 @@ const programITM = {
         rol: 'Socios Comerciales',
         institution: 'Mitsubishi',
         conference: 'México necesita emprendedores',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ]
   },
@@ -131,7 +131,7 @@ const programITM = {
         rol: 'Consejero Delegado',
         institution: 'INSTITUTO OVIEDO',
         conference: 'Aprendizajes y retos sobre la electromovilidad en México',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -144,7 +144,7 @@ const programITM = {
         rol: 'Secretario Académico | Profesor de asignatura',
         institution: 'TBC La Salle Bajío',
         conference: 'Inteligencia Artificial Generativa',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -157,7 +157,7 @@ const programITM = {
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Subirse a la ola de la Responsabilidad Social ',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -170,7 +170,7 @@ const programITM = {
         rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
         institution: 'TBC Tecnológico de Monterrey',
         conference: 'Propuestas de valor desde la Ingeniería para el Diseño FinTech desde el enfoque del emprendimiento',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ],
     oct_5: [
@@ -185,7 +185,7 @@ const programITM = {
         rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
         institution: 'TBC Tecnológico de Monterrey ',
         conference: 'Herramientas que contribuyen a la Logística Inteligente',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -198,7 +198,7 @@ const programITM = {
         rol: 'Profesor de Innovación y Emprendimiento',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
   
     ],
@@ -214,7 +214,7 @@ const programITM = {
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Gotas de conciencia: Navegando el cálculo de la huella hídrica',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -227,7 +227,7 @@ const programITM = {
         rol: 'Profesor de la Escuela de Ingenierías y Ciencias',
         institution: 'TBC Tecnológico de Monterrey',
         conference: 'La inteligencia artificial en la Robótica aplicada',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       }
     ]
   },
@@ -244,7 +244,7 @@ const programITM = {
         rol: 'Profesor de Innovación y Emprendimiento',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Diseño especulativo para resolver problemas',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ],
     oct_5: [
@@ -259,7 +259,7 @@ const programITM = {
         rol: 'Jefatura de innovación y emprendimiento',
         institution: 'INSTITUTO OVIEDO',
         conference: 'La importancia de un Pitch efectivo',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 5,
@@ -272,7 +272,7 @@ const programITM = {
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
-        resume: 'AGREGAR DESCRIPCIÓN'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ],
     oct_6: [
