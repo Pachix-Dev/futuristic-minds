@@ -12,7 +12,7 @@ const programITM = {
         rol: 'Solution Architect | Business Developer Manager for Power Quality & Energy Automation',
         institution: 'Schneider Electric',
         conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
-        resume: "¿Te imaginas tener el poder de mejorar la calidad y ficiencia de la energía en tus operaciones? Descubre como nuestras soluciones de vanguardia, presentados por nuestros expertos Oliver Castellanos, Solutions Architect y Sergio Romero, BDM de Power Quality & Energy Automation, pueden ser la convergencia perfecta entre la digitalización y la calidad de la energía para optimizar decisiones, reducir costos y mejorar la eficiencia de tus edificaciones. ¡Conviértelas en edificaciones inteligentes!"
+        resume: "¿Te imaginas tener el poder de mejorar la calidad y ficiencia de la energía en tus operaciones? Descubre cómo nuestras soluciones de vanguardia, presentados por nuestros expertos Oliver Castellanos, de Solutions Architect, y Sergio Romero, BDM de Power Quality & Energy Automation, pueden ser la convergencia perfecta entre la digitalización y la calidad de la energía para optimizar decisiones, reducir costos y mejorar la eficiencia de tus edificaciones. ¡Construyamos edificaciones inteligentes!"
       },
       {
         id: 2,
