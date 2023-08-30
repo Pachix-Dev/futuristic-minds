@@ -113,7 +113,7 @@ export function Conferences () {
                 >
                   {programs?.oct_5.map((program, index) => {
                     return (
-                      <div key={index} className='program-date-item d-flex align-items-center'>
+                      <div key={index} className='program-date-item  align-items-center'>
                         <div style={{ width: '100px' }}>
                           <p style={{ width: '100px' }}>
                             <strong>{program.hour}</strong><br />
@@ -122,7 +122,7 @@ export function Conferences () {
                             </svg> {program.duration}
                           </p>
                         </div>
-                        <div className='d-flex align-items-center justify-content-between w-100'>
+                        <div className=' align-items-center justify-content-between w-100'>
                           <div className='w-100'>
                             {program?.resume
                               ? <Accordion>
@@ -168,7 +168,7 @@ export function Conferences () {
                 >
                   {programs?.oct_6.map((program, index) => {
                     return (
-                      <div key={index} className='program-date-item d-flex align-items-center'>
+                      <div key={index} className='program-date-item  align-items-center'>
                        <div style={{ width: '100px' }}>
                           <p style={{ width: '100px' }}>
                             <strong>{program.hour}</strong><br />
@@ -177,7 +177,7 @@ export function Conferences () {
                             </svg> {program.duration}
                           </p>
                         </div>
-                        <div className='d-flex align-items-center justify-content-between w-100'>
+                        <div className=' align-items-center justify-content-between w-100'>
                           <div>
                             {program?.resume
                               ? <Accordion>
