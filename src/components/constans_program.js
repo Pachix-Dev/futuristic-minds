@@ -50,17 +50,17 @@ const programITM = {
     ],
     oct_5: [
       {
-        id: 4,
+        id: 3,
         hour: '10:00 hrs',
         duration: '45 min',
         name: 'Mariana Cruz',
-        avatar: '',
-        id_s2: 5,
+        avatar: '/futuristic-minds/speakers/mariana-cruz.webp',
+        id_s2: 0,
         avatar2: '',
         rol: 'Sales Distributors Engineer',
         institution: 'Schneider Electric',
-        conference: 'Estudiantes líderes: las Industrias del Futuro están en tus manos',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        conference: 'Estudiantes líderes: Las Industrias del Futuro están en tus manos',
+        resume: '¡Un futuro impulsado por los estudiantes! Descubre cómo los estudiantes son los responsables de liderar las Industrias del futuro y generar el cambio en México por medio de la innovación, la digitalización y la automatización en los sectores industriales. Aprovecha tus habilidades y conocimientos para hacer una diferencia y forjar un futuro próspero.'
       },
       {
         id: 5,
