@@ -28,7 +28,7 @@ export function AboutUs(){
             </Row>
             <Row className="justify-content-center px-4">
                 <Col lg={4} className="m-3"><a href="https://itm.ahmreg.com.mx/"  target='_blank' rel="noopener noreferrer"><button className="btn button-registro w-100">REGISTRATE AHORA</button></a></Col>
-                <Col lg={4} className="m-3"><button className="btn button-programa w-100">VER PROGRAMA</button></Col>
+                <Col lg={4} className="m-3"><a href="#programa"><button className="btn button-programa w-100">VER PROGRAMA</button></a></Col>
             </Row>
         </Container>
         </>

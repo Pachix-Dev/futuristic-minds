@@ -21,7 +21,7 @@ export function Conferences () {
     }
     return (
       <>
-        <div className='program-wrapper'>
+        <div className='program-wrapper' id='programa'>
           <Container className='pt-5'>
             <h1 className='text-light fw-font title-conferencias'><strong>PROGRAMA DE CONFERENCIAS</strong></h1>
             <p className='text-light'>Descubre conocimientos inspiradores y perspectivas únicas en nuestro emocionante programa de conferencias. <br /><strong style={{ color: '#ff0505' }}>¡No te pierdas la oportunidad de ampliar tus horizontes!</strong></p>
@@ -238,7 +238,6 @@ export function Conferences () {
             speaker={detailSpeaker}
           />
         </div>
-  
       </>
     )
   }

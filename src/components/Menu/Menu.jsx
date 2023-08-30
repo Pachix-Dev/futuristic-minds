@@ -14,8 +14,7 @@ export function Menu () {
             <Offcanvas.Header closeButton data-bs-theme='dark' />
             <Offcanvas.Body>
               <Nav className='justify-content-end flex-grow-1 pe-5'>
-                {/* <Nav.Link className='options' href='https://hfmexico.mx/historia-deutsche-messe/' target='_blank'>¿QUIÉNES SOMOS?</Nav.Link> */}
-                {/* <Nav.Link className='options' href='https://hfmexico.mx/messe-events/' target='_blank'>MESSE EVENTS</Nav.Link> */}
+                <Nav.Link className='options' href='#programa'>PROGRAMA DE CONFERENCIAS</Nav.Link>
                 <Nav.Link className='options' href='#gallery'>GALERIA </Nav.Link>
                 <Nav.Link className='options' href='#strategicAllies'>ALIADOS ESTRATÉGICOS</Nav.Link>
                 <Nav.Link className='options' href='https://hfmexico.mx' target='_blank'>NUESTROS EVENTOS</Nav.Link>
