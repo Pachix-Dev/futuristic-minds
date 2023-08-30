@@ -15,7 +15,7 @@ import { Container } from 'react-bootstrap';
 export function Gallery() {
 
 
-const imagesPerGroup = 9;
+const imagesPerGroup = 4;
 const totalImages = 12; // Cambia esto según el número total de imágenes
 
   const [currentPage, setCurrentPage] = useState(1);
