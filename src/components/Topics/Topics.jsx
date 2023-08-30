@@ -11,7 +11,7 @@ export function Topics() {
                                 <p className='title-card'>EXPOSICIÓN DE PROTOTIPOS</p>
                             </div>
                             <div className="card-back text-center">
-                                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, eius.</p>
+                                <p>INFORMACIÓN POR CONFIRMAR</p>
                             </div>
                         </div>
                     </div>
@@ -21,7 +21,7 @@ export function Topics() {
                                 <p className='title-card'>21 KINETIC</p>
                             </div>
                             <div className="card-back text-center">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, porro.</p>
+                                <p>INFORMACIÓN POR CONFIRMAR</p>
                             </div>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ export function Topics() {
                                 <p className='title-card'>REALIDAD AUMENTADA</p>
                             </div>
                             <div className="card-back text-center">
-                                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis quisquam quia nostrum earum necessitatibus dolorum quod neque vel autem laudantium!</p>
+                                <p>INFORMACIÓN POR CONFIRMAR</p>
                             </div>
                         </div>
                     </div>
