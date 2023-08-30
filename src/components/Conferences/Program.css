@@ -126,7 +126,7 @@
   .program-date-item {
     display: inherit;
   }
-  .title-conferencias{
-    font-size: 20px;
+  .program-wrapper h1{
+    font-size: 45px;
   }
 }
