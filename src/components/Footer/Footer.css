@@ -44,6 +44,13 @@
     font-size: 17px;
 }
 
+.link-correo{color: #03bcff; font-weight: 500;}
+
+.link-correo:hover{
+    color: rgb(170, 255, 0);
+    font-weight: 500;
+}
+
 .item-link-aviso:hover{
     color: rgb(170, 255, 0);
     font-weight: 500;

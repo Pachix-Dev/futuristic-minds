@@ -24,7 +24,7 @@ export function Footer () {
                               <Card.Text>
                                   <br /><strong><h5>Daniela Hernández</h5></strong>
                                   <p>Gerente de Relaciones Públicas</p>
-                                  <p><a href='mailto:daniela.hernandez@hfmexico.mx' className='link text-center'>daniela.hernandez@hfmexico.mx</a></p>
+                                  <p><a href='mailto:daniela.hernandez@hfmexico.mx' className='link link-correo text-center'>daniela.hernandez@hfmexico.mx</a></p>
                                   <p>Tel: (55) 7028-3335 Ext. 804</p>
                               </Card.Text>
                           </Card.Body>

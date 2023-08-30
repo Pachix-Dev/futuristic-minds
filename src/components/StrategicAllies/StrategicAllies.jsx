@@ -2,7 +2,12 @@ import { Col, Container, Row } from "react-bootstrap";
 import '../StrategicAllies/StrategicAllies.css'
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
-import igecoLogo from '../../../public/img/igeco_color.webp'
+import leon from '../../assets/aliados/ayuntamiento-leon.webp'
+import bachillerato from '../../assets/aliados/bachillerato-bivalente.webp'
+import laSalle from '../../assets/aliados/la-salle-bajio.webp'
+import oviedo from '../../assets/aliados/oviedo.webp'
+import sapal from '../../assets/aliados/sapal.webp'
+import yluca from '../../assets/aliados/yluca.webp'
 
 export function StrategicAllies() {
 
@@ -37,25 +42,22 @@ export function StrategicAllies() {
                     autoPlaySpeed={3000}
                 >
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='Beckhoff' />
+                        <img src={leon} width={400} alt='Beckhoff' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='CKD' />
+                        <img src={bachillerato} width={400} alt='CKD' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='DYCE' />
+                        <img src={laSalle} width={400} alt='DYCE' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='EH' />
+                        <img src={oviedo} width={400} alt='EH' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='Finder' />
+                        <img src={yluca} width={400} alt='Fives' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='Fives' />
-                    </div>
-                    <div className='exibitorSlider text-center h-100'>
-                        <img src={igecoLogo} width={400} alt='cleveland' />
+                        <img src={sapal} width={400} alt='Finder' />
                     </div>
                 </Carousel>
             </div>

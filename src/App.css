@@ -19,3 +19,9 @@
     width: auto;
     height: auto;
 }
+
+p{
+    font-family: Oxanium;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}

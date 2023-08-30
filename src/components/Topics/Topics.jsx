@@ -3,7 +3,7 @@ import '../Topics/Topics.css'
 export function Topics() {
     return (
         <>
-        <Container className='my-5 py-5'>
+        <Container className='mt-5 py-5'>
             <div className='container-topics'>
                     <div className="card">
                         <div className="card-inner card-1">

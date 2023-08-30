@@ -22,7 +22,9 @@ function App() {
       <div className='background-img'>
         <Approach />
         <Topics />
-        <Conferences />
+      </div>
+      <div className='background2'>
+      <Conferences />
       </div>
       <Gallery />
       <StrategicAllies />
