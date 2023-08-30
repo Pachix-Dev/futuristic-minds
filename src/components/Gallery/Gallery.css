@@ -31,8 +31,10 @@
 }
 
 
-@media (max-width: 640px) {
+@media (max-width: 767px) {
     .lg-react-element {/*permite hacer resposnivo la galeria de imagenes*/
         column-count: 2;
     }
+
+    
 }

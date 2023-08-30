@@ -1,5 +1,5 @@
 import { Col, Container, Row } from "react-bootstrap";
-import '../StrategicAllies/StrategicAllies.css'
+import './StrategicAllies.css'
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
 import leon from '../../assets/aliados/ayuntamiento-leon.webp'
@@ -40,24 +40,25 @@ export function StrategicAllies() {
                     infinite
                     autoPlay
                     autoPlaySpeed={3000}
+                    className="container-aliados"
                 >
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={leon} width={400} alt='Beckhoff' />
+                        <img className="img-aliado" src={leon} width={400} alt='ayuntamiento-leon' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={bachillerato} width={400} alt='CKD' />
+                        <img className="img-aliado" src={bachillerato} width={400} alt='bachillerato-bivalente-talentos' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={laSalle} width={400} alt='DYCE' />
+                        <img className="img-aliado" src={laSalle} width={400} alt='universidad-la-salle-bajio' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={oviedo} width={400} alt='EH' />
+                        <img className="img-aliado" src={oviedo} width={400} alt='instituto-oviedo' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={yluca} width={400} alt='Fives' />
+                        <img className="img-aliado" src={yluca} width={400} alt='y-luca' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img src={sapal} width={400} alt='Finder' />
+                        <img className="img-aliado" src={sapal} width={400} alt='sapal' />
                     </div>
                 </Carousel>
             </div>

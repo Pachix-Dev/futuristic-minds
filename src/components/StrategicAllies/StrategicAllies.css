@@ -1,0 +1,9 @@
+@media (max-width: 767px) { 
+    .container-aliados{
+        display: flex;
+    }
+    .img-aliado{
+        width: 300px;
+        justify-content: center;
+    }
+}
