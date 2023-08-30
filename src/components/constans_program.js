@@ -22,7 +22,7 @@ const programITM = {
         avatar: '',
         rol: 'SIN TITULO',
         institution: 'NASA',
-        conference: 'SIN TITULO',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
         resume: "INFORMACIÓN POR CONFIRMAR"
       },
       {
