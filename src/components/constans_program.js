@@ -281,7 +281,7 @@ const programITM = {
         id_s2: 5,
         hour: '00:00 hrs',
         duration: '0 min',
-        name: 'Por el momento, no se han confirmado expositores para el evento',
+        name: 'Por el momento, no se han confirmado speaker para el evento',
         avatar: '',
         avatar2: '',
         rol: '',
