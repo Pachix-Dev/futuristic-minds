@@ -19,12 +19,30 @@ const speakers = [
   },
   {
     id: 3,
-    conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
+    conference: 'Estudiantes líderes: Las industrias del futuro están en tus manos.',
     name: 'Mariana Cruz',
     company: 'Schneider Electric',
     rol: 'Sales Distributors Engineer',
     avatar: '/futuristic-minds/speakers/mariana-cruz.webp',
     sketch: 'Egresada del Instituto Politécnico Nacional, en la carrera de Ingeniería en Control y Automatización con un posgrado en Administración de Negocios enfocado en Mercadotecnia, en la Universidad del Valle de Mexico.  Profesional con 10 años de experiencia en el ámbito Industrial.  Actualmente se desempeña como Sales Distribuitors Engineer en Schneider Electric Mexico, enfocada principalmente en brindar soluciones de control y automatización a usuarios finales, Integradores y OEMs.'
+  },
+  {
+    id: 4,
+    conference: 'Empower the School',
+    name: 'Leonardo Pérez',
+    company: 'Endress + Hauser Mexico',
+    rol: 'Industry Manager',
+    avatar: '/futuristic-minds/speakers/mariana-cruz.webp',
+    sketch: 'Ingeniero en Comunicaciones y Electrónica en la especialidad de Control Desarrollando conocimiento y experiencia en temas relacionados con: Protocolos de Comunicación: Foundation Fieldbus, Profibus, Modbus, HART, WirelessHART y OPC. Plataforma Rockwell: Controladores y Módulos, RSLogix5000, RSEnergyMetrix, RSFieldbus Plataforma E+H: Instrumentos y componentes, Tankvision, SupplyCare, eSight, FieldCare Clasificación y métodos de protección para áreas clasificadas.'
+  },
+  {
+    id: 5,
+    conference: 'Implicaciones del Edge computing en la Industria (HBN)',
+    name: 'Sac Nité Arzate',
+    company: 'Schneider Electric',
+    rol: 'Industry Manager',
+    avatar: '/futuristic-minds/speakers/mariana-cruz.webp',
+    sketch: 'Ingeniero en Comunicaciones y Electrónica en la especialidad de Control Desarrollando conocimiento y experiencia en temas relacionados con: Protocolos de Comunicación: Foundation Fieldbus, Profibus, Modbus, HART, WirelessHART y OPC. Plataforma Rockwell: Controladores y Módulos, RSLogix5000, RSEnergyMetrix, RSFieldbus Plataforma E+H: Instrumentos y componentes, Tankvision, SupplyCare, eSight, FieldCare Clasificación y métodos de protección para áreas clasificadas.'
   },
 ]
 export { speakers }

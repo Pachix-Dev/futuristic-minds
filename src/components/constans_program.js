@@ -68,7 +68,7 @@ const programITM = {
         duration: '45 min',
         name: 'Juan Carlos Valerio',
         avatar: '',
-        id_s2: 5,
+        id_s2: 0,
         avatar2: '',
         rol: 'Ventas de soluciones y servicios',
         institution: 'Mitsubishi',
@@ -76,17 +76,17 @@ const programITM = {
         resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
-        id: 6,
+        id: 4,
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Leonardo Pérez',
         avatar: '',
-        id_s2: 5,
+        id_s2: 0,
         avatar2: '',
         rol: 'Industry Manager',
         institution: 'Endress + Hauser México',
         conference: 'Empower the School',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'Programa para formar a los estudiantes de nivel universitario de carreras de ingenierías relacionadas a la industria de proceso enfocados en el control y la automatización'
       },
     ],
     oct_6: [
@@ -101,7 +101,7 @@ const programITM = {
         rol: 'Business Developer',
         institution: 'Schneider Electric',
         conference: 'Implicaciones del Edge computing en la Industria (HBN)',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'El Edge computing está diseñada para acercar las aplicaciones y los datos a los dispositivos y a sus usuarios. Mientras que la computación en la nube impulsó la creación de megacentros de datos, el edge computing trae el poder de la TI distribuida, repartida en un número exponencial de microcentros de datos'
       },
       {
         id: 6,
@@ -281,7 +281,7 @@ const programITM = {
         id_s2: 5,
         hour: '00:00 hrs',
         duration: '0 min',
-        name: 'Por el momento, no se han confirmado speaker para el evento',
+        name: 'Por el momento, no se han confirmado speaker para este día',
         avatar: '',
         avatar2: '',
         rol: '',
