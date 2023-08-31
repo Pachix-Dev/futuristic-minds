@@ -195,7 +195,8 @@ export function Conferences () {
                                 </Accordion>
                               : <><h2>{program.name}</h2><p>{program.rol}</p><h6>{program.conference}</h6></>}
                           </div>
-                          <div className='d-inline-flex'>
+                        </div>
+                        <div className='d-inline-flex'>
                             {
                             program.avatar === ''
                               ? ''
@@ -207,7 +208,6 @@ export function Conferences () {
                               : ''
                             }
                           </div>
-                        </div>
                       </div>
                     )
                   })}
