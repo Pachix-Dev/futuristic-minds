@@ -95,7 +95,7 @@ const programITM = {
         hour: '10:00 hrs',
         duration: '45 min',
         name: 'Sac Nité Arzate',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/sac-nite.webp',
         id_s2: 5,
         avatar2: '',
         rol: 'Business Developer',

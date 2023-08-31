@@ -40,9 +40,9 @@ const speakers = [
     conference: 'Implicaciones del Edge computing en la Industria (HBN)',
     name: 'Sac Nité Arzate',
     company: 'Schneider Electric',
-    rol: 'Industry Manager',
-    avatar: '/futuristic-minds/speakers/img-woman.webp',
-    sketch: 'Ingeniero en Comunicaciones y Electrónica en la especialidad de Control Desarrollando conocimiento y experiencia en temas relacionados con: Protocolos de Comunicación: Foundation Fieldbus, Profibus, Modbus, HART, WirelessHART y OPC. Plataforma Rockwell: Controladores y Módulos, RSLogix5000, RSEnergyMetrix, RSFieldbus Plataforma E+H: Instrumentos y componentes, Tankvision, SupplyCare, eSight, FieldCare Clasificación y métodos de protección para áreas clasificadas.'
+    rol: 'Business Developer',
+    avatar: '/futuristic-minds/speakers/sac-nite.webp',
+    sketch: 'Líder de pronóstico experimentado y analista de mercado con más de 10 años de experiencia en diversas industrias. Perfil analítico con importante enfoque en modelos matemáticos, análisis de estacionalidad, seguimiento de proyectos, comunicación y networking con plantas, marketing y áreas comerciales. Experiencia en marketing de inteligencia de negocios como asesor de confianza para áreas comerciales, medianas y pequeñas organizaciones con comprensión de casos de uso de negocios verticales y funcionales en México. Buena comprensión de los revendedores, OEM, integración de sistemas y otros socios "influyentes". Fuerte liderazgo y habilidades de colaboración entre equipos. Historial demostrable de "liderazgo de pensamiento" original y apasionado dentro de Marketing. Historial de creación exitosa de alineación con ventas e influencia en una organización matricial.'
   },
 ]
 export { speakers }
