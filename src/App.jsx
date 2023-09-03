@@ -6,7 +6,6 @@ import { Approach } from './components/Approach/Approach'
 import { Footer } from './components/Footer/Footer'
 import { StrategicAllies } from './components/StrategicAllies/StrategicAllies'
 import { Gallery } from './components/Gallery/Gallery'
-import { Topics } from './components/Topics/Topics'
 import { Conferences } from './components/Conferences/Conferences'
 
 function App() { 
@@ -21,7 +20,6 @@ function App() {
       </div>
       <div className='background-img'>
         <Approach />
-        <Topics />
       </div>
       <div className='background2'>
       <Conferences />
