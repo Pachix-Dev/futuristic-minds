@@ -14,17 +14,17 @@ const programITM = {
         conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
         resume: "¿Te imaginas tener el poder de mejorar la calidad y ficiencia de la energía en tus operaciones? Descubre cómo nuestras soluciones de vanguardia, presentados por nuestros expertos Oliver Castellanos, de Solutions Architect, y Sergio Romero, BDM de Power Quality & Energy Automation, pueden ser la convergencia perfecta entre la digitalización y la calidad de la energía para optimizar decisiones, reducir costos y mejorar la eficiencia de tus edificaciones. ¡Construyamos edificaciones inteligentes!"
       },
-      {
-        id: 2,
-        hour: '15:00 hrs',
-        duration: '45 min',
-        name: 'Alfonso Feria Kaiser',
-        avatar: '',
-        rol: 'SIN TITULO',
-        institution: 'NASA',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: "INFORMACIÓN POR CONFIRMAR"
-      },
+      // {
+      //   id: 2,
+      //   hour: '15:00 hrs',
+      //   duration: '45 min',
+      //   name: 'Alfonso Feria Kaiser',
+      //   avatar: '',
+      //   rol: 'SIN TITULO',
+      //   institution: 'NASA',
+      //   conference: 'INFORMACIÓN POR CONFIRMAR',
+      //   resume: "INFORMACIÓN POR CONFIRMAR"
+      // },
       {
         id: 3,
         hour: '16:00 hrs',
@@ -36,17 +36,17 @@ const programITM = {
         conference: 'Ellos también fueron jóvenes. La brecha generacional en la industria',
         resume: "INFORMACIÓN POR CONFIRMAR"
       },
-      {
-        id: 4,
-        hour: '17:00 hrs',
-        duration: '45 min',
-        name: 'Diego Sinhue Rodríguez Vallejo',
-        avatar: '',
-        rol: 'Gobernador del estado de Guanajuato',
-        institution: 'Gobierno del Estado de Guanajuato',
-        conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
-        resume: "INFORMACIÓN POR CONFIRMAR"
-      },
+      // {
+      //   id: 4,
+      //   hour: '17:00 hrs',
+      //   duration: '45 min',
+      //   name: 'Diego Sinhue Rodríguez Vallejo',
+      //   avatar: '',
+      //   rol: 'Gobernador del estado de Guanajuato',
+      //   institution: 'Gobierno del Estado de Guanajuato',
+      //   conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
+      //   resume: "INFORMACIÓN POR CONFIRMAR"
+      // },
     ],
     oct_5: [
       {
