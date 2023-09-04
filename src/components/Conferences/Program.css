@@ -122,6 +122,8 @@
   background: linear-gradient(to top, black, transparent);
 }
 
+.sub-title{ font-size: 18px;}
+
 @media (max-width: 767px) {
   .program-date-item {
     display: inherit;

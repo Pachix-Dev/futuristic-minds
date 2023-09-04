@@ -30,17 +30,26 @@ export function Conferences () {
               <Nav variant='tabs' defaultActiveKey='#day1'>
                 <Nav.Item>
                   <Nav.Link href='#day1' onClick={() => setPrograms(programITM.stage_1)}>
-                    <h4 className='text-light'>La Libélula</h4>
+                    <h4 className='text-light'>
+                      <strong>La Libélula</strong><br />
+                        <span className='sub-title'>Conferencias</span>
+                    </h4>
                   </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link href='#day2' onClick={() => setPrograms(programITM.stage_2)}>
-                    <h4 className='text-light'>Salón Galileo</h4>
+                    <h4 className='text-light'> 
+                      <strong>Salón Galileo</strong><br />
+                      <span className='sub-title'>Seminarios</span>
+                    </h4>
                   </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link href='#day3' onClick={() => setPrograms(programITM.stage_3)}>
-                    <h4 className='text-light'>Vigotsky</h4>
+                    <h4 className='text-light'>
+                    <strong>Vigotsky</strong><br />
+                      <span className='sub-title'>Talleres</span>
+                    </h4>
                   </Nav.Link>
                 </Nav.Item>
               </Nav>
