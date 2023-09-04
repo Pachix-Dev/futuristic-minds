@@ -46,7 +46,9 @@ h2{
     font-size: 20px;
     justify-content: center;
     border: 3px solid #ccc;
-    background-color: rgba(0, 0, 255, 0.344);
+    background-color: rgb(2, 2, 112);
+    transform: skewX(-15deg);
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.65);
 }
 
 

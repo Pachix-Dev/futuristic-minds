@@ -25,7 +25,7 @@ export function Approach(){
                 </Row>
                
             </div>
-            <div className="container-enfoque p-5">
+            <div className="container-enfoque py-5">
                 <Row className="justify-content-md-center">
                     <Col className="text-center"><h2>EJES DE ENFOQUE</h2></Col>
                 </Row>
