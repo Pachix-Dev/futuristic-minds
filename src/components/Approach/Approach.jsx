@@ -1,7 +1,7 @@
 import { Col, Row } from "react-bootstrap";
 import '../Approach/Approach.css'
-import manoBot from '../../../public/img/mano-bott.webp'
-import  niveles from '../../../public/img/niveles.webp'
+import manoBot from '../../../futuristic-minds/img/mano-bott.webp'
+import  niveles from '../../../futuristic-minds/img/niveles.webp'
 export function Approach(){
     return(
         <>
@@ -31,25 +31,25 @@ export function Approach(){
                 </Row>
                 <Row className="justify-content-md-center mx-2">
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-100" src="public/img/icono-03.png" alt="" />
+                        <img className="w-100" src="/futuristic-minds/img/icono-03.png" alt="" />
                         <p className="enfoque-text p-3">ELECTROMOVILIDAD</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-100" src="public/img/sustentable.webp" alt="" />
+                        <img className="w-100" src="/futuristic-minds/img/sustentable.webp" alt="" />
                         <p className="enfoque-text p-3"> SUSTENTABILIDAD</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-100" src="public/img/industria.webp" alt="" />
+                        <img className="w-100" src="/futuristic-minds/img/industria.webp" alt="" />
                         <p className="enfoque-text p-3">INDUSTRIA 4.0</p>
                     </Col>
                 </Row>
                 <Row className="justify-content-md-center mx-2">
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-100" src="public/img/machine.webp" alt="" />
+                        <img className="w-100" src="/futuristic-minds/img/machine.webp" alt="" />
                         <p className="enfoque-text p-3"> AI & MACHINE LEARNING</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-100" src="public/img/economia.webp" alt="" />
+                        <img className="w-100" src="/futuristic-minds/img/economia.webp" alt="" />
                         <p className="enfoque-text p-3">ECONOMIA CIRCULAR</p>
                     </Col>
                 </Row>
