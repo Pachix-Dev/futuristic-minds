@@ -66,5 +66,7 @@ h2{
     .img-mano{width: 300px;}
     .img-mano{order: 1;}
     .img-niveles{order: 2;}
+    
+    .enfoque-text{ margin: 0px 20px;}
   }
 
