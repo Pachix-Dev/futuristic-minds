@@ -1,7 +1,7 @@
 import { Col, Row } from "react-bootstrap";
 import '../Approach/Approach.css'
-import manoBot from '../../../futuristic-minds/img/mano-bott.webp'
-import  niveles from '../../../futuristic-minds/img/niveles.webp'
+// import manoBot from '../../../futuristic-minds/img/mano-bott.webp'
+// import  niveles from '../../../futuristic-minds/img/niveles.webp'
 export function Approach(){
     return(
         <>
@@ -19,9 +19,9 @@ export function Approach(){
                             </div>
                     </Col>
                     <Col lg={6} className="img-niveles p-0">
-                        <img className="img-niveles w-100" src={niveles} alt="niveles-educativos-futuristics-minds"/>
+                        <img className="img-niveles w-100" src='/futuristic-minds/img/niveles.webp' alt="niveles-educativos-futuristics-minds"/>
                     </Col>
-                    <img className="img-mano px-0 py-1" src={manoBot} alt="futuristics-minds" />
+                    <img className="img-mano px-0 py-1" src='/futuristic-minds/img/mano-bott.webp' alt="futuristics-minds-mano-bot" />
                 </Row>
                
             </div>
