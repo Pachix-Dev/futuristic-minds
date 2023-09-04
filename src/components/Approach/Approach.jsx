@@ -29,16 +29,29 @@ export function Approach(){
                 <Row className="justify-content-md-center">
                     <Col className="text-center"><h2>EJES DE ENFOQUE</h2></Col>
                 </Row>
-                <Row className="mx-2">
-                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">ELECTROMOVILIDAD</Col>
-                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">SUSTENTABILIDAD</Col>
-                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">INDUSTRIA 4.0</Col>
+                <Row className="justify-content-md-center mx-2">
+                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
+                        <img className="w-100" src="public/img/icono-03.png" alt="" />
+                        <p className="enfoque-text p-3">ELECTROMOVILIDAD</p>
+                    </Col>
+                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
+                        <img className="w-100" src="public/img/sustentable.webp" alt="" />
+                        <p className="enfoque-text p-3"> SUSTENTABILIDAD</p>
+                    </Col>
+                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
+                        <img className="w-100" src="public/img/industria.webp" alt="" />
+                        <p className="enfoque-text p-3">INDUSTRIA 4.0</p>
+                    </Col>
                 </Row>
-                <Row className="mx-2">
-                    <Col xs={0} md={0} lg={2} className=""></Col>
-                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">AI & MACHINE LEARNING</Col>
-                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">ECONOMIA CIRCULAR</Col>
-                    <Col xs={0} md={0} lg={2} className=""></Col>
+                <Row className="justify-content-md-center mx-2">
+                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
+                        <img className="w-100" src="public/img/machine.webp" alt="" />
+                        <p className="enfoque-text p-3"> AI & MACHINE LEARNING</p>
+                    </Col>
+                    <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
+                        <img className="w-100" src="public/img/economia.webp" alt="" />
+                        <p className="enfoque-text p-3">ECONOMIA CIRCULAR</p>
+                    </Col>
                 </Row>
             </div>
         </>

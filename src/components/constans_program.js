@@ -14,17 +14,17 @@ const programITM = {
         conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
         resume: "¿Te imaginas tener el poder de mejorar la calidad y eficiencia de la energía en tus operaciones? Descubre cómo nuestras soluciones de vanguardia, presentados por nuestros expertos Oliver Castellanos, de Solutions Architect, y Sergio Romero, BDM de Power Quality & Energy Automation, pueden ser la convergencia perfecta entre la digitalización y la calidad de la energía para optimizar decisiones, reducir costos y mejorar la eficiencia de tus edificaciones. ¡Construyamos edificaciones inteligentes!"
       },
-      // {
-      //   id: 2,
-      //   hour: '15:00 hrs',
-      //   duration: '45 min',
-      //   name: 'Alfonso Feria Kaiser',
-      //   avatar: '',
-      //   rol: 'SIN TITULO',
-      //   institution: 'NASA',
-      //   conference: 'INFORMACIÓN POR CONFIRMAR',
-      //   resume: "INFORMACIÓN POR CONFIRMAR"
-      // },
+      {
+        id: 2,
+        hour: '15:00 hrs',
+        duration: '45 min',
+        name: 'Alfonso Feria Kaiser',
+        avatar: '/futuristic-minds/speakers/alfonso-feria.webp',
+        rol: 'Ingeniero de Sistemas',
+        institution: 'Jet Propulsion Laboratory',
+        conference: 'La Exploración Robótica del Universo',
+        resume: "Compartirá una sinopsis sobre su educación, carrera, logros profesionales, y experiencias de trabajo, así como el camino que siguió para obtener un trabajo en el Laboratorio de Propulsión a Chorro (Jet Propulsion Laboratory, JPL) de la NASA. También explicará las funciones y características de la Red del Espacio Profundo (DSN) de JPL y detallará sobre algunas de las misiones robóticas de JPL, pasadas, presentes y futuras. El objetivo de esta plática es servir como inspiración para que estudiantes se animen a terminar sus estudios y den un paso más allá, fuera de su zona de confort."
+      },
       {
         id: 3,
         hour: '16:00 hrs',

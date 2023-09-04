@@ -44,5 +44,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/sac-nite.webp',
     sketch: 'Líder de pronóstico experimentado y analista de mercado con más de 10 años de experiencia en diversas industrias. Perfil analítico con importante enfoque en modelos matemáticos, análisis de estacionalidad, seguimiento de proyectos, comunicación y networking con plantas, marketing y áreas comerciales. Experiencia en marketing de inteligencia de negocios como asesor de confianza para áreas comerciales, medianas y pequeñas organizaciones con comprensión de casos de uso de negocios verticales y funcionales en México. Buena comprensión de los revendedores, OEM, integración de sistemas y otros socios "influyentes". Fuerte liderazgo y habilidades de colaboración entre equipos. Historial demostrable de "liderazgo de pensamiento" original y apasionado dentro de Marketing. Historial de creación exitosa de alineación con ventas e influencia en una organización matricial.'
   },
+  {
+    id: 6,
+    conference: 'La Exploración Robótica del Universo',
+    name: 'Alfonso Feria Kaiser',
+    company: 'Jet Propulsion Laboratory',
+    rol: 'Ingeniero de Sistemas',
+    avatar: '/futuristic-minds/speakers/alfonso-feria.webp',
+    sketch: 'El doctor Alfonso Feria Kaiser obtuvo su licenciatura y maestría en Ingeniería Mecánica de la UNAM y un doctorado en la Universidad de Wisconsin. Ha trabajado en JPL desde 1992, en donde comenzó haciendo diseño y análisis estructural de antenas de comunicaciones, y diseño y desarrollo de estructuras inflables. Fue supervisor del Grupo de Ingeniería Mecánica y Estructural de Antenas, líder del equipo de análisis estructural de la misión de interferometría espacial y analista de la fuente de rayos X de CheMin, un instrumento en el Rover Opportunity. Alfonso trabajó como jefe de ingeniería del equipo mecánico para el ensamblado de naves espaciales y fue ingeniero del MIRI Crycooler, que es parte del JWST. Últimamente, trabajó en el Complejo de Comunicaciones del Espacio Profundo de Madrid durante la instalación de dos nuevas estaciones de seguimiento. Actualmente, es Ingeniero de sistemas de la Red del Espacio Profundo.'
+  },
 ]
 export { speakers }
