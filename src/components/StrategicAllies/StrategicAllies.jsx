@@ -9,7 +9,7 @@ import oviedo from '../../assets/aliados/oviedo.webp'
 import sapal from '../../assets/aliados/sapal.webp'
 import yluca from '../../assets/aliados/yluca.webp'
 import endress from '../../assets/aliados/EH.webp'
-import ikusi from '../../assets/aliados/ikusi.webp'
+import ikusi from '../../assets/aliados/ikusi-logo.webp'
 import mitsubishi from '../../assets/aliados/mitsubishi.webp'
 import siemens from '../../assets/aliados/siemens.webp'
 import nokia from '../../assets/aliados/nokia.webp'
@@ -70,28 +70,28 @@ export function StrategicAllies() {
                         <img className="img-aliado" src={sapal} width={280} alt='sapal' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={endress} width={280} alt='sapal' />
+                        <img className="img-aliado" src={endress} width={280} alt='endress' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={ikusi} width={280} alt='sapal' />
+                        <img className="img-aliado" src={ikusi} width={280} alt='ikusi' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={mitsubishi} width={280} alt='sapal' />
+                        <img className="img-aliado" src={mitsubishi} width={280} alt='mitsubishi' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={siemens} width={280} alt='sapal' />
+                        <img className="img-aliado" src={siemens} width={280} alt='siemens' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={nokia} width={280} alt='sapal' />
+                        <img className="img-aliado" src={nokia} width={280} alt='nokia' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={logoSchneider} width={280} alt='sapal' />
+                        <img className="img-aliado" src={logoSchneider} width={280} alt='logoSchneider' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={ciscopartner} width={280} alt='sapal' />
+                        <img className="img-aliado" src={ciscopartner} width={280} alt='ciscopartner' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={ibero} width={280} alt='sapal' />
+                        <img className="img-aliado" src={ibero} width={280} alt='ibero' />
                     </div>
                 </Carousel>
             </div>
