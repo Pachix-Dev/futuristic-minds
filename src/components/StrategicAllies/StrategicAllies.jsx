@@ -8,12 +8,21 @@ import laSalle from '../../assets/aliados/la-salle-bajio.webp'
 import oviedo from '../../assets/aliados/oviedo.webp'
 import sapal from '../../assets/aliados/sapal.webp'
 import yluca from '../../assets/aliados/yluca.webp'
+import endress from '../../assets/aliados/EH.webp'
+import ikusi from '../../assets/aliados/ikusi.webp'
+import mitsubishi from '../../assets/aliados/mitsubishi.webp'
+import siemens from '../../assets/aliados/siemens.webp'
+import nokia from '../../assets/aliados/nokia.webp'
+import logoSchneider from '../../assets/aliados/logoSchneider.webp'
+import ciscopartner from '../../assets/aliados/ciscopartner.webp'
+import ibero from '../../assets/aliados/ibero.webp'
+
 
 export function StrategicAllies() {
 
     const responsive = {
         desktop: {
-            breakpoint: { max: 3000, min: 1024 },
+            breakpoint: { max: 2800, min: 1024 },
             items: 3
         },
         tablet: {
@@ -39,26 +48,50 @@ export function StrategicAllies() {
                     arrows
                     infinite
                     autoPlay
-                    autoPlaySpeed={3000}
+                    autoPlaySpeed={2800}
                     className="container-aliados"
                 >
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={leon} width={400} alt='ayuntamiento-leon' />
+                        <img className="img-aliado" src={leon} width={280} alt='ayuntamiento-leon' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={bachillerato} width={400} alt='bachillerato-bivalente-talentos' />
+                        <img className="img-aliado" src={bachillerato} width={280} alt='bachillerato-bivalente-talentos' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={laSalle} width={400} alt='universidad-la-salle-bajio' />
+                        <img className="img-aliado" src={laSalle} width={280} alt='universidad-la-salle-bajio' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={oviedo} width={400} alt='instituto-oviedo' />
+                        <img className="img-aliado" src={oviedo} width={280} alt='instituto-oviedo' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={yluca} width={400} alt='y-luca' />
+                        <img className="img-aliado" src={yluca} width={280} alt='y-luca' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={sapal} width={400} alt='sapal' />
+                        <img className="img-aliado" src={sapal} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={endress} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={ikusi} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={mitsubishi} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={siemens} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={nokia} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={logoSchneider} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={ciscopartner} width={280} alt='sapal' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={ibero} width={280} alt='sapal' />
                     </div>
                 </Carousel>
             </div>
