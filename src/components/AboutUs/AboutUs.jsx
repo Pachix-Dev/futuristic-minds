@@ -10,7 +10,7 @@ export function AboutUs(){
             <Row className="justify-content-md-center">
                 <Col sm={6} md={4} lg={4} className="text-center px-5">
                     <img src={icono01} alt="idea-futuristic" className="py-4" />
-                    <p>¿Eres estudiante y te interesan temas de ciencia y tecnológica?</p>
+                    <p>¿Eres estudiante y te interesan temas de ciencia y tecnología?</p>
                 </Col>
                 <Col sm={6} md={4} lg={4} className="text-center px-5">
                     <img src={icono02} alt="idea-futuristic" className="py-4" />
