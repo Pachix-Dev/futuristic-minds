@@ -290,8 +290,8 @@ const programITM = {
         logo:'/futuristic-minds/img/slider/edu_gto.webp',
         rol: '',
         institution: '',
-        conference: '',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
       {
         id: 5,
@@ -299,7 +299,7 @@ const programITM = {
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Manuel Sánchez Tello',
-        avatar: '/futuristic-minds/img/slider/sapal.webp',
+        avatar: '/futuristic-minds/img/slider/oviedo.webp',
         avatar2: '',
         rol: 'Consejero Delegado',
         institution: 'INSTITUTO OVIEDO',
@@ -355,8 +355,8 @@ const programITM = {
         logo:'/futuristic-minds/img/slider/edu_gto.webp',
         rol: '',
         institution: '',
-        conference: '',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
     ],
     oct_5: [
