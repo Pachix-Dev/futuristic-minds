@@ -166,6 +166,11 @@ export function Conferences () {
                               ? <img onClick={() => handleModal(program?.id_s2)} src={program.avatar2} width={100} height={100} className='rounded-circle ms-4 program-date-avatar' alt='speaker' />
                               : ''
                             }
+                            {
+                            program?.logo
+                              ? <img src={program.logo} width={100} height={100} className='w-100 ms-2 program-date-avatar' alt='speaker' />
+                              : ''
+                            }
                           </div>
                       </div>
                     )

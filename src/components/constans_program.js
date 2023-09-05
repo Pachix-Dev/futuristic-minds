@@ -11,7 +11,7 @@ const programITM = {
         logo:'/futuristic-minds/img/slider/ciscopartner.webp',
         rol: '',
         institution: '',
-        conference: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
         resume: ''
       },
       {
@@ -37,8 +37,8 @@ const programITM = {
         logo:'/futuristic-minds/img/slider/nokia.webp',
         rol: '',
         institution: '',
-        conference: '',
-        resume: ""
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
       {
         id: '',
@@ -50,8 +50,8 @@ const programITM = {
         logo: '/futuristic-minds/img/slider/siemens.webp',
         rol: '',
         institution: '',
-        conference: '',
-        resume: ""
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
       {
         id: 6,
@@ -90,12 +90,25 @@ const programITM = {
     ],
     oct_5: [
       {
+        id: 0,
+        id_s2: 0,
+        hour: '09:00 hrs',
+        duration: '45 min',
+        name: 'Ikesi',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/ikusi-logo.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
         id: 3,
+        id_s2: 0,
         hour: '10:00 hrs',
         duration: '45 min',
         name: 'Mariana Cruz',
         avatar: '/futuristic-minds/speakers/mariana-cruz.webp',
-        id_s2: 0,
         avatar2: '',
         rol: 'Sales Distributors Engineer',
         institution: 'Schneider Electric',
@@ -108,7 +121,7 @@ const programITM = {
         duration: '45 min',
         name: 'Juan Carlos Valerio',
         avatar: '',
-        logo:'',
+        logo:'/futuristic-minds/img/slider/mitsubishi.webp',
         id_s2: 0,
         avatar2: '',
         rol: 'Ventas de soluciones y servicios',
@@ -117,17 +130,70 @@ const programITM = {
         resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
+        id: 0,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Siemens',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/siemens.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
         id: 4,
+        id_s2: 0,
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Leonardo Pérez',
         avatar: '',
-        id_s2: 0,
+        logo:'/futuristic-minds/img/slider/siemens.webp',
         avatar2: '',
         rol: 'Industry Manager',
         institution: 'Endress + Hauser México',
         conference: 'Empower the School',
         resume: 'Programa para formar a los estudiantes de nivel universitario de carreras de ingenierías relacionadas a la industria de proceso enfocados en el control y la automatización'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '14:00 hrs',
+        duration: '45 min',
+        name: 'Secretaría de Educación de Guanajuato',
+        avatar: '',
+        logo:'',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '15:00 hrs',
+        duration: '45 min',
+        name: 'Secretaría de Educación de Guanajuato',
+        avatar: '',
+        logo:'',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
+        id: '',
+        id_s2: '',
+        hour: '15:00 hrs',
+        duration: '45 min',
+        name: 'Nokia',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/nokia.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
     ],
     oct_6: [
