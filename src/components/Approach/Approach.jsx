@@ -35,7 +35,7 @@ export function Approach(){
                         <p className="enfoque-text p-3">ELECTROMOVILIDAD</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-50" src="/futuristic-mindss/img/sustentable.webp" alt="futuristic-minds-sutentabilidad" />
+                        <img className="w-50" src="/futuristic-minds/img/sustentable.webp" alt="futuristic-minds-sutentabilidad" />
                         <p className="enfoque-text p-3"> SUSTENTABILIDAD</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
