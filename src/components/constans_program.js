@@ -294,8 +294,8 @@ const programITM = {
         resume: ''
       },
       {
-        id: 5,
-        id_s2: 5,
+        id: 0,
+        id_s2: 0,
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Manuel Sánchez Tello',
