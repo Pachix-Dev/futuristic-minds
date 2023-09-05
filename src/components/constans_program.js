@@ -300,7 +300,7 @@ const programITM = {
         duration: '45 min',
         name: 'Manuel Sánchez Tello',
         avatar: '',
-        logo:'/futuristic-minds/img/slider/oviedo.webp',
+        logo:'/futuristic-minds/img/slider/sh_oviedo.webp',
         avatar2: '',
         rol: 'Consejero Delegado',
         institution: 'INSTITUTO OVIEDO',
