@@ -149,7 +149,7 @@ const programITM = {
         duration: '45 min',
         name: 'Leonardo Pérez',
         avatar: '',
-        logo:'/futuristic-minds/img/slider/siemens.webp',
+        logo:'/futuristic-minds/img/slider/EH.webp',
         avatar2: '',
         rol: 'Industry Manager',
         institution: 'Endress + Hauser México',
