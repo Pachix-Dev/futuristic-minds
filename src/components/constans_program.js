@@ -2,6 +2,18 @@ const programITM = {
   stage_1: {
     oct_4: [
       {
+        id: '',
+        id_s2: '',
+        hour: '09:00 hrs',
+        duration: '45 min',
+        name: 'Cisco',
+        avatar: '/futuristic-minds/src/assets/aliados/ciscopartner.webp',
+        rol: '',
+        institution: '',
+        conference: '',
+        resume: ""
+      },
+      {
         id: 1,
         id_s2: 2,
         hour: '10:00 hrs',
@@ -13,6 +25,30 @@ const programITM = {
         institution: 'Schneider Electric',
         conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
         resume: "¿Te imaginas tener el poder de mejorar la calidad y eficiencia de la energía en tus operaciones? Descubre cómo nuestras soluciones de vanguardia, presentados por nuestros expertos Oliver Castellanos, de Solutions Architect, y Sergio Romero, BDM de Power Quality & Energy Automation, pueden ser la convergencia perfecta entre la digitalización y la calidad de la energía para optimizar decisiones, reducir costos y mejorar la eficiencia de tus edificaciones. ¡Construyamos edificaciones inteligentes!"
+      },
+      {
+        id: '',
+        id_s2: '',
+        hour: '11:00 hrs',
+        duration: '45 min',
+        name: 'Nokia',
+        avatar: '/futuristic-minds/src/assets/aliados/nokia.webp',
+        rol: '',
+        institution: '',
+        conference: '',
+        resume: ""
+      },
+      {
+        id: '',
+        id_s2: '',
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Siemens',
+        avatar: '/futuristic-minds/src/assets/aliados/Siemens.webp',
+        rol: '',
+        institution: '',
+        conference: '',
+        resume: ""
       },
       {
         id: 6,
