@@ -106,6 +106,11 @@ export function Conferences () {
                               ? <img onClick={() => handleModal(program?.id_s2)} src={program.avatar2} width={100} height={100} className='rounded-circle ms-2 program-date-avatar' alt='speaker' />
                               : ''
                             }
+                            {
+                            program?.logo
+                              ? <img src={program.logo} width={100} height={100} className='w-100 ms-2 program-date-avatar' alt='speaker' />
+                              : ''
+                            }
                         </div>
                       </div>
                     )
@@ -178,7 +183,7 @@ export function Conferences () {
                   {programs?.oct_6.map((program, index) => {
                     return (
                       <div key={index} className='program-date-item  align-items-center'>
-                       <div style={{ width: '100px' }}>
+                      <div style={{ width: '100px' }}>
                           <p style={{ width: '100px' }}>
                             <strong>{program.hour}</strong><br />
                             <svg width={20} xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' strokeWidth={1.5} stroke='currentColor'>
