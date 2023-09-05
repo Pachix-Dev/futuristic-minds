@@ -68,7 +68,7 @@ const speakers = [
     name: 'Manuel Sánchez Tello',
     company: 'Instituto Oviedo',
     rol: 'Consejero Delegado',
-    avatar: '/futuristic-mindss/speakers/manuel-sanchez.webp',
+    avatar: '/futuristic-minds/speakers/manuel-sanchez.webp',
     sketch: 'Consejero Delegado del Instituto Oviedo. Tiene 25 años de trayectoria en el sector educativo, titular del curso Energías Renovables en la Universidad Iberoamericana León y 14 años de experiencia en el sector energético y de sustentabilidad. Además, es Director General de la empresa Soluciones Ecoeficientes SA de CV.'
   },
 ]

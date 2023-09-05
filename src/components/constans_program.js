@@ -299,7 +299,7 @@ const programITM = {
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Manuel Sánchez Tello',
-        avatar: '/speakers/manuel-sanchez.webp',
+        avatar: '/futuristic-minds/speakers/manuel-sanchez.webp',
         logo:'',
         avatar2: '',
         rol: 'Consejero Delegado',
