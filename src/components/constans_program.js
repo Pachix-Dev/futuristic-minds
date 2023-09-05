@@ -294,18 +294,18 @@ const programITM = {
         resume: ''
       },
       {
-        id: 0,
+        id: 8,
         id_s2: 0,
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Manuel Sánchez Tello',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/sh_oviedo.webp',
+        avatar: '/speakers/manuel-sanchez.webp',
+        logo:'',
         avatar2: '',
         rol: 'Consejero Delegado',
         institution: 'INSTITUTO OVIEDO',
         conference: 'Aprendizajes y retos sobre la electromovilidad en México',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'El objetivo es conocer, mediante la experiencia, las ventajas de los vehículos eléctricos y su tecnología asociada.'
       },
       // {
       //   id: 5,

@@ -62,5 +62,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/amalia-anguiano.webp',
     sketch: 'Egresada de la licenciatura de Comunicación, con especialidad en Relaciones Públicas, por la Universidad de León. Desde el 2002 forma parte del Sapal. En 2015 tiene a su cargo el área de Cultura del Agua, siendo promotora de comunicación de este tema y es parte de los Espacios de Cultura del Agua (ECAS) a nivel estado. Es el enlace del Sapal con las dependencias municipales en materia educativa. En abril de este año recibió el reconocimiento Internacional por la participación en la Promoción del Cuidado del Agua, por parte del Centro de Evaluación del Instituto de Mejores Gobernantes, la Red de gobierno y la Organización Mundial de Ciudades Sostenibles; en julio de este mismo año recibió el Certificado de Competencias Laboral por la promoción de cultura del agua,  por parte de la Secretaría de Desarrollo Económico Sustentable del Gobierno del Estado de Guanajuato.'
   },
+  {
+    id: 8,
+    conference: 'Aprendizajes y retos sobre la electromovilidad en México',
+    name: 'Manuel Sánchez Tello',
+    company: 'Instituto Oviedo',
+    rol: 'Consejero Delegado',
+    avatar: '/futuristic-mindss/speakers/manuel-sanchez.webp',
+    sketch: 'Consejero Delegado del Instituto Oviedo. Tiene 25 años de trayectoria en el sector educativo, titular del curso Energías Renovables en la Universidad Iberoamericana León y 14 años de experiencia en el sector energético y de sustentabilidad. Además, es Director General de la empresa Soluciones Ecoeficientes SA de CV.'
+  },
 ]
 export { speakers }
