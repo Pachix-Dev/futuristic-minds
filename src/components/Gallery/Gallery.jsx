@@ -24,8 +24,8 @@ const totalImages = 29; // Cambia esto según el número total de imágenes
   for (let i = startIndex + 1; i <= startIndex + imagesPerGroup; i++) {
     if (i <= totalImages) {
       images.push({
-        src: `/futuristic-minds/img/gallery/futuristic_${i}.webp`,
-        thumb: `/futuristic-minds/img/gallery/futuristic_${i}.webp`,
+        src: `/img/gallery/futuristic_${i}.webp`,
+        thumb: `/img/gallery/futuristic_${i}.webp`,
       });
     }
   }

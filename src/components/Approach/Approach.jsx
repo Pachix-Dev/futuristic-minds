@@ -19,9 +19,9 @@ export function Approach(){
                             </div>
                     </Col>
                     <Col lg={6} className="img-niveles p-0">
-                        <img className="img-niveles w-100" src='/futuristic-minds/img/niveles.webp' alt="niveles-educativos-futuristics-minds"/>
+                        <img className="img-niveles w-100" src='/img/niveles.webp' alt="niveles-educativos-futuristics-minds"/>
                     </Col>
-                    <img className="img-mano px-0 py-1" src='/futuristic-minds/img/mano-bott.webp' alt="futuristics-minds-mano-bot" />
+                    <img className="img-mano px-0 py-1" src='/img/mano-bott.webp' alt="futuristics-minds-mano-bot" />
                 </Row>
                
             </div>
@@ -31,25 +31,25 @@ export function Approach(){
                 </Row>
                 <Row className="justify-content-md-center mx-2">
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-50" src="/futuristic-minds/img/electro.webp" alt="futuristic-minds-electro-movilidad" />
+                        <img className="w-50" src="/img/electro.webp" alt="futuristic-minds-electro-movilidad" />
                         <p className="enfoque-text p-3">ELECTROMOVILIDAD</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-50" src="/futuristic-minds/img/sustentable.webp" alt="futuristic-minds-sutentabilidad" />
+                        <img className="w-50" src="/img/sustentable.webp" alt="futuristic-minds-sutentabilidad" />
                         <p className="enfoque-text p-3"> SUSTENTABILIDAD</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-50" src="/futuristic-minds/img/industria.webp" alt="futuristic-minds-industria-4.0" />
+                        <img className="w-50" src="/img/industria.webp" alt="futuristic-minds-industria-4.0" />
                         <p className="enfoque-text p-3">INDUSTRIA 4.0</p>
                     </Col>
                 </Row>
                 <Row className="justify-content-md-center mx-2">
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-50" src="/futuristic-minds/img/machine.webp" alt="futuristic-minds-ai-machine-learning" />
+                        <img className="w-50" src="/img/machine.webp" alt="futuristic-minds-ai-machine-learning" />
                         <p className="enfoque-text p-3"> AI & MACHINE LEARNING</p>
                     </Col>
                     <Col xs={12} md={6} lg={3} className="py-3 text-center item-enfoque">
-                        <img className="w-50" src="/futuristic-minds/img/economia.webp" alt="futuristic-minds-economia-circular" />
+                        <img className="w-50" src="/img/economia.webp" alt="futuristic-minds-economia-circular" />
                         <p className="enfoque-text p-3">ECONOMIA CIRCULAR</p>
                     </Col>
                 </Row>

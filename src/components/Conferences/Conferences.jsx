@@ -108,7 +108,7 @@ export function Conferences () {
                             }
                             {
                             program?.logo
-                              ? <img src={program.logo} width={100} height={100} className='w-100 ms-2 program-date-avatar' alt='speaker' />
+                              ? <img src={program.logo} width={100} height={100} className='h-100 program-date-avatar img-logo' alt='speaker' />
                               : ''
                             }
                         </div>
@@ -168,7 +168,7 @@ export function Conferences () {
                             }
                             {
                             program?.logo
-                              ? <img src={program.logo} width={100} height={100} className='w-100 ms-2 program-date-avatar' alt='speaker' />
+                              ? <img src={program.logo} width={100} height={100} className='h-100 ms-2 program-date-avatar img-logo' alt='speaker' />
                               : ''
                             }
                           </div>
