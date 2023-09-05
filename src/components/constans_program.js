@@ -198,6 +198,19 @@ const programITM = {
     ],
     oct_6: [
       {
+        id: 0,
+        id_s2: 0,
+        hour: '09:00 hrs',
+        duration: '45 min',
+        name: 'Cisco',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/ciscopartner.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
         id: 5,
         hour: '10:00 hrs',
         duration: '45 min',
@@ -222,6 +235,32 @@ const programITM = {
         institution: 'Mitsubishi',
         conference: 'México necesita emprendedores',
         resume: 'INFORMACIÓN POR CONFIRMAR'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Siemens',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/siemens.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '13:00 hrs',
+        duration: '45 min',
+        name: 'Secretaría de Educación de Guanajuato',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
     ]
   },
