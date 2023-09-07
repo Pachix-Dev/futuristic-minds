@@ -71,5 +71,23 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/manuel-sanchez.webp',
     sketch: 'Consejero Delegado del Instituto Oviedo. Tiene 25 años de trayectoria en el sector educativo, titular del curso Energías Renovables en la Universidad Iberoamericana León y 14 años de experiencia en el sector energético y de sustentabilidad. Además, es Director General de la empresa Soluciones Ecoeficientes SA de CV.'
   },
+  {
+    id: 9,
+    conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
+    name: 'Ramón Ayala Álvarez',
+    company: 'Escuela de Talentos Guanajuato Azteca',
+    rol: 'Profesor de Innovación y Emprendimiento',
+    avatar: '/futuristic-minds/speakers/ramon-ayala.webp',
+    sketch: 'Ramón es apasionado de diseñar futuros mejores para las personas y el planeta. Estudió Negocios en el Tecnológico de Monterrey y es maestrando en Estudios para el Desarrollo por la Universidad de Guanajuato. Ha creado negocios en varios sectores, aunque se especializa en los servicios de consultoría; a través de estos, ha colaborado en iniciativas de Desarrollo Económico Sostenible en conjunto con gobiernos, universidades, empresas y organizaciones internacionales, como las Naciones Unidas. Ha capacitado a personas en México y otros 16 países de manera virtual. Actualmente, trabaja en 4 proyectos: Su familia, su investigación de maestría en relación con el desarrollo y la crítica al emprendimiento social, su Estudio de Innovación y Cambio, donde realiza proyectos de consultoría y capacitación en prospectiva estratégica, su rol como Profesor en temas de Innovación y Finanzas en la Escuela de Talentos Guanajuato - Azteca.'
+  },
+  {
+    id: 10,
+    conference: 'Inteligencia artificial, desde la diversión hasta la aplicación',
+    name: 'Ylutiere Reyes Campos',
+    company: 'YLUCA, Capacitación y Consultoría en empresa 4.0',
+    rol: 'Investigador ',
+    avatar: '/futuristic-minds/speakers/ylutiere-reyes.webp',
+    sketch: 'Lleva más de 17 años siendo profesora de ingeniería y posgrado, su pasión es desarrollar proyectos que ayuden a resolver problemas de la industria, desde el escenario, de ciencia, tecnología y emprendimiento.Ha realizado proyectos donde se aplica la inteligencia artificial para detectar errores o defectos, en la clasificación de residuos inorgánicos de la basura y en la medición de piezas metálicas pequeñas. Actualmente, tiene una empresa con más de 5 años, la cual apoya a empresarias por medio de capacitaciones, herramientas digitales, optimización de sus procesos e insertando la inteligencia artificial.'
+  },
 ]
 export { speakers }

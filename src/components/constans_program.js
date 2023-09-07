@@ -362,34 +362,60 @@ const programITM = {
     ],
     oct_5: [
       {
-        id: 5,
-        id_s2: 5,
-        hour: '13:00 hrs',
+        id: 7,
+        id_s2: 0,
+        hour: '09:00 hrs',
         duration: '45 min',
-        name: 'Elizabeth Mena Avilés ',
-        avatar: '',
-        avatar2: '',
-        rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
-        institution: 'TBC Tecnológico de Monterrey ',
-        conference: 'Herramientas que contribuyen a la Logística Inteligente',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        name: 'Amalia Anguiano',
+        avatar: '/futuristic-minds/speakers/amalia-anguiano.webp',
+        logo:'',
+        rol: 'Encargada de cultura del Agua',
+        institution: 'SAPAL',
+        conference: 'Cultura del agua y Día Cero',
+        resume: 'Analizaremos lo importante del agua en nuestra vida diaria, la situación que vivimos en nuestro municipio, así como trabajos y estrategias que el SAPAL realiza para poder abastecer a la ciudad en constante crecimiento. Se brindarán consejos para que los participantes puedan implementar acciones para su correcto uso y aprovechamiento.'
       },
       {
-        id: 5,
-        id_s2: 5,
+        id: 0,
+        id_s2: 0,
+        hour: '10:00 hrs',
+        duration: '45 min',
+        name: 'TBC SEG',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
+        id: 9,
+        id_s2: 0,
         hour: '15:00 hrs',
         duration: '45 min',
         name: 'Ramón Ayala Álvarez',
-        avatar: '',
+        avatar: '/speakers/ramon-ayala.webp',
         avatar2: '',
         rol: 'Profesor de Innovación y Emprendimiento',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'La Economía Circular es un concepto y un enfoque económico que se basa en la idea de minimizar el desperdicio de recursos, reducir la contaminación y maximizar la eficiencia al gestionar los productos, materiales y recursos a lo largo de su ciclo de vida. A diferencia del modelo económico tradicional, que se centra en la producción, uso y eliminación lineal de productos (llamado modelo económico lineal), la Economía Circular propone un enfoque más sostenible y regenerativo. Sin embargo, bastante se ha discutido acerca de la insuficiencia de esta alternativa como solución a los problemas que precisamente busca resolver. Discutiremos algunas de sus limitantes y posibilidades.'
       },
   
     ],
     oct_6: [
+      {
+        id: 10,
+        id_s2: 0,
+        hour: '09:00 hrs',
+        duration: '45 min',
+        name: 'Ylutiere Reyes Campos',
+        avatar: '/futuristic-minds/speakers/ylutiere-reyes.webp',
+        avatar2: '',
+        rol: 'Investigador',
+        institution: 'YLUCA, Capacitación y Consultoría en empresa 4.0',
+        conference: 'Inteligencia artificial, desde la diversión hasta la aplicación',
+        resume: 'La inteligencia artificial ayuda a divertir a chicos y grandes: con los asistentes de voz inteligentes (Alexa), juegos y entretenimiento impulsados por la IA, sistemas de recomendación en plataformas streaming, chat bots de entretenimiento y editores de texto e imágenes. Seguramente tú ya los conoces, pero… ¿estos desarrollos sólo sirven para divertirte? Ven, acompáñame a descubrir, cómo algo tan divertido, también sirve en la industria y es capaz de crear diferentes productos. Te sorprenderás de la versatilidad de la inteligencia artificial.'
+      },
       {
         id: 5,
         id_s2: 5,
