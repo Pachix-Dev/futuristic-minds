@@ -393,7 +393,7 @@ const programITM = {
         hour: '15:00 hrs',
         duration: '45 min',
         name: 'Ramón Ayala Álvarez',
-        avatar: '/speakers/ramon-ayala.webp',
+        avatar: '/futuristic-minds/speakers/ramon-ayala.webp',
         avatar2: '',
         rol: 'Profesor de Innovación y Emprendimiento',
         institution: 'Escuela de Talentos Guanajuato Azteca',
