@@ -321,17 +321,17 @@ const programITM = {
       //   resume: 'INFORMACIÓN POR CONFIRMAR'
       // },
       {
-        id: 5,
-        id_s2: 5,
+        id: 11,
+        id_s2: 0,
         hour: '15:00 hrs',
         duration: '45 min',
         name: 'Laura Eugenia Alejandri Rábago',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/laura-alejandri.webp',
         avatar2: '',
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Subirse a la ola de la Responsabilidad Social ',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'La Responsabilidad Social es un compromiso de todos. En esta charla, explicaremos conceptos clave, áreas de impacto y agentes implicados, junto con buenas prácticas realizadas desde el entorno escolar. El propósito es inspirar a los participantes a emprender acciones con el poder de transformar su entorno.'
       },
       // {
       //   id: 5,
@@ -434,7 +434,7 @@ const programITM = {
         id_s2: 5,
         hour: '13:00 hrs',
         duration: '45 min',
-        name: 'Dr. Héctor Javier Arismendi Valle',
+        name: 'Héctor Javier Arismendi Valle',
         avatar: '',
         avatar2: '',
         rol: 'Profesor de la Escuela de Ingenierías y Ciencias',

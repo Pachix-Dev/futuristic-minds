@@ -89,5 +89,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/ylutiere-reyes.webp',
     sketch: 'Lleva más de 17 años siendo profesora de ingeniería y posgrado, su pasión es desarrollar proyectos que ayuden a resolver problemas de la industria, desde el escenario, de ciencia, tecnología y emprendimiento.Ha realizado proyectos donde se aplica la inteligencia artificial para detectar errores o defectos, en la clasificación de residuos inorgánicos de la basura y en la medición de piezas metálicas pequeñas. Actualmente, tiene una empresa con más de 5 años, la cual apoya a empresarias por medio de capacitaciones, herramientas digitales, optimización de sus procesos e insertando la inteligencia artificial.'
   },
+  {
+    id: 11,
+    conference: 'Subirse a la ola de la Responsabilidad Social',
+    name: 'Laura Eugenia Alejandri Rábago',
+    company: 'Escuela de Talentos Guanajuato Azteca',
+    rol: 'Docente ',
+    avatar: '/futuristic-minds/speakers/laura-alejandri.webp',
+    sketch: 'Realizó sus estudios en Diseño de Interiores y una Maestría en Cultura y Arte en la Universidad de Guanajuato y en la Universidad Politécnica de Valencia; realizó una estancia de investigación en el Museo de Antioquia en Medellín. Tiene una Maestría en Estudio y Gestión del Desarrollo en la Universidad de La Salle Bogotá. Cuenta con una Especialidad en Políticas Culturales y Gestión Cultural, y actualmente cursa un Doctorado en Ciencias Sociales en la Universidad de Guanajuato. Destacó como diseñadora, interviniendo inmuebles patrimoniales en San Cristóbal de las Casas. Participó y coordinó programas de voluntariado internacional, con enfoque en patrimonio, turismo sostenible, cultura y educación, junto a la UNESCO en México, España, Italia, Portugal y Marruecos. Recientemente, obtuvo el 1er lugar en el Premio Municipal a las Buenas Prácticas Educativas 2023 en León. Ha impartido ponencias y talleres en el Coloquio de Cultura México-Québec y el XIII Congreso Internacional Anáhuac de Responsabilidad Social, entre otros.'
+  },
 ]
 export { speakers }

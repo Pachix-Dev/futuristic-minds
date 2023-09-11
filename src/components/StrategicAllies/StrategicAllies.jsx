@@ -16,6 +16,7 @@ import nokia from '../../assets/aliados/nokia.webp'
 import logoSchneider from '../../assets/aliados/logoSchneider.webp'
 import ciscopartner from '../../assets/aliados/ciscopartner.webp'
 import ibero from '../../assets/aliados/ibero.webp'
+import roue from '../../assets/aliados/roue.webp'
 
 
 export function StrategicAllies() {
@@ -92,6 +93,9 @@ export function StrategicAllies() {
                     </div>
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={ibero} width={280} alt='ibero' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={roue} width={280} alt='ibero' />
                     </div>
                 </Carousel>
             </div>
