@@ -443,6 +443,19 @@ const programITM = {
         resume: 'La inteligencia artificial ayuda a divertir a chicos y grandes: con los asistentes de voz inteligentes (Alexa), juegos y entretenimiento impulsados por la IA, sistemas de recomendación en plataformas streaming, chat bots de entretenimiento y editores de texto e imágenes. Seguramente tú ya los conoces, pero… ¿estos desarrollos sólo sirven para divertirte? Ven, acompáñame a descubrir, cómo algo tan divertido, también sirve en la industria y es capaz de crear diferentes productos. Te sorprenderás de la versatilidad de la inteligencia artificial.'
       },
       {
+        id: 0,
+        id_s2: 0,
+        hour: '10:00 hrs',
+        duration: '45 min',
+        name: 'TBC SEG',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
         id: 5,
         id_s2: 5,
         hour: '11:00 hrs',
@@ -450,24 +463,26 @@ const programITM = {
         name: 'Karen Adriana García Ramírez',
         avatar: '',
         avatar2: '',
+        logo: '/futuristic-minds/img/slider/bachillerato-bivalente.webp',
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Gotas de conciencia: Navegando el cálculo de la huella hídrica',
         resume: 'INFORMACIÓN POR CONFIRMAR'
       },
-      {
-        id: 5,
-        id_s2: 5,
-        hour: '13:00 hrs',
-        duration: '45 min',
-        name: 'Héctor Javier Arismendi Valle',
-        avatar: '',
-        avatar2: '',
-        rol: 'Profesor de la Escuela de Ingenierías y Ciencias',
-        institution: 'TBC Tecnológico de Monterrey',
-        conference: 'La inteligencia artificial en la Robótica aplicada',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
-      }
+      // {
+      //   id: 5,
+      //   id_s2: 5,
+      //   hour: '13:00 hrs',
+      //   duration: '45 min',
+      //   name: 'Héctor Javier Arismendi Valle',
+      //   avatar: '',
+      //   avatar2: '',
+      //   logo: '/futuristic-minds/img/slider/edu_gto.webp',
+      //   rol: 'Profesor de la Escuela de Ingenierías y Ciencias',
+      //   institution: 'TBC Tecnológico de Monterrey',
+      //   conference: 'La inteligencia artificial en la Robótica aplicada',
+      //   resume: 'INFORMACIÓN POR CONFIRMAR'
+      // }
     ]
   },
   stage_3: {
