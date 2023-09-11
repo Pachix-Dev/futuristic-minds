@@ -96,6 +96,15 @@ const speakers = [
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Docente ',
     avatar: '/futuristic-minds/speakers/laura-alejandri.webp',
+    sketch: 'Apasionada de la educación, del desarrollo del potencial humano y la reconstrucción del tejido social, tiene más de 23 años trabajando en instituciones educativas, entre ellas la UNIVA, el IPN, la AMSPL, y el ITL. Actualmente, lleva la Coordinación académica de la Escuela de Talentos Guanajuato Azteca. Psicóloga de profesión, tiene formación como maestra en terapia familiar, y en educación. Realizó diplomados en Competencias de la Educación, Pedagogía interactiva como modelo educativo,  Psicoterapias integrativas y en la Reconstrucción del tejido social.'
+  },
+  {
+    id: 12,
+    conference: 'Convivencia y comunicación cotidiana: las habilidades sociales en el siglo XXI',
+    name: 'Mtra. Erandi Teresa Ramírez García',
+    company: 'Escuela de Talentos Guanajuato Azteca Nivel Medio Superior',
+    rol: 'Coordinadora académica',
+    avatar: '/futuristic-minds/speakers/erandi-teresa',
     sketch: 'Realizó sus estudios en Diseño de Interiores y una Maestría en Cultura y Arte en la Universidad de Guanajuato y en la Universidad Politécnica de Valencia; realizó una estancia de investigación en el Museo de Antioquia en Medellín. Tiene una Maestría en Estudio y Gestión del Desarrollo en la Universidad de La Salle Bogotá. Cuenta con una Especialidad en Políticas Culturales y Gestión Cultural, y actualmente cursa un Doctorado en Ciencias Sociales en la Universidad de Guanajuato. Destacó como diseñadora, interviniendo inmuebles patrimoniales en San Cristóbal de las Casas. Participó y coordinó programas de voluntariado internacional, con enfoque en patrimonio, turismo sostenible, cultura y educación, junto a la UNESCO en México, España, Italia, Portugal y Marruecos. Recientemente, obtuvo el 1er lugar en el Premio Municipal a las Buenas Prácticas Educativas 2023 en León. Ha impartido ponencias y talleres en el Coloquio de Cultura México-Québec y el XIII Congreso Internacional Anáhuac de Responsabilidad Social, entre otros.'
   },
 ]
