@@ -54,6 +54,19 @@ const programITM = {
         resume: ''
       },
       {
+        id: '',
+        id_s2: '',
+        hour: '14:00 hrs',
+        duration: '45 min',
+        name: 'ROUE',
+        avatar: '',
+        logo: '/futuristic-minds/img/slider/roue.webp',
+        rol: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
         id: 6,
         hour: '15:00 hrs',
         duration: '45 min',
@@ -148,15 +161,15 @@ const programITM = {
         hour: '13:00 hrs',
         duration: '45 min',
         name: 'Leonardo Pérez',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/endress.webp',
+        avatar: '/futuristic-minds/speakers/leonardo-perez.webp',
+        logo:'',
         avatar2: '',
         rol: 'Industry Manager',
         institution: 'Endress + Hauser México',
         conference: 'Empower the School',
         resume: 'Programa para formar a los estudiantes de nivel universitario de carreras de ingenierías relacionadas a la industria de proceso enfocados en el control y la automatización'
       },
-      {
+       {
         id: 0,
         id_s2: 0,
         hour: '14:00 hrs',
@@ -169,6 +182,19 @@ const programITM = {
         conference: 'INFORMACIÓN POR CONFIRMAR',
         resume: ''
       },
+      // {
+      //   id: 0,
+      //   id_s2: 0,
+      //   hour: '14:00 hrs',
+      //   duration: '45 min',
+      //   name: 'Secretaría de Educación de Guanajuato',
+      //   avatar: '',
+      //   logo:'/futuristic-minds/img/slider/edu_gto.webp',
+      //   rol: '',
+      //   institution: '',
+      //   conference: 'INFORMACIÓN POR CONFIRMAR',
+      //   resume: ''
+      // },
       {
         id: 0,
         id_s2: 0,

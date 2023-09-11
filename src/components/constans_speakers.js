@@ -32,7 +32,7 @@ const speakers = [
     name: 'Leonardo Pérez',
     company: 'Endress + Hauser Mexico',
     rol: 'Industry Manager',
-    avatar: '/futuristic-minds/speakers/img-man.webp',
+    avatar: '/futuristic-minds/speakers/leonardo-perez.webp',
     sketch: 'Ingeniero en Comunicaciones y Electrónica en la especialidad de Control Desarrollando conocimiento y experiencia en temas relacionados con: Protocolos de Comunicación: Foundation Fieldbus, Profibus, Modbus, HART, WirelessHART y OPC. Plataforma Rockwell: Controladores y Módulos, RSLogix5000, RSEnergyMetrix, RSFieldbus Plataforma E+H: Instrumentos y componentes, Tankvision, SupplyCare, eSight, FieldCare Clasificación y métodos de protección para áreas clasificadas.'
   },
   {
