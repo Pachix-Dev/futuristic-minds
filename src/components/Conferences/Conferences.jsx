@@ -246,7 +246,7 @@ export function Conferences () {
                   <div className='speaker-item h-100'>
                     <img src={speaker.avatar} width={300} height={300} alt={speaker.name} />
                     <div className='info_speakers'>
-                      <h2>{speaker.name}</h2>
+                      <h4>{speaker.name}</h4>
                       <p className='m-0'>{speaker.rol}</p>
                       <small>{speaker.company}</small>
                     </div>
