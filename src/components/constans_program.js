@@ -463,7 +463,7 @@ const programITM = {
         name: 'Karen Adriana García Ramírez',
         avatar: '',
         avatar2: '',
-        logo: '/futuristic-minds/img/slider/bachillerato-bivalente.webp',
+        logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Gotas de conciencia: Navegando el cálculo de la huella hídrica',
