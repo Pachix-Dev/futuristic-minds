@@ -537,7 +537,7 @@ const programITM = {
         name: 'Laura Eugenia Alejandri Rábago',
         avatar: '',
         avatar2: '',
-        logo: '/futuristic-minds/img/bachillerato-talentos.webp',
+        logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
