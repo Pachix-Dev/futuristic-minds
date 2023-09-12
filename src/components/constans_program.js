@@ -501,7 +501,7 @@ const programITM = {
         resume: 'Daremos a conocer la importancia de las habilidades sociales del siglo XXI. Mediante ejercicios de reflexión y análisis, buscamos hacer más conscientes a los jóvenes sobre que estas competencias son cada vez más importantes en el entorno laboral y social actual, para tener éxito en un mundo caracterizado por la interconexión global, la tecnología y el mundo digital. '
       },
       {
-        id: 5,
+        id: 13,
         id_s2: 5,
         hour: '15:00 hrs',
         duration: '45 min',

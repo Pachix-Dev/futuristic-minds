@@ -109,12 +109,12 @@ const speakers = [
   },
   {
     id: 13,
-    conference: '',
-    name: '',
-    company: 'Escuela de Talentos Guanajuato Azteca Nivel Medio Superior',
-    rol: '',
-    avatar: '',
-    sketch: ''
+    conference: 'Diseño especulativo para resolver problemas',
+    name: 'Ramón Ayala Álvarez',
+    company: 'Escuela de Talentos Guanajuato Azteca',
+    rol: 'Profesor de Innovación y Emprendimiento',
+    avatar: '/futuristic-minds/speakers/ramon-ayala.webp',
+    sketch: 'Ramón es apasionado de diseñar futuros mejores para las personas y el planeta. Estudió Negocios en el Tecnológico de Monterrey y es maestrando en Estudios para el Desarrollo por la Universidad de Guanajuato. Ha creado negocios en varios sectores, aunque se especializa en los servicios de consultoría; a través de estos, ha colaborado en iniciativas de Desarrollo Económico Sostenible en conjunto con gobiernos, universidades, empresas y organizaciones internacionales, como las Naciones Unidas. Ha capacitado a personas en México y otros 16 países de manera virtual. Actualmente, trabaja en 4 proyectos: Su familia, su investigación de maestría en relación con el desarrollo y la crítica al emprendimiento social, su Estudio de Innovación y Cambio, donde realiza proyectos de consultoría y capacitación en prospectiva estratégica, su rol como Profesor en temas de Innovación y Finanzas en la Escuela de Talentos Guanajuato - Azteca.'
   },
 ]
 export { speakers }
