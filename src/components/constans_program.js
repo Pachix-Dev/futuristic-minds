@@ -511,7 +511,7 @@ const programITM = {
         rol: 'Profesor de Innovación y Emprendimiento',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Diseño especulativo para resolver problemas',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'Aplicar herramientas creativas, de diseño especulativo y de ludificación para la búsqueda de solución a cualquier tipo de problema'
       },
       
     ],
