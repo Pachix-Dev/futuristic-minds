@@ -517,30 +517,30 @@ const programITM = {
     ],
     oct_5: [
       {
-        id: 5,
-        id_s2: 5,
+        id: 14,
+        id_s2: '',
         hour: '16:00 hrs',
         duration: '45 min',
         name: 'María Gutiérrez Rangel',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/maria-gutierrez',
         avatar2: '',
         rol: 'Jefatura de innovación y emprendimiento',
         institution: 'INSTITUTO OVIEDO',
         conference: 'La importancia de un Pitch efectivo',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'Aprender a estructurar un mensaje de manera clara y concisa, resaltando los puntos clave de un proyecto'
       },
       {
-        id: 5,
-        id_s2: 5,
+        id: 15,
+        id_s2: '',
         hour: '17:00 hrs',
         duration: '45 min',
         name: 'Laura Eugenia Alejandri Rábago',
-        avatar: '',
+        avatar: '/futuristic-minds/img/bachillerato-talentos.webp',
         avatar2: '',
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'Identificar los Objetivos del Desarrollo Sostenible en nuestro entorno y reconocer nuestras posibles acciones para aportar a su cumplimiento'
       },
     ],
     oct_6: [

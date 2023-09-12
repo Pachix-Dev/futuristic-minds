@@ -117,5 +117,24 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/karen-adriana.webp',
     sketch: 'Ingeniera Ambiental de la Universidad de Guanajuato, apasionada por la seguridad ambiental y la sostenibilidad. Tiene un diplomado en Seguridad e Higiene, Residuos y Riesgo Ambiental, y un Curso en Manejo de Sustancias Químicas Peligrosas. Su interés por la innovación la llevó a explorar materiales sostenibles en el Tercer Congreso de Materiales y Procesos Industriales. Su participación en la Feria Ambiental Universitaria refleja mi deseo de compartir conocimientos, mientras que su formación en manejo de residuos y humedales ilustra su enfoque en soluciones prácticas. Tiene un compromiso continuo hacia nuevos desafíos en el campo ambiental.'
   },
+  {
+    id: 14,
+    conference: 'La importancia de un Pitch efectivo',
+    name: 'María Gutiérrez Rangel',
+    company: 'Instituto Oviedo',
+    rol: 'Jefatura de innovación y emprendimiento',
+    avatar: '/futuristic-minds/speakers/maria-gutierrez.webp',
+    sketch: 'Jefa de innovación y emprendimiento en el Instituto Oviedo, Lic. en Mercadotecnia por la Universidad de la Salle, cursando la maestría en Administración Estratégica, con experiencia en el sector educativo, y en sectores industriales, asesorando empresas, experta en temas de ventas, administración y servicio al cliente.'
+  },
+  {
+    id: 15,
+    conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
+    name: 'Laura Eugenia Alejandri Rábago',
+    company: 'Escuela de Talentos Guanajuato Azteca',
+    rol: 'Docente',
+    avatar: '/futuristic-minds/img/bachillerato-talentos.webp',
+    sketch: 'Diseñadora social con estudios en México y el extranjero con enfoque en Cultura, Arte y Gestión del Desarrollo. Se ha desempeñado como profesional en la intervención de inmuebles patrimoniales, coordinación de proyectos internacionales con Organizaciones no Gubernamentales, docente y gestora cultural universitaria en el Instituto Politécnico Nacional.'
+  },
+
 ]
 export { speakers }
