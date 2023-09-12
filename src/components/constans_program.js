@@ -456,18 +456,18 @@ const programITM = {
         resume: ''
       },
       {
-        id: 5,
-        id_s2: 5,
+        id: 13,
+        id_s2: '',
         hour: '11:00 hrs',
         duration: '45 min',
         name: 'Karen Adriana García Ramírez',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/karen-adriana.webp',
         avatar2: '',
-        logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
+        logo: '',
         rol: 'Docente',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Gotas de conciencia: Navegando el cálculo de la huella hídrica',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        resume: 'El objetivo de este seminario es empoderar a los jóvenes con el conocimiento necesario para comprender y valorar el impacto de sus acciones en el uso del agua a nivel local y global. A través de la exploración en profundidad del cálculo de la huella hídrica para fomentar una mentalidad responsable y sostenible entre los jóvenes, alentándolos a tomar decisiones informadas y conscientes. Se busca inspirar la adopción de prácticas más eficientes en el uso del agua.'
       },
       // {
       //   id: 5,
