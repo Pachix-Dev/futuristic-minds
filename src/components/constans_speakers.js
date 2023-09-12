@@ -126,15 +126,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/maria-gutierrez.webp',
     sketch: 'Jefa de innovación y emprendimiento en el Instituto Oviedo, Lic. en Mercadotecnia por la Universidad de la Salle, cursando la maestría en Administración Estratégica, con experiencia en el sector educativo, y en sectores industriales, asesorando empresas, experta en temas de ventas, administración y servicio al cliente.'
   },
-  {
-    id: 15,
-    conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
-    name: 'Laura Eugenia Alejandri Rábago',
-    company: 'Escuela de Talentos Guanajuato Azteca',
-    rol: 'Docente',
-    avatar: '/futuristic-minds/img/bachillerato-talentos.webp',
-    sketch: 'Diseñadora social con estudios en México y el extranjero con enfoque en Cultura, Arte y Gestión del Desarrollo. Se ha desempeñado como profesional en la intervención de inmuebles patrimoniales, coordinación de proyectos internacionales con Organizaciones no Gubernamentales, docente y gestora cultural universitaria en el Instituto Politécnico Nacional.'
-  },
+  // {
+  //   id: 15,
+  //   conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
+  //   name: 'Laura Eugenia Alejandri Rábago',
+  //   company: 'Escuela de Talentos Guanajuato Azteca',
+  //   rol: 'Docente',
+  //   avatar: '/futuristic-minds/img/bachillerato-talentos.webp',
+  //   sketch: 'Diseñadora social con estudios en México y el extranjero con enfoque en Cultura, Arte y Gestión del Desarrollo. Se ha desempeñado como profesional en la intervención de inmuebles patrimoniales, coordinación de proyectos internacionales con Organizaciones no Gubernamentales, docente y gestora cultural universitaria en el Instituto Politécnico Nacional.'
+  // },
 
 ]
 export { speakers }

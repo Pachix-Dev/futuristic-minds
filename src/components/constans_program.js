@@ -529,20 +529,20 @@ const programITM = {
         conference: 'La importancia de un Pitch efectivo',
         resume: 'Aprender a estructurar un mensaje de manera clara y concisa, resaltando los puntos clave de un proyecto'
       },
-      // {
-      //   id: 15,
-      //   id_s2: '',
-      //   hour: '17:00 hrs',
-      //   duration: '45 min',
-      //   name: 'Laura Eugenia Alejandri Rábago',
-      //   avatar: '',
-      //   avatar2: '',
-      //   logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
-      //   rol: 'Docente',
-      //   institution: 'Escuela de Talentos Guanajuato Azteca',
-      //   conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
-      //   resume: 'Identificar los Objetivos del Desarrollo Sostenible en nuestro entorno y reconocer nuestras posibles acciones para aportar a su cumplimiento'
-      // },
+      {
+        id: 15,
+        id_s2: '',
+        hour: '17:00 hrs',
+        duration: '45 min',
+        name: 'Laura Eugenia Alejandri Rábago',
+        avatar: '',
+        avatar2: '',
+        logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
+        rol: 'Docente',
+        institution: 'Escuela de Talentos Guanajuato Azteca',
+        conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
+        resume: 'Identificar los Objetivos del Desarrollo Sostenible en nuestro entorno y reconocer nuestras posibles acciones para aportar a su cumplimiento'
+      },
     ],
     oct_6: [
       {
