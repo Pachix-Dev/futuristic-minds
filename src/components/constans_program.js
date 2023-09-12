@@ -493,7 +493,7 @@ const programITM = {
         hour: '10:00 hrs',
         duration: '45 min',
         name: 'Erandi Teresa Ramírez García',
-        avatar: '/futuristic-minds/speakers/erandi-teresa',
+        avatar: '/futuristic-minds/speakers/erandi-teresa.webp',
         avatar2: '',
         rol: 'Coordinadora académica',
         institution: 'Escuela de Talentos Guanajuato Azteca',
@@ -506,11 +506,11 @@ const programITM = {
         hour: '15:00 hrs',
         duration: '45 min',
         name: 'Ramón Ayala Álvarez',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/ramon-ayala.webp',
         avatar2: '',
         rol: 'Profesor de Innovación y Emprendimiento',
         institution: 'Escuela de Talentos Guanajuato Azteca',
-        conference: 'Diseño especulativo para resolver problemas',
+        conference: 'Diseño especulativo para resolver problemas',
         resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       

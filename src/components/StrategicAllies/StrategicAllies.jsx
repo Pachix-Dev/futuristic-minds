@@ -18,6 +18,11 @@ import ciscopartner from '../../assets/aliados/ciscopartner.webp'
 import ibero from '../../assets/aliados/ibero.webp'
 import roue from '../../assets/aliados/roue.webp'
 
+import upg from '../../assets/aliados/upg.webp'
+import unam from '../../assets/aliados/unam.webp'
+import tecnologico from '../../assets/aliados/tecnologico.webp'
+
+
 
 export function StrategicAllies() {
 
@@ -95,7 +100,17 @@ export function StrategicAllies() {
                         <img className="img-aliado" src={ibero} width={280} alt='ibero' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={roue} width={280} alt='ibero' />
+                        <img className="img-aliado" src={roue} width={280} alt='roue' />
+                    </div>
+
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={upg} width={280} alt='universidad-poli-guanajuato' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={unam} width={280} alt='unam' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={tecnologico} width={280} alt='tec-irapuato' />
                     </div>
                 </Carousel>
             </div>
