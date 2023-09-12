@@ -74,6 +74,7 @@ const speakers = [
   {
     id: 9,
     conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
+    conference2: 'Diseño especulativo para resolver problemas',
     name: 'Ramón Ayala Álvarez',
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Profesor de Innovación y Emprendimiento',
@@ -106,15 +107,6 @@ const speakers = [
     rol: 'Coordinadora académica',
     avatar: '/futuristic-minds/speakers/erandi-teresa.webp',
     sketch: 'Realizó sus estudios en Diseño de Interiores y una Maestría en Cultura y Arte en la Universidad de Guanajuato y en la Universidad Politécnica de Valencia; realizó una estancia de investigación en el Museo de Antioquia en Medellín. Tiene una Maestría en Estudio y Gestión del Desarrollo en la Universidad de La Salle Bogotá. Cuenta con una Especialidad en Políticas Culturales y Gestión Cultural, y actualmente cursa un Doctorado en Ciencias Sociales en la Universidad de Guanajuato. Destacó como diseñadora, interviniendo inmuebles patrimoniales en San Cristóbal de las Casas. Participó y coordinó programas de voluntariado internacional, con enfoque en patrimonio, turismo sostenible, cultura y educación, junto a la UNESCO en México, España, Italia, Portugal y Marruecos. Recientemente, obtuvo el 1er lugar en el Premio Municipal a las Buenas Prácticas Educativas 2023 en León. Ha impartido ponencias y talleres en el Coloquio de Cultura México-Québec y el XIII Congreso Internacional Anáhuac de Responsabilidad Social, entre otros.'
-  },
-  {
-    id: 13,
-    conference: 'Diseño especulativo para resolver problemas',
-    name: 'Ramón Ayala Álvarez',
-    company: 'Escuela de Talentos Guanajuato Azteca',
-    rol: 'Profesor de Innovación y Emprendimiento',
-    avatar: '/futuristic-minds/speakers/ramon-ayala.webp',
-    sketch: 'Ramón es apasionado de diseñar futuros mejores para las personas y el planeta. Estudió Negocios en el Tecnológico de Monterrey y es maestrando en Estudios para el Desarrollo por la Universidad de Guanajuato. Ha creado negocios en varios sectores, aunque se especializa en los servicios de consultoría; a través de estos, ha colaborado en iniciativas de Desarrollo Económico Sostenible en conjunto con gobiernos, universidades, empresas y organizaciones internacionales, como las Naciones Unidas. Ha capacitado a personas en México y otros 16 países de manera virtual. Actualmente, trabaja en 4 proyectos: Su familia, su investigación de maestría en relación con el desarrollo y la crítica al emprendimiento social, su Estudio de Innovación y Cambio, donde realiza proyectos de consultoría y capacitación en prospectiva estratégica, su rol como Profesor en temas de Innovación y Finanzas en la Escuela de Talentos Guanajuato - Azteca.'
-  },
+  }
 ]
 export { speakers }

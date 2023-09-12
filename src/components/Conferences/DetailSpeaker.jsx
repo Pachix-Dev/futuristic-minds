@@ -25,6 +25,7 @@ export function DetailSpeaker (props) {
           <Col md={8} className='my-auto'>
             <h5 className='fw-bold text-danger'>Ponencia</h5>
             <p style={{color:"#000"}}>{props?.speaker?.conference}</p>
+            <p style={{color:"#000"}}>{props?.speaker?.conference2}</p>
             <h5 className='fw-bold text-danger'>Acerca de</h5>
             <p style={{color:"#000"}}>
               {props?.speaker?.sketch || props?.speaker?.resume}
