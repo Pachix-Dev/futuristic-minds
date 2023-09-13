@@ -333,6 +333,20 @@ const programITM = {
         conference: 'Aprendizajes y retos sobre la electromovilidad en México',
         resume: 'El objetivo es conocer, mediante la experiencia, las ventajas de los vehículos eléctricos y su tecnología asociada.'
       },
+      {
+        id: 16,
+        id_s2: 17,
+        hour: '14:00 hrs',
+        duration: '45 min',
+        name: 'Felipe Hernández Palafox | Miguel Salvador Gómez Díaz',
+        avatar: '/futuristic-minds/speakers/felipe-hernandez.webp',
+        avatar2: '/futuristic-minds/speakers/miguel-gomez.webp',
+        logo:'',
+        rol: 'Secretario Académico | Profesor de asignatura',
+        institution: 'Universidad La Salle Bajío',
+        conference: 'Inteligencia Artificial Generativa',
+        resume: 'El auge de la Inteligencia Artificial (IA) ha revolucionado el panorama tecnológico actual, ofreciendo una amplia gama de aplicaciones que antes se consideraban inimaginables. Dentro de esta amplia gama, una rama particularmente intrigante es la de "Inteligencia Artificial Generativa". Este seminario se sumergirá en el fascinante mundo de las IAs que no sólo piensan, procesan y toman decisiones, sino que también crean, diseñan y generan contenido de manera autónoma.'
+      },
       // {
       //   id: 5,
       //   id_s2: 5,

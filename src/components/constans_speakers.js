@@ -135,6 +135,25 @@ const speakers = [
   //   avatar: '/futuristic-minds/img/bachillerato-talentos.webp',
   //   sketch: 'Diseñadora social con estudios en México y el extranjero con enfoque en Cultura, Arte y Gestión del Desarrollo. Se ha desempeñado como profesional en la intervención de inmuebles patrimoniales, coordinación de proyectos internacionales con Organizaciones no Gubernamentales, docente y gestora cultural universitaria en el Instituto Politécnico Nacional.'
   // },
+  {
+    id: 16,
+    conference: 'Inteligencia Artificial Generativa',
+    name: 'Felipe Hernández Palafox',
+    company: 'Universidad La Salle Bajío',
+    rol: 'Secretario Académico',
+    avatar: '/futuristic-minds/speakers/felipe-hernandez.webp',
+    sketch: 'Doctorado en Sistemas Computacionales en la Universidad Del Sur, posee dos maestrías: una en Tecnologías Web y Dispositivos Móviles de la Universidad De La Salle Bajío y otra en Gerencia De Proyectos de la Universidad Europea de Monterrey. Ha desempeñado diversos roles como docente y coordinador de licenciatura en la Universidad La Salle Bajío, además de ser participante activo en diversos eventos y congresos.'
+  },
+  {
+    id: 17,
+    conference: 'Inteligencia Artificial Generativa',
+    name: 'Miguel Salvador Gómez Díaz',
+    company: 'Universidad La Salle Bajío',
+    rol: 'Profesor de asignatura',
+    avatar: '/futuristic-minds/speakers/miguel-gomez.webp',
+    sketch: 'Profesional en Ciencia y Tecnología, doctorado en la Universidad de Guadalajara. Posee títulos del Tecnológico Nacional de México. Cuenta con certificaciones como Análisis de Datos con Google y Ciencia de Datos. Como investigador, ha publicado trabajos sobre respuestas pupilares digitales, comportamiento no lineal y medición no invasiva de glucosa mediante algoritmos de Machine Learning y redes neuronales. Presentó sus investigaciones en congresos de diversos niveles. Creó aplicaciones móviles para niños con Autismo y Trastorno de Déficit de Atención. Su trayectoria refleja compromiso con la investigación, innovación y cambio social. Fue galardonado con el 2do lugar en el IX Premio a la Innovación Guanajuato, aspira a generar un impacto mundial positivo.'
+  },
+
 
 ]
 export { speakers }
