@@ -18,7 +18,7 @@ export function Footer () {
               <Row className='justify-content-md-center py-5'>
                   <Col sm={12} md={12} lg={6} className='text-center my-5'>
                       <Card border="info" className='body-card' style={{ width: 'auto', height: 'auto' }}>
-                          <Card.Title><h2 style={{ color: '#ffff' }}>CONTACTO</h2> </Card.Title>
+                          <Card.Title><h2 className='p-4' style={{ color: '#ffff' }}>CONTACTO</h2> </Card.Title>
                           <Card.Body>
                               <img src={contacto} alt='igeco-daniela-hernandez' className='img-fluid' />
                               <Card.Text>
@@ -32,7 +32,7 @@ export function Footer () {
                   </Col>
                   <Col sm={12} md={12} lg={6} className='text-center px-4 my-5'>
                       <div className='footer-socialmedia'>
-                          <strong><h2 className=''>REDES SOCIALES</h2></strong>
+                          <strong><h2 className='p-4'>REDES SOCIALES</h2></strong>
                           <a href='https://www.facebook.com/FuturisticMindsMx' target='_blank' rel='noreferrer'>
                               <svg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
                                   <title>Facebook</title>
