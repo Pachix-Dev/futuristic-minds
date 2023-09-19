@@ -162,6 +162,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/mariana-garcía.webp',
     sketch: 'En constante búsqueda de inspiración, estrategias y herramientas para hacer realidad la industria del futuro, Mariana García ha acumulado experiencia en optimización continua de sistemas para la manufactura esbelta, planeación estratégica basada en objetivos, equipos de alto desempeño, digitalización y descarbonización industrial. Es Ingeniera Industrial y de Sistemas, por el Instituto Tecnológico y de Estudios Superiores de Monterrey; y actualmente, es Consultora en Transformación Digital y Sustentabilidad para Siemens México, Centroamérica y el Caribe.'
   },
+  {
+    id: 19,
+    conference: 'Future Makers',
+    name: 'Josué Nieto',
+    company: 'Siemens México, Centroamérica y el Caribe',
+    rol: 'Especialista de Recursos Humanos',
+    avatar: '/futuristic-minds/speakers/img-man.webp',
+    sketch: 'Psicólogo e investigador con experiencia en la gestión, desarrollo y evaluación de proyectos para mejorar las condiciones de competencia empresarial, a través de la implementación de herramientas científicas, tecnológicas y creativas, con el fin de fortalecer las condiciones laborales. Cuenta con amplia experiencia en recursos humanos y entrenamiento laboral, durante la cual ha diseñado planes estratégicos para empresas y gestión de grupos.'
+  },
 
 
 ]

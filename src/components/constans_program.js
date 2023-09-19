@@ -264,17 +264,17 @@ const programITM = {
         resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
-        id: 0,
+        id: 19,
         id_s2: 0,
         hour: '12:00 hrs',
         duration: '45 min',
-        name: 'Siemens',
+        name: 'Josué Nieto',
         avatar: '',
-        logo:'/futuristic-minds/img/slider/siemens.webp',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        logo:'/futuristic-minds/slider/siemens.webp',
+        rol: 'Especialista de Recursos Humanos ',
+        institution: 'Siemens México, Centroamérica y el Caribe',
+        conference: 'Future Makers',
+        resume: 'Una carrera con propósito es algo que muchos anhelan, pero pocos logran encontrar. Trabajar en algo que te permita cumplir tu pasión, aprovechar tu experiencia y tener un impacto real en la sociedad es complejo. En Siemens lo hacemos posible, al transformar las grandes ideas en realidad. Te invitamos a que conozcas cómo es que la tecnología con propósito transforma el día a día de millones de personas, incluso, la de nuestros colaboradores.'
       },
       {
         id: 0,
