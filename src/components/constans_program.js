@@ -320,6 +320,19 @@ const programITM = {
         resume: ''
       },
       {
+        id: 0,
+        id_s2: 0,
+        hour: '11:00 hrs',
+        duration: '45 min',
+        name: 'René García Contreras | Benjamín Aranda Herrera ',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        rol: 'Coordinador de la Licenciatura de Odontología y Titular de la UNIPEV UNAM ENES León',
+        institution: 'ENES UNAM',
+        conference: 'IA en Ciencias de la Salud',
+        resume: 'Brindar el contexto de la IA en sus aplicaciones en el ámbito de salud'
+      },
+      {
         id: 8,
         id_s2: 0,
         hour: '13:00 hrs',
