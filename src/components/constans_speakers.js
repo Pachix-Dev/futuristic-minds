@@ -153,6 +153,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/miguel-gomez.webp',
     sketch: 'Profesional en Ciencia y Tecnología, doctorado en la Universidad de Guadalajara. Posee títulos del Tecnológico Nacional de México. Cuenta con certificaciones como Análisis de Datos con Google y Ciencia de Datos. Como investigador, ha publicado trabajos sobre respuestas pupilares digitales, comportamiento no lineal y medición no invasiva de glucosa mediante algoritmos de Machine Learning y redes neuronales. Presentó sus investigaciones en congresos de diversos niveles. Creó aplicaciones móviles para niños con Autismo y Trastorno de Déficit de Atención. Su trayectoria refleja compromiso con la investigación, innovación y cambio social. Fue galardonado con el 2do lugar en el IX Premio a la Innovación Guanajuato, aspira a generar un impacto mundial positivo.'
   },
+  {
+    id: 18,
+    conference: 'Industria 4.0 y el Gemelo Digital: Producto, Proceso y Desempeño',
+    name: 'Mariana Del Rocío García Dorantes',
+    company: 'Siemens México, Centroamérica y el Caribe',
+    rol: 'Consultora en Transformación Digital y Sustentabilidad',
+    avatar: '/futuristic-minds/speakers/mariana-garcía.webp',
+    sketch: 'En constante búsqueda de inspiración, estrategias y herramientas para hacer realidad la industria del futuro, Mariana García ha acumulado experiencia en optimización continua de sistemas para la manufactura esbelta, planeación estratégica basada en objetivos, equipos de alto desempeño, digitalización y descarbonización industrial. Es Ingeniera Industrial y de Sistemas, por el Instituto Tecnológico y de Estudios Superiores de Monterrey; y actualmente, es Consultora en Transformación Digital y Sustentabilidad para Siemens México, Centroamérica y el Caribe.'
+  },
 
 
 ]

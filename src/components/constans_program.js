@@ -41,17 +41,17 @@ const programITM = {
         resume: ''
       },
       {
-        id: '',
+        id: '18',
         id_s2: '',
         hour: '12:00 hrs',
         duration: '45 min',
-        name: 'Siemens',
-        avatar: '',
-        logo: '/futuristic-minds/img/slider/siemens.webp',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        name: 'Mariana Del Rocío García Dorantes',
+        avatar: '/futuristic-minds/speakers/mariana-garcía.webp',
+        logo: '',
+        rol: 'Consultora en Transformación Digital y Sustentabilidad',
+        institution: 'Siemens México, Centroamérica y el Caribe',
+        conference: 'Industria 4.0 y el gemelo digital: Producto, Proceso y Desempeño',
+        resume: 'Explora el emocionante mundo de la Industria 4.0 y su aplicación práctica a través del concepto de Gemelo Digital. Analizaremos los impactos transformadores de la tecnología en la fabricación y cómo los Gemelos Digitales están revolucionando la forma en que se diseñan, producen y optimizan productos y procesos industriales.'
       },
       {
         id: '',
