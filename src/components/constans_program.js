@@ -41,7 +41,7 @@ const programITM = {
         resume: ''
       },
       {
-        id: '18',
+        id: 18,
         id_s2: '',
         hour: '12:00 hrs',
         duration: '45 min',
