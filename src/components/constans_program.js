@@ -270,7 +270,7 @@ const programITM = {
         duration: '45 min',
         name: 'Josué Nieto',
         avatar: '',
-        logo:'/futuristic-minds/slider/siemens.webp',
+        logo:'/futuristic-minds/img/slider/siemens.webp',
         rol: 'Especialista de Recursos Humanos ',
         institution: 'Siemens México, Centroamérica y el Caribe',
         conference: 'Future Makers',
