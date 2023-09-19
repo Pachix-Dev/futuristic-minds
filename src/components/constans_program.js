@@ -320,6 +320,19 @@ const programITM = {
         resume: ''
       },
       {
+        id: 18,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Mariana Del Rocío García Dorantes',
+        avatar: '/futuristic-minds/speakers/mariana-garcía.webp',
+        logo:'',
+        rol: 'Consultora en Transformación Digital y Sustentabilidad',
+        institution: 'Siemens México, Centroamérica y el Caribe',
+        conference: 'Estrategias y herramientas para la Descarbonización Industrial',
+        resume: 'A lo largo de esta conferencia, exploraremos las estrategias innovadoras, así como las herramientas prácticas diseñadas para ayudar a las empresas industriales a descarbonizar sus procesos y operaciones. Definiremos una hoja de ruta para que las organizaciones avancen hacia una producción industrial más sostenible y respetuosa con el medio ambiente.'
+      },
+      {
         id: 8,
         id_s2: 0,
         hour: '13:00 hrs',
