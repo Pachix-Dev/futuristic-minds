@@ -56,7 +56,7 @@ const speakers = [
   {
     id: 7,
     conference: 'Cultura del agua y Día Cero',
-    name: 'Lic. Amalia Anguiano Juárez',
+    name: 'Amalia Anguiano Juárez',
     company: 'SAPAL',
     rol: 'Encargada de cultura del Agua',
     avatar: '/futuristic-minds/speakers/amalia-anguiano.webp',
@@ -102,7 +102,7 @@ const speakers = [
   {
     id: 12,
     conference: 'Convivencia y comunicación cotidiana: las habilidades sociales en el siglo XXI',
-    name: 'Mtra. Erandi Teresa Ramírez García',
+    name: 'Erandi Teresa Ramírez García',
     company: 'Escuela de Talentos Guanajuato Azteca Nivel Medio Superior',
     rol: 'Coordinadora académica',
     avatar: '/futuristic-minds/speakers/erandi-teresa.webp',
@@ -111,7 +111,7 @@ const speakers = [
   {
     id: 13,
     conference: 'Gotas de conciencia: Navegando el cálculo de la huella hídrica',
-    name: 'Ing.Karen Adriana García Ramírez',
+    name: 'Karen Adriana García Ramírez',
     company: 'Escuela de Talentos Guanajuato Azteca Nivel Medio Superior',
     rol: 'Docente',
     avatar: '/futuristic-minds/speakers/karen-adriana.webp',
