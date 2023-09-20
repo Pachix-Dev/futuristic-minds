@@ -570,6 +570,32 @@ const programITM = {
     ],
     oct_5: [
       {
+        id: 0,
+        id_s2: '',
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Pedro Jorge de los Santos Lara | Francisco Gustavo Mota Muñoz',
+        avatar: '',
+        avatar2: '',
+        rol: '/futuristic-minds/img/slider/upg.webp',
+        institution: 'Universidad Politécnica de Guanajuato',
+        conference: 'Taller Introducción a Python',
+        resume: 'Taller diseñado para toda persona que desee emprender sus primeros pasos en el mundo de la codificación, y aprender los conceptos básicos de este lenguaje de alto nivel multiplataforma, y el cual hoy en día tiene un sin fin de aplicaciones. El taller tiene como finalidad capacitar a profesores y alumnos, para que desarrollen scripts básicos de manejo de variables, funciones, tipos de datos, matemáticas y representación de funciones.'
+      },
+      {
+        id: 0,
+        id_s2: '',
+        hour: '13:00 hrs',
+        duration: '45 min',
+        name: 'Francisco Gustavo Mota Muñoz',
+        avatar: '',
+        avatar2: '',
+        rol: '/futuristic-minds/img/slider/upg.webp',
+        institution: 'Universidad Politécnica de Guanajuato',
+        conference: 'Taller Crea un chatbot mediante IBM Watson',
+        resume: 'Taller diseñado para toda persona interesada en dar sus primeros pasos en el uso de la Inteligencia Artificial empleando PaaS en la nube. Se hará uso de IBM Cloud en conjunto con IBM Watson, una de las API de IA más potentes actualmente.'
+      },
+      {
         id: 14,
         id_s2: '',
         hour: '16:00 hrs',
