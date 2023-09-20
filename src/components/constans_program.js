@@ -211,7 +211,7 @@ const programITM = {
       {
         id: '',
         id_s2: '',
-        hour: '15:00 hrs',
+        hour: '16:00 hrs',
         duration: '45 min',
         name: 'Nokia',
         avatar: '',
