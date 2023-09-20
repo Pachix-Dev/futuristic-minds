@@ -441,6 +441,32 @@ const programITM = {
         resume: ''
       },
       {
+        id: 0,
+        id_s2: 0,
+        hour: '11:00 hrs',
+        duration: '45 min',
+        name: 'Rigoberto García Contreras',
+        avatar: '/futuristic-minds/speakers/rigoberto-garcía.webp',
+        logo:'',
+        rol: 'Profesor',
+        institution: 'ENES UNAM',
+        conference: 'La revolución de la educación: la IA transformando el aprendizaje',
+        resume: 'Brindar las herramientas de IA en el aprendizaje'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '14:00 hrs',
+        duration: '45 min',
+        name: 'Rigoberto García Contreras',
+        avatar: '/futuristic-minds/speakers/rigoberto-garcía.webp',
+        logo:'',
+        rol: 'Profesor',
+        institution: 'ENES UNAM',
+        conference: 'Explorando tendencias a través del análisis de sentimientos: Un ejemplo sobre la evolución del consumo durante la pandemia',
+        resume: 'Presentaremos un estudio de análisis de sentimientos sobre la evolución del consumo durante la pandemia, como un ejemplo concreto de cómo esta técnica puede proporcionar información valiosa para las empresas y organizaciones que buscan adaptarse a un entorno cambiante.'
+      },
+      {
         id: 9,
         id_s2: 0,
         hour: '15:00 hrs',
