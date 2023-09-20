@@ -21,6 +21,10 @@ import upg from '../../assets/aliados/upg.webp'
 import unam from '../../assets/aliados/unam.webp'
 import TecMonterrey from '../../assets/aliados/TecMonterrey.webp'
 import juventudes from '../../assets/aliados/juventudes.webp'
+import conalep from '../../assets/aliados/conalep-gto.webp'
+
+import ideaGto from '../../assets/aliados/idea_gto.webp'
+import seg from '../../assets/aliados/seg_logo.webp'
 
 export function StrategicAllies() {
 
@@ -111,6 +115,15 @@ export function StrategicAllies() {
                     </div>
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={juventudes} width={280} alt='juventudes-gto' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={conalep} width={280} alt='conalep' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={ideaGto} width={280} alt='idea-guanajuato' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={seg} width={280} alt='seg' />
                     </div>
                 </Carousel>
             </div>
