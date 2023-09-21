@@ -571,6 +571,48 @@ const programITM = {
     oct_5: [
       {
         id: 0,
+        id_s2: 0,
+        hour: '09:00 hrs',
+        duration: '45 min',
+        name: 'Francisco Gasca Vargas | Francisco Gustavo Mota Muñoz',
+        avatar: '',
+        avatar2: '',
+        logo: '/futuristic-minds/img/slider/upg.webp',
+        rol:'',
+        institution: 'Universidad Politécnica de Guanajuato',
+        conference: 'Taller PLC Básico Factory IO',
+        resume: 'Taller diseñado para estudiantes y profesores interesados en aprender los principios de automatización y control de procesos industriales mediante PLCs. Se hace uso de un simulador Factory IO, donde es posible modelar desde una pequeña banda transportadora hasta una compleja celda de manufactura. Además, se contará con bancos de pruebas, equipados con PLC y HMIs.'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '10:00 hrs',
+        duration: '45 min',
+        name: 'Francisco Gustavo Mota Muñoz',
+        avatar: '',
+        avatar2: '',
+        logo: '/futuristic-minds/img/slider/upg.webp',
+        rol:'',
+        institution: 'Universidad Politécnica de Guanajuato',
+        conference: 'Taller Robótica Educativa Libre',
+        resume: 'Daremos a conocer herramientas y materiales didácticos accesibles, para implementar la educación STEAM en el estado de Guanajuato. Durante el taller los asistentes aprenderán de manera interactiva conceptos de: Electrónica, Programación, Automatización y Robótica. Empleando novedosas herramientas tales como: simuladores web TinkerCAD, software PictoBlox didáctico, kits de robótica educativa libre basado en la tarjeta Arduino UNO, con el cual se controlará un carrito robot. Como material de apoyo y consulta se utilizará el Cuadernillo: Introducción al Internet de las Cosas a través de la Robótica Educativa Libre, desarrollado por el Instituto de Gestión Educativa para la Secretaría de Educación de Guanajuato'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '11:00 hrs',
+        duration: '45 min',
+        name: 'Juan Lomas Guevara | Francisco Gustavo Mota Muñoz',
+        avatar: '',
+        avatar2: '',
+        logo: '/futuristic-minds/img/slider/upg.webp',
+        rol:'',
+        institution: 'Universidad Politécnica de Guanajuato',
+        conference: 'Taller Manufactura aditiva y diseño 3D',
+        resume: 'Taller diseñado para estudiantes interesadas en aprender a materializar sus ideas, proyectos y prototipos, mediante el diseño por computadora y la manufactura en 3D, una de las tecnologías que están impulsando el desarrollo de la Industria 4.0'
+      },
+      {
+        id: 0,
         id_s2: '',
         hour: '12:00 hrs',
         duration: '45 min',
