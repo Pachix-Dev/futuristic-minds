@@ -151,7 +151,7 @@ export function Conferences () {
                                     {program.resume}
                                   </Accordion.Body>
                                   {
-                                    program.form === '' ? '' : <a href={program.form} target='blank'>
+                                    program.form === '' ? '' : <p><a href={program.form} target='blank'>
                                       <button className='btn-talleres mt-4' 
                                         style={{ 
                                             backgroundColor: 'rgb(255, 255, 255)', 
@@ -160,7 +160,7 @@ export function Conferences () {
                                             border: 'none', 
                                             borderRadius: '5px'}} >
                                               REGISTRATE
-                                        </button></a> 
+                                        </button></a> <samp className='ps-3'>CUPO LIMITADO</samp></p>
                                   }
                                 </Accordion.Item>
                                 </Accordion>
