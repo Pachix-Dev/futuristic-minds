@@ -507,6 +507,21 @@ const programITM = {
         conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
         resume: 'La Economía Circular es un concepto y un enfoque económico que se basa en la idea de minimizar el desperdicio de recursos, reducir la contaminación y maximizar la eficiencia al gestionar los productos, materiales y recursos a lo largo de su ciclo de vida. A diferencia del modelo económico tradicional, que se centra en la producción, uso y eliminación lineal de productos (llamado modelo económico lineal), la Economía Circular propone un enfoque más sostenible y regenerativo. Sin embargo, bastante se ha discutido acerca de la insuficiencia de esta alternativa como solución a los problemas que precisamente busca resolver. Discutiremos algunas de sus limitantes y posibilidades.'
       },
+      {
+        id: 24,
+        id_s2: 0,
+        hour: '17:00 hrs',
+        duration: '45 min',
+        name: 'Rocío Bretchnaider',
+        avatar: '/futuristic-minds/speakers/img-woman.webp',
+        avatar2: '',
+        logo:'',
+        form: '',
+        rol: 'COO',
+        institution: 'Metaphorce Tech',
+        conference: 'La influencia de la AI en los softskills',
+        resume: 'La Inteligencia Artificial (IA) está empezando a tener un impacto significativo en el desarrollo y la evaluación de las habilidades blandas o soft skills. Las soft skills son habilidades interpersonales y sociales que incluyen la comunicación efectiva, la empatía, la resolución de conflictos, la toma de decisiones, el trabajo en equipo y muchas otras.'
+      },
   
     ],
     oct_6: [
