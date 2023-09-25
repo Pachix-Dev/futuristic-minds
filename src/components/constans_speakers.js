@@ -198,5 +198,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/francisco-mota.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
+  {
+    id: 23,
+    conference: 'Tecnologías emergentes que están preparando el futuro de la movilidad y la reducción de la huella de CO2',
+    name: 'José Enrique Poceros Pérez',
+    company: 'ROUE',
+    rol: 'Chief Technology Officer',
+    avatar: '/futuristic-minds/speakers/jose-enrique.webp',
+    sketch: 'Es Ingeniero en Comunicaciones y Electrónica. Cuenta con 9 años en la industria, donde ha logrado sobresalir gracias a su entusiasmo y conocimientos en minería, energías renovables, gas y petróleo, desarrollándose en las áreas de Ciberseguridad, IoT, Industrial Control Systems y Soluciones de Diversas Tecnologías. Ha colaborado como arquitecto de soluciones como Estandarización de ciberseguridad para parques fotovoltaicos y parques eólicos, de Ciberseguridad para terminales de refinados, de Comunicación para gasoductos, de Comunicación y Ciberseguridad de estaciones de servicio, y para sistema de manufactura de envases, entre otros. Asimismo, ha colaborado como arquitecto de soluciones en el Oil and Gas ATC y ahora en su transición hacia el IoT HUB, como parte de las inversiones de Cisco del programa Country Digital Acceleration.'
+  },
 ]
 export { speakers }

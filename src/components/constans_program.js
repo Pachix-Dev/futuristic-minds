@@ -54,17 +54,17 @@ const programITM = {
         resume: 'Explora el emocionante mundo de la Industria 4.0 y su aplicación práctica a través del concepto de Gemelo Digital. Analizaremos los impactos transformadores de la tecnología en la fabricación y cómo los Gemelos Digitales están revolucionando la forma en que se diseñan, producen y optimizan productos y procesos industriales.'
       },
       {
-        id: '',
+        id: '23',
         id_s2: '',
         hour: '14:00 hrs',
         duration: '45 min',
-        name: 'ROUE',
-        avatar: '',
-        logo: '/futuristic-minds/img/slider/roue.webp',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        name: 'José Enrique Poceros Pérez',
+        avatar: '/futuristic-minds/speakers/jose-enrique.webp',
+        logo: '',
+        rol: 'Chief Technology Officer',
+        institution: 'ROUE',
+        conference: 'Tecnologías emergentes que están preparando el futuro de la movilidad y la reducción de la huella de CO2',
+        resume: 'Esta charla aborda la nueva generación de vehículos eléctricos y cómo los fabricantes están utilizando las tecnologías como Blockchain, Edge Computing y Ciberseguridad para reducir su huella de CO2 en componentes y proceso de manufactura.'
       },
       {
         id: 6,
@@ -140,6 +140,7 @@ const programITM = {
         name: 'Maximiliano Hernández | Ramón Contreras',
         avatar: '',
         logo: '/futuristic-minds/img/slider/mitsubishi.webp',
+        form: '',
         rol: 'Ingenieros de producto',
         institution: 'Mitsubishi',
         conference: 'Ellos también fueron jóvenes. La brecha generacional en la industria',
