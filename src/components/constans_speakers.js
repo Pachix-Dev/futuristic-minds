@@ -5,7 +5,7 @@ const speakers = [
     name: '',
     company: '',
     rol: '',
-    avatar: '/futuristic-minds/speakers/oliver-castellanos.webp',
+    avatar: '',
     sketch: 'INFORMACIÓN POR CONFIRMAR.'
   },
   {
