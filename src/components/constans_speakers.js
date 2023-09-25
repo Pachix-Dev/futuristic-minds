@@ -195,7 +195,7 @@ const speakers = [
     name: 'Francisco Gustavo Mota Muñoz',
     company: 'Universidad Politécnica de Guanajuato',
     rol: '',
-    avatar: '/futuristic-minds/speakers/benjamin-aranda.webp',
+    avatar: '/futuristic-minds/speakers/francisco-mota.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
 ]
