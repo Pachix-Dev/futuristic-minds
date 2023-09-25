@@ -508,6 +508,21 @@ const programITM = {
         resume: 'La Economía Circular es un concepto y un enfoque económico que se basa en la idea de minimizar el desperdicio de recursos, reducir la contaminación y maximizar la eficiencia al gestionar los productos, materiales y recursos a lo largo de su ciclo de vida. A diferencia del modelo económico tradicional, que se centra en la producción, uso y eliminación lineal de productos (llamado modelo económico lineal), la Economía Circular propone un enfoque más sostenible y regenerativo. Sin embargo, bastante se ha discutido acerca de la insuficiencia de esta alternativa como solución a los problemas que precisamente busca resolver. Discutiremos algunas de sus limitantes y posibilidades.'
       },
       {
+        id: 26,
+        id_s2: 0,
+        hour: '16:00 hrs',
+        duration: '45 min',
+        name: 'Elizabeth Mena Avilés ',
+        avatar: '/futuristic-minds/speakers/elizabeth_mena.webp',
+        avatar2: '',
+        logo:'',
+        form: '',
+        rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
+        institution: 'Tecnológico de Monterrey campus León',
+        conference: 'Propuestas de valor desde la Ingeniería para el Diseño FinTech desde el enfoque del emprendimiento',
+        resume: 'Compartir algunos resultados y propuestas generadas desde  el enfoque de Innovación y Emprendimiento donde la ingeniería utiliza la tecnología al servicio del mundo financiero para permitir a clientes potenciales acceder y obtener servicios bancarios.'
+      },
+      {
         id: 24,
         id_s2: 0,
         hour: '17:00 hrs',
