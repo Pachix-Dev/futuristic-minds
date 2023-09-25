@@ -132,7 +132,6 @@ export function StrategicAllies() {
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={seg} width={280} alt='seg' />
                     </div>
-
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={ieca} width={280} alt='seg' />
                     </div>
