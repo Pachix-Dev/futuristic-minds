@@ -24,13 +24,13 @@ import juventudes from '../../assets/aliados/juventudes.webp'
 import conalep from '../../assets/aliados/conalep-gto.webp'
 import ideaGto from '../../assets/aliados/idea_gto.webp'
 import seg from '../../assets/aliados/seg_logo.webp'
-
-
 import ieca from '../../assets/aliados/ieca.webp'
 import innovacion from '../../assets/aliados/innovacion.webp'
 import amm from '../../assets/aliados/amm.webp'
 import percepto from '../../assets/aliados/percepto.webp'
 import educareInnovacion from '../../assets/aliados/educare_innovacion.webp'
+import osmotronik from '../../assets/aliados/osmotronik.webp'
+
 
 
 export function StrategicAllies() {
@@ -147,6 +147,9 @@ export function StrategicAllies() {
                     </div>
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={educareInnovacion} width={280} alt='seg' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={osmotronik} width={280} alt='seg' />
                     </div>
                 </Carousel>
             </div>
