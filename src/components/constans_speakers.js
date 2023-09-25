@@ -1,5 +1,14 @@
 const speakers = [
   {
+    id: 0,
+    conference: '',
+    name: '',
+    company: '',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/oliver-castellanos.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR.'
+  },
+  {
     id: 1,
     conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
     name: 'Oliver Castellanos',
