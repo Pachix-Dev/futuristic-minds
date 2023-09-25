@@ -216,5 +216,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/img-woman.webp',
     sketch: 'Licenciada en Relaciones Industriales por la Universidad Iberoamericana en León y con Maestría en Dirección de Recursos Humanos por la EAE Business School en Barcelona, ha consolidado su carrera en diferentes sectores como manufactura, retail, servicio, educación ejecutando herramientas y diseñando estrategias de valor para aportar valor con el talento de las organizaciones. Ha colaborado en empresas como BRANTANO, Tecnológico de Monterrey World Trade Center Association, TEDx Calzada de los Héroes, City Cáncer Challenge, Consejo Ciudadano de Innovación de Guanajuato, Municipio de Nuevo Laredo, Tamaulipas, entre otras compañías; y ha desarrollado proyectos en conjunto con Clústers y cámaras empresariales para el sector aeroespacial, logística, educación, comercial y financieros. Actualmente, dirige las operaciones del área de talento de METAPHORCE, una plataforma de soluciones llave en mano y talento para la industria de Tecnologías de Información.'
   },
+  {
+    id: 25,
+    conference: 'La Inteligencia Artificial en la Robótica aplicada',
+    name: 'Héctor Javier Arismendi Valle',
+    company: 'Tecnológico de Monterrey campus León',
+    rol: 'Profesor de la escuela de ingenierías y ciencias',
+    avatar: '/futuristic-minds/speakers/hector-arismendi.webp',
+    sketch: 'Es ingeniero mecánico en el Instituto Politécnico Nacional, recibió el  grado de maestro en Control Automático, en el Departamento de Control Automático en CINVESTAV-IPN; y el grado de Doctor en Control y Sistemas Dinámicos, en la División de Matemática Aplicada en IPICYT. Actualmente, es profesor de tiempo completo en el Tecnológico de Monterrey campus León dentro de la Escuela de Ingeniería y Ciencias y miembro del Sistema Nacional de Investigadores SNI. Sus líneas de investigación en la parte práctica son: automatización y control de robots, control de drones, inteligencia artificial y machine learning; en la parte teórica son: funcionales de Lyapunov-Krasovskii de tipo completo para análisis de estabilidad de sistemas con retardo, ecuaciones diferenciales e integrales con retardo y matrices de Lyapunov.'
+  },
 ]
 export { speakers }

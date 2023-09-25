@@ -611,6 +611,20 @@ const programITM = {
         resume: ''
       },
       {
+        id: 25,
+        id_s2: 0,
+        hour: '14:00 hrs',
+        duration: '90 min',
+        name: 'Dr. Héctor Javier Arismendi Valle',
+        avatar: '/futuristic-minds/speakers/hector-arismendi.webp',
+        logo:'',
+        rol: 'Profesor de la Escuela de Ingenierías y Ciencias',
+        form: '',
+        institution: 'Tecnológico de Monterrey campus León',
+        conference: 'La inteligencia artificial en la Robótica aplicada',
+        resume: 'Proporcionar a los participantes un profundo entendimiento de cómo la Inteligencia Artificial se aplica en el campo de la robótica, explorando las últimas tendencias, avances y desafíos, y dar una perspectiva general para diseñar, desarrollar y operar sistemas robóticos inteligentes.'
+      },
+      {
         id: 9,
         id_s2: 5,
         hour: '15:00 hrs',
