@@ -77,18 +77,6 @@ const programITM = {
         conference: 'La Exploración Robótica del Universo',
         resume: "Compartirá una sinopsis sobre su educación, carrera, logros profesionales, y experiencias de trabajo, así como el camino que siguió para obtener un trabajo en el Laboratorio de Propulsión a Chorro (Jet Propulsion Laboratory, JPL) de la NASA. También explicará las funciones y características de la Red del Espacio Profundo (DSN) de JPL y detallará sobre algunas de las misiones robóticas de JPL, pasadas, presentes y futuras. El objetivo de esta plática es servir como inspiración para que estudiantes se animen a terminar sus estudios y den un paso más allá, fuera de su zona de confort."
       },
-      {
-        id: 3,
-        hour: '16:00 hrs',
-        duration: '45 min',
-        name: 'Maximiliano Hernández | Ramón Contreras',
-        avatar: '',
-        logo: '/futuristic-minds/img/slider/mitsubishi.webp',
-        rol: 'Ingenieros de producto',
-        institution: 'Mitsubishi',
-        conference: 'Ellos también fueron jóvenes. La brecha generacional en la industria',
-        resume: "INFORMACIÓN POR CONFIRMAR"
-      },
       // {
       //   id: 4,
       //   hour: '17:00 hrs',
@@ -100,6 +88,21 @@ const programITM = {
       //   conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
       //   resume: "INFORMACIÓN POR CONFIRMAR"
       // },
+      {
+        id: 5,
+        hour: '16:00 hrs',
+        duration: '45 min',
+        name: 'Juan Carlos Valerio',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/mitsubishi.webp',
+        id_s2: 0,
+        avatar2: '',
+        form: '',
+        rol: 'Ventas de soluciones y servicios',
+        institution: 'Mitsubishi',
+        conference: 'Crecimiento profesional',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
+      },
     ],
     oct_5: [
       {
@@ -131,19 +134,16 @@ const programITM = {
         resume: '¡Un futuro impulsado por los estudiantes! Descubre cómo los estudiantes son los responsables de liderar las Industrias del futuro y generar el cambio en México por medio de la innovación, la digitalización y la automatización en los sectores industriales. Aprovecha tus habilidades y conocimientos para hacer una diferencia y forjar un futuro próspero.'
       },
       {
-        id: 5,
+        id: 3,
         hour: '11:00 hrs',
         duration: '45 min',
-        name: 'Juan Carlos Valerio',
+        name: 'Maximiliano Hernández | Ramón Contreras',
         avatar: '',
-        logo:'/futuristic-minds/img/slider/mitsubishi.webp',
-        id_s2: 0,
-        avatar2: '',
-        form: '',
-        rol: 'Ventas de soluciones y servicios',
+        logo: '/futuristic-minds/img/slider/mitsubishi.webp',
+        rol: 'Ingenieros de producto',
         institution: 'Mitsubishi',
-        conference: 'Crecimiento profesional',
-        resume: 'INFORMACIÓN POR CONFIRMAR'
+        conference: 'Ellos también fueron jóvenes. La brecha generacional en la industria',
+        resume: "INFORMACIÓN POR CONFIRMAR"
       },
       {
         id: 18,
