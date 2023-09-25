@@ -567,6 +567,20 @@ const programITM = {
         resume: 'Daremos a conocer la importancia de las habilidades sociales del siglo XXI. Mediante ejercicios de reflexión y análisis, buscamos hacer más conscientes a los jóvenes sobre que estas competencias son cada vez más importantes en el entorno laboral y social actual, para tener éxito en un mundo caracterizado por la interconexión global, la tecnología y el mundo digital. '
       },
       {
+        id: 0,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '90 min',
+        name: 'Secretaría de Educación de Guanajuato',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        rol: '',
+        form: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
+      },
+      {
         id: 9,
         id_s2: 5,
         hour: '15:00 hrs',
@@ -656,6 +670,20 @@ const programITM = {
         institution: 'Universidad Politécnica de Guanajuato',
         conference: 'Taller Crea un chatbot mediante IBM Watson',
         resume: 'Taller diseñado para toda persona interesada en dar sus primeros pasos en el uso de la Inteligencia Artificial empleando PaaS en la nube. Se hará uso de IBM Cloud en conjunto con IBM Watson, una de las API de IA más potentes actualmente.'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '14:00 hrs',
+        duration: '90 min',
+        name: 'Secretaría de Educación de Guanajuato',
+        avatar: '',
+        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        rol: '',
+        form: '',
+        institution: '',
+        conference: 'INFORMACIÓN POR CONFIRMAR',
+        resume: ''
       },
       {
         id: 14,
