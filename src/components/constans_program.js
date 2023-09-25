@@ -465,6 +465,20 @@ const programITM = {
         resume: 'Brindar las herramientas de IA en el aprendizaje'
       },
       {
+        id: 24,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Rocío Bretchnaider',
+        avatar: '/futuristic-minds/speakers/img-woman.webp',
+        logo:'',
+        form: '',
+        rol: 'COO',
+        institution: 'Metaphorce Tech',
+        conference: 'Comunicación 4.0: ¿Qué es y cómo afecta a la industria 4.0?',
+        resume: 'La Comunicación 4.0 se refiere a un enfoque de comunicación que se ha vuelto esencial en la era de la industria 4.0, caracterizada por la digitalización, la automatización, la inteligencia artificial y la interconexión de dispositivos y sistemas. La importancia de la comunicación 4.0 radica en varios aspectos clave:Conexión y colaboración, Toma de decisiones informadas, Automatización y eficiencia, Personalización, Mejora de la experiencia del cliente, Innovación y competitividad, Adaptabilidad y resiliencia, Seguridad y privacidad, Sostenibilidad'
+      },
+      {
         id: 0,
         id_s2: 0,
         hour: '14:00 hrs',

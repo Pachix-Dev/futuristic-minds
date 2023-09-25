@@ -207,5 +207,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/jose-enrique.webp',
     sketch: 'Es Ingeniero en Comunicaciones y Electrónica. Cuenta con 9 años en la industria, donde ha logrado sobresalir gracias a su entusiasmo y conocimientos en minería, energías renovables, gas y petróleo, desarrollándose en las áreas de Ciberseguridad, IoT, Industrial Control Systems y Soluciones de Diversas Tecnologías. Ha colaborado como arquitecto de soluciones como Estandarización de ciberseguridad para parques fotovoltaicos y parques eólicos, de Ciberseguridad para terminales de refinados, de Comunicación para gasoductos, de Comunicación y Ciberseguridad de estaciones de servicio, y para sistema de manufactura de envases, entre otros. Asimismo, ha colaborado como arquitecto de soluciones en el Oil and Gas ATC y ahora en su transición hacia el IoT HUB, como parte de las inversiones de Cisco del programa Country Digital Acceleration.'
   },
+  {
+    id: 24,
+    conference: 'Comunicación 4.0: ¿Qué es y cómo afecta a la industria 4.0?',
+    name: 'Rocío Bretchnaider',
+    company: 'Metaphorce Tech',
+    rol: 'COO',
+    avatar: '/futuristic-minds/speakers/img-woman.webp',
+    sketch: 'Licenciada en Relaciones Industriales por la Universidad Iberoamericana en León y con Maestría en Dirección de Recursos Humanos por la EAE Business School en Barcelona, ha consolidado su carrera en diferentes sectores como manufactura, retail, servicio, educación ejecutando herramientas y diseñando estrategias de valor para aportar valor con el talento de las organizaciones. Ha colaborado en empresas como BRANTANO, Tecnológico de Monterrey World Trade Center Association, TEDx Calzada de los Héroes, City Cáncer Challenge, Consejo Ciudadano de Innovación de Guanajuato, Municipio de Nuevo Laredo, Tamaulipas, entre otras compañías; y ha desarrollado proyectos en conjunto con Clústers y cámaras empresariales para el sector aeroespacial, logística, educación, comercial y financieros. Actualmente, dirige las operaciones del área de talento de METAPHORCE, una plataforma de soluciones llave en mano y talento para la industria de Tecnologías de Información.'
+  },
 ]
 export { speakers }
