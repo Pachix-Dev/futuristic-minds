@@ -672,14 +672,14 @@ const programITM = {
         resume: 'Aprender a estructurar un mensaje de manera clara y concisa, resaltando los puntos clave de un proyecto'
       },
       {
-        id: 15,
+        id: 11,
         id_s2: '',
         hour: '17:00 hrs',
         duration: '45 min',
         name: 'Laura Eugenia Alejandri Rábago',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/laura-alejandri.webp',
         avatar2: '',
-        logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
+        logo: '',
         rol: 'Docente',
         form: '',
         institution: 'Escuela de Talentos Guanajuato Azteca',
