@@ -538,7 +538,7 @@ const programITM = {
       // }
     ]
   },
-  stage_3: {
+  stage_3: { 
     oct_4: [
       {
         id: 12,
@@ -579,6 +579,7 @@ const programITM = {
         avatar2: '',
         logo: '/futuristic-minds/img/slider/upg.webp',
         rol:'',
+        form: 'https://itm.ahmreg.com.mx/',
         institution: 'Universidad Politécnica de Guanajuato',
         conference: 'Taller PLC Básico Factory IO',
         resume: 'Taller diseñado para estudiantes y profesores interesados en aprender los principios de automatización y control de procesos industriales mediante PLCs. Se hace uso de un simulador Factory IO, donde es posible modelar desde una pequeña banda transportadora hasta una compleja celda de manufactura. Además, se contará con bancos de pruebas, equipados con PLC y HMIs.'
@@ -593,6 +594,7 @@ const programITM = {
         avatar2: '',
         logo: '/futuristic-minds/img/slider/upg.webp',
         rol:'',
+        form: '',
         institution: 'Universidad Politécnica de Guanajuato',
         conference: 'Taller Robótica Educativa Libre',
         resume: 'Daremos a conocer herramientas y materiales didácticos accesibles, para implementar la educación STEAM en el estado de Guanajuato. Durante el taller los asistentes aprenderán de manera interactiva conceptos de: Electrónica, Programación, Automatización y Robótica. Empleando novedosas herramientas tales como: simuladores web TinkerCAD, software PictoBlox didáctico, kits de robótica educativa libre basado en la tarjeta Arduino UNO, con el cual se controlará un carrito robot. Como material de apoyo y consulta se utilizará el Cuadernillo: Introducción al Internet de las Cosas a través de la Robótica Educativa Libre, desarrollado por el Instituto de Gestión Educativa para la Secretaría de Educación de Guanajuato'
@@ -607,6 +609,7 @@ const programITM = {
         avatar2: '',
         logo: '/futuristic-minds/img/slider/upg.webp',
         rol:'',
+        form: '',
         institution: 'Universidad Politécnica de Guanajuato',
         conference: 'Taller Manufactura aditiva y diseño 3D',
         resume: 'Taller diseñado para estudiantes interesadas en aprender a materializar sus ideas, proyectos y prototipos, mediante el diseño por computadora y la manufactura en 3D, una de las tecnologías que están impulsando el desarrollo de la Industria 4.0'
@@ -621,6 +624,7 @@ const programITM = {
         avatar2: '',
         logo: '/futuristic-minds/img/slider/upg.webp',
         rol:'',
+        form: '',
         institution: 'Universidad Politécnica de Guanajuato',
         conference: 'Taller Introducción a Python',
         resume: 'Taller diseñado para toda persona que desee emprender sus primeros pasos en el mundo de la codificación, y aprender los conceptos básicos de este lenguaje de alto nivel multiplataforma, y el cual hoy en día tiene un sin fin de aplicaciones. El taller tiene como finalidad capacitar a profesores y alumnos, para que desarrollen scripts básicos de manejo de variables, funciones, tipos de datos, matemáticas y representación de funciones.'
@@ -635,6 +639,7 @@ const programITM = {
         avatar2: '',
         logo: '/futuristic-minds/img/slider/upg.webp',
         rol: '',
+        form: '',
         institution: 'Universidad Politécnica de Guanajuato',
         conference: 'Taller Crea un chatbot mediante IBM Watson',
         resume: 'Taller diseñado para toda persona interesada en dar sus primeros pasos en el uso de la Inteligencia Artificial empleando PaaS en la nube. Se hará uso de IBM Cloud en conjunto con IBM Watson, una de las API de IA más potentes actualmente.'
@@ -648,6 +653,7 @@ const programITM = {
         avatar: '/futuristic-minds/speakers/maria-gutierrez.webp',
         avatar2: '',
         rol: 'Jefatura de innovación y emprendimiento',
+        form: '',
         institution: 'INSTITUTO OVIEDO',
         conference: 'La importancia de un Pitch efectivo',
         resume: 'Aprender a estructurar un mensaje de manera clara y concisa, resaltando los puntos clave de un proyecto'
@@ -662,6 +668,7 @@ const programITM = {
         avatar2: '',
         logo: '/futuristic-minds/img/slider/bachillerato-talentos.webp',
         rol: 'Docente',
+        form: '',
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
         resume: 'Identificar los Objetivos del Desarrollo Sostenible en nuestro entorno y reconocer nuestras posibles acciones para aportar a su cumplimiento'

@@ -150,6 +150,9 @@ export function Conferences () {
                                   <Accordion.Body>
                                     {program.resume}
                                   </Accordion.Body>
+                                  {
+                                    program.form === '' ? '' : <a href={program.form}><button>REGISTRATE</button></a> 
+                                  }
                                 </Accordion.Item>
                                 </Accordion>
                               : <><h2>{program.name}</h2><p>{program.rol}</p><h6>{program.conference}</h6></>}
