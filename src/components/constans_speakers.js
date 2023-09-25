@@ -1,13 +1,5 @@
 const speakers = [
   {
-    id: 0,
-    conference: '',
-    name: '',
-    company: '',
-    rol: '',
-    sketch: 'INFORMACIÓN POR CONFIRMAR.'
-  },
-  {
     id: 1,
     conference: 'Soluciones de calidad de la energía y digitalización para edificaciones inteligentes',
     name: 'Oliver Castellanos',
@@ -179,7 +171,23 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/img-man.webp',
     sketch: 'Psicólogo e investigador con experiencia en la gestión, desarrollo y evaluación de proyectos para mejorar las condiciones de competencia empresarial, a través de la implementación de herramientas científicas, tecnológicas y creativas, con el fin de fortalecer las condiciones laborales. Cuenta con amplia experiencia en recursos humanos y entrenamiento laboral, durante la cual ha diseñado planes estratégicos para empresas y gestión de grupos.'
   },
-
-
+  {
+    id: 20,
+    conference: '',
+    name: 'René García Contreras',
+    company: 'ENES UNAM',
+    rol: 'Coordinador de la Licenciatura de Odontología',
+    avatar: '/futuristic-minds/speakers/rene-garcia.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
+  {
+    id: 21,
+    conference: '',
+    name: 'Benjamín Aranda Herrera',
+    company: 'ENES UNAM',
+    rol: 'Titular de la UNIPEV UNAM ENES León',
+    avatar: '/futuristic-minds/speakers/benjamin-aranda.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
 ]
 export { speakers }

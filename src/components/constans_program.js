@@ -326,8 +326,8 @@ const programITM = {
         resume: ''
       },
       {
-        id: 0,
-        id_s2: 0,
+        id: 20,
+        id_s2: 21,
         hour: '11:00 hrs',
         duration: '45 min',
         name: 'René García Contreras | Benjamín Aranda Herrera ',
