@@ -107,7 +107,7 @@ const programITM = {
         id_s2: 0,
         hour: '09:00 hrs',
         duration: '45 min',
-        name: 'Ikesi',
+        name: 'Ikusi',
         avatar: '',
         logo:'/futuristic-minds/img/slider/ikusi.webp',
         rol: '',
