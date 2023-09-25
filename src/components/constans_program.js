@@ -54,7 +54,7 @@ const programITM = {
         resume: 'Explora el emocionante mundo de la Industria 4.0 y su aplicación práctica a través del concepto de Gemelo Digital. Analizaremos los impactos transformadores de la tecnología en la fabricación y cómo los Gemelos Digitales están revolucionando la forma en que se diseñan, producen y optimizan productos y procesos industriales.'
       },
       {
-        id: '23',
+        id: 23,
         id_s2: '',
         hour: '14:00 hrs',
         duration: '45 min',
