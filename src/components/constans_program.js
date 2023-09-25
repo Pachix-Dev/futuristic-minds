@@ -584,13 +584,13 @@ const programITM = {
     oct_5: [
       {
         id: 0,
-        id_s2: 0,
+        id_s2: 22,
         hour: '09:00 hrs',
         duration: '45 min',
         name: 'Francisco Gasca Vargas | Francisco Gustavo Mota Muñoz',
         avatar: '',
-        avatar2: '',
-        logo: '/futuristic-minds/img/slider/upg.webp',
+        avatar2: '/futuristic-minds/speakers/francisco-mota.webp',
+        logo: '',
         rol:'',
         form: 'https://forms.gle/txfDoAaFZxmZVyp68',
         institution: 'Universidad Politécnica de Guanajuato',

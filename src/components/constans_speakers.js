@@ -189,5 +189,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/benjamin-aranda.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
+  {
+    id: 22,
+    conference: '',
+    name: 'Francisco Gustavo Mota Muñoz',
+    company: 'Universidad Politécnica de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/benjamin-aranda.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
 ]
 export { speakers }
