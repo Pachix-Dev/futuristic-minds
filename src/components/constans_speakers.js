@@ -5,7 +5,6 @@ const speakers = [
     name: '',
     company: '',
     rol: '',
-    avatar: '',
     sketch: 'INFORMACIÓN POR CONFIRMAR.'
   },
   {
