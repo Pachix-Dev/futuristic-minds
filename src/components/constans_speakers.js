@@ -225,5 +225,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/hector-arismendi.webp',
     sketch: 'Es ingeniero mecánico en el Instituto Politécnico Nacional, recibió el  grado de maestro en Control Automático, en el Departamento de Control Automático en CINVESTAV-IPN; y el grado de Doctor en Control y Sistemas Dinámicos, en la División de Matemática Aplicada en IPICYT. Actualmente, es profesor de tiempo completo en el Tecnológico de Monterrey campus León dentro de la Escuela de Ingeniería y Ciencias y miembro del Sistema Nacional de Investigadores SNI. Sus líneas de investigación en la parte práctica son: automatización y control de robots, control de drones, inteligencia artificial y machine learning; en la parte teórica son: funcionales de Lyapunov-Krasovskii de tipo completo para análisis de estabilidad de sistemas con retardo, ecuaciones diferenciales e integrales con retardo y matrices de Lyapunov.'
   },
+  {
+    id: 26,
+    conference: 'Herramientas que contribuyen a la Logística Inteligente',
+    name: 'Elizabeth Mena Avilés',
+    company: 'Tecnológico de Monterrey campus León',
+    rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
+    avatar: '/futuristic-minds/speakers/elizabeth_mena.webp',
+    sketch: 'Egresada como Actuaría con especialidad en Estadística para la Calidad Total, por el ITAM; cuenta con formación en Ética Profesional en Negocios e Ingeniería por la Universidad de Western Michigan, y con una maestría en Ingeniería con Especialidad en Sistemas de Calidad y Productividad por el Tecnológico de Monterrey Campus León. Ha trabajado como Especialista en Planeación de Rutas para Aeroméxico y como académica en la Universidad Iberoamericana, UNAM, UVL, Anáhuac del Sur, Tecnológico de Monterrey Campus León; asimismo, tiene trayectoria como Consultora en Innovación Educativa para la Secretaría de Educación de Guanajuato, y Analista de producción y evaluación de procesos en el Laboratorio Logra de México.'
+  },
 ]
 export { speakers }

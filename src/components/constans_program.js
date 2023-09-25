@@ -637,6 +637,19 @@ const programITM = {
         conference: 'Diseño especulativo para resolver problemas',
         resume: 'Aplicar herramientas creativas, de diseño especulativo y de ludificación para la búsqueda de solución a cualquier tipo de problema'
       },
+      {
+        id: 26,
+        id_s2: 0,
+        hour: '16:00 hrs',
+        duration: '45 min',
+        name: 'Elizabeth Mena Avilés',
+        avatar: '/futuristic-minds/speakers/elizabeth_mena.webp',
+        avatar2: '',
+        rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
+        institution: 'Tecnológico de Monterrey campus León',
+        conference: 'Herramientas que contribuyen a la Logística Inteligente',
+        resume: 'Reconocer algunas herramientas que, desde la Ingeniería, se han sumado en las cadenas de suministro para hablar de logística 4.0 y su valor desde la definición y la mejora continua de los procesos'
+      },
       
     ],
     oct_5: [
