@@ -234,5 +234,23 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/elizabeth_mena.webp',
     sketch: 'Egresada como Actuaría con especialidad en Estadística para la Calidad Total, por el ITAM; cuenta con formación en Ética Profesional en Negocios e Ingeniería por la Universidad de Western Michigan, y con una maestría en Ingeniería con Especialidad en Sistemas de Calidad y Productividad por el Tecnológico de Monterrey Campus León. Ha trabajado como Especialista en Planeación de Rutas para Aeroméxico y como académica en la Universidad Iberoamericana, UNAM, UVL, Anáhuac del Sur, Tecnológico de Monterrey Campus León; asimismo, tiene trayectoria como Consultora en Innovación Educativa para la Secretaría de Educación de Guanajuato, y Analista de producción y evaluación de procesos en el Laboratorio Logra de México.'
   },
+  {
+    id: 27,
+    conference: 'Taller de sistemas de visión artificial',
+    name: 'José Guadalupe Almanza Mireles',
+    company: 'Instituto de Educación y Desarrollo Richard E. Dauch',
+    rol: 'Instructor',
+    avatar: '/futuristic-minds/speakers/jose-guadalupe.webp',
+    sketch: 'Ingeniero en Robótica, especializado en las áreas de Automatización y Robótica Industrial, con experiencia profesional como agente capacitador, soporte técnico y encargado de proyectos de innovación tecnológica. Actualmente, es coordinador del Centro Especializado en Automatización del Instituto Estatal de Capacitación del Estado de Guanajuato.'
+  },
+  {
+    id: 28,
+    conference: 'Taller de Impresión 3D con NX',
+    name: 'Nicolás Rafael Mena Guzmán',
+    company: 'Instituto de Educación y Desarrollo Richard E. Dauch',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/nicolas-mena.webp',
+    sketch: 'Ingeniero en Mecatrónica, por el Instituto Tecnológico de León.   Certificado en Diseño y Simulación asistida por computadora con CATIA y NX. Ha impartido cursos de Industria 4.0 en el área de Robótica Colaborativa, Machine Learning y Visión Artificial. Actualmente, trabaja en el Centro de Innovación del IECA AAM, impulsando tecnologías emergentes.'
+  },
 ]
 export { speakers }

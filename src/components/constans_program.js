@@ -641,6 +641,19 @@ const programITM = {
   stage_3: { 
     oct_4: [
       {
+        id: 27,
+        id_s2: 0,
+        hour: '09:00 hrs',
+        duration: '45 min',
+        name: 'José Guadalupe Almanza Mireles',
+        avatar: '/futuristic-minds/speakers/jose-guadalupe.webp',
+        avatar2: '',
+        rol: 'Instructor',
+        institution: 'Instituto de Educación y Desarrollo Richard E. Dauch',
+        conference: 'Taller de sistemas de visión artificial',
+        resume: 'Conocer los conceptos básicos de los sistemas de visión artificial y realizar procesamiento de imagen de acuerdo a herramientas de programación IN SIGHT de COGNEX.'
+      },
+      {
         id: 12,
         id_s2: 0,
         hour: '10:00 hrs',
@@ -652,6 +665,19 @@ const programITM = {
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Convivencia y comunicación cotidiana: las habilidades sociales en el siglo XXI ',
         resume: 'Daremos a conocer la importancia de las habilidades sociales del siglo XXI. Mediante ejercicios de reflexión y análisis, buscamos hacer más conscientes a los jóvenes sobre que estas competencias son cada vez más importantes en el entorno laboral y social actual, para tener éxito en un mundo caracterizado por la interconexión global, la tecnología y el mundo digital. '
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '11:00 hrs',
+        duration: '45 min',
+        name: 'Nicolás Rafael Mena Guzmán',
+        avatar: '/futuristic-minds/speakers/nicolas-mena.webp',
+        avatar2: '',
+        rol: '',
+        institution: 'Instituto de Educación y Desarrollo Richard E. Dauch',
+        conference: 'Taller de Impresión 3D con NX',
+        resume: 'Conocer los principios de  la interfaz y herramientas del software NX para la generación de piezas mecánicas y su posible aplicación en Impresión 3D.'
       },
       {
         id: 0,
