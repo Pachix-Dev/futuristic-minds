@@ -341,6 +341,20 @@ const programITM = {
         resume: 'Brindar el contexto de la IA en sus aplicaciones en el ámbito de salud'
       },
       {
+        id: 0,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Beatriz Álvarez Granados',
+        avatar: '',
+        avatar2: '',
+        logo:'/futuristic-minds/img/slider/juventudes.webp',
+        rol: 'Jefa de innovación para el desarrollo juvenil y formación especializada',
+        institution: 'Juventudes GTO',
+        conference: '',
+        resume: ''
+      },
+      {
         id: 8,
         id_s2: 0,
         hour: '13:00 hrs',
@@ -481,6 +495,20 @@ const programITM = {
       {
         id: 0,
         id_s2: 0,
+        hour: '13:00 hrs',
+        duration: '45 min',
+        name: 'Beatriz Álvarez Granados',
+        avatar: '',
+        avatar2: '',
+        logo:'/futuristic-minds/img/slider/juventudes.webp',
+        rol: 'Jefa de innovación para el desarrollo juvenil y formación especializada',
+        institution: 'Juventudes GTO',
+        conference: '',
+        resume: ''
+      },
+      {
+        id: 0,
+        id_s2: 0,
         hour: '14:00 hrs',
         duration: '45 min',
         name: 'Rigoberto García Contreras',
@@ -579,6 +607,20 @@ const programITM = {
         institution: 'Escuela de Talentos Guanajuato Azteca',
         conference: 'Gotas de conciencia: Navegando el cálculo de la huella hídrica',
         resume: 'El objetivo de este seminario es empoderar a los jóvenes con el conocimiento necesario para comprender y valorar el impacto de sus acciones en el uso del agua a nivel local y global. A través de la exploración en profundidad del cálculo de la huella hídrica para fomentar una mentalidad responsable y sostenible entre los jóvenes, alentándolos a tomar decisiones informadas y conscientes. Se busca inspirar la adopción de prácticas más eficientes en el uso del agua.'
+      },
+      {
+        id: 0,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Beatriz Álvarez Granados',
+        avatar: '',
+        avatar2: '',
+        logo:'/futuristic-minds/img/slider/juventudes.webp',
+        rol: 'Jefa de innovación para el desarrollo juvenil y formación especializada',
+        institution: 'Juventudes GTO',
+        conference: '',
+        resume: ''
       },
       // {
       //   id: 5,
