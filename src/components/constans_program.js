@@ -665,7 +665,7 @@ const programITM = {
         avatar2: '',
         form: 'https://forms.gle/nXvqxHPNgDJwgeNDA',
         rol: 'Instructor',
-        institution: 'Instituto de Educación y Desarrollo Richard E. Dauch IECA',
+        institution: 'IECA Instituto de Educación y Desarrollo Richard E. Dauch',
         conference: 'Taller de sistemas de visión artificial',
         resume: 'Conocer los conceptos básicos de los sistemas de visión artificial y realizar procesamiento de imagen de acuerdo a herramientas de programación IN SIGHT de COGNEX.'
       },
@@ -693,7 +693,7 @@ const programITM = {
         avatar2: '',
         form: 'https://forms.gle/Pb3N7kx77b9iAUYW7',
         rol: '',
-        institution: 'Instituto de Educación y Desarrollo Richard E. Dauch IECA',
+        institution: 'IECA Instituto de Educación y Desarrollo Richard E. Dauch',
         conference: 'Taller de Impresión 3D con NX',
         resume: 'Conocer los principios de  la interfaz y herramientas del software NX para la generación de piezas mecánicas y su posible aplicación en Impresión 3D.'
       },
