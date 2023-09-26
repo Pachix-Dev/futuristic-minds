@@ -97,7 +97,7 @@ const speakers = [
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Docente ',
     avatar: '/futuristic-minds/speakers/laura-alejandri.webp',
-    sketch: 'Apasionada de la educación, del desarrollo del potencial humano y la reconstrucción del tejido social, tiene más de 23 años trabajando en instituciones educativas, entre ellas la UNIVA, el IPN, la AMSPL, y el ITL. Actualmente, lleva la Coordinación académica de la Escuela de Talentos Guanajuato Azteca. Psicóloga de profesión, tiene formación como maestra en terapia familiar, y en educación. Realizó diplomados en Competencias de la Educación, Pedagogía interactiva como modelo educativo,  Psicoterapias integrativas y en la Reconstrucción del tejido social.'
+    sketch: 'Realizó sus estudios en Diseño de Interiores y una Maestría en Cultura y Arte en la Universidad de Guanajuato y en la Universidad Politécnica de Valencia; realizó una estancia de investigación en el Museo de Antioquia en Medellín. Tiene una Maestría en Estudio y Gestión del Desarrollo en la Universidad de La Salle Bogotá. Cuenta con una Especialidad en Políticas Culturales y Gestión Cultural, y actualmente cursa un Doctorado en Ciencias Sociales en la Universidad de Guanajuato. Destacó como diseñadora, interviniendo inmuebles patrimoniales en San Cristóbal de las Casas. Participó y coordinó programas de voluntariado internacional, con enfoque en patrimonio, turismo sostenible, cultura y educación, junto a la UNESCO en México, España, Italia, Portugal y Marruecos. Recientemente, obtuvo el 1er lugar en el Premio Municipal a las Buenas Prácticas Educativas 2023 en León. Ha impartido ponencias y talleres en el Coloquio de Cultura México-Québec y el XIII Congreso Internacional Anáhuac de Responsabilidad Social, entre otros.'
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ const speakers = [
     company: 'Escuela de Talentos Guanajuato Azteca Nivel Medio Superior',
     rol: 'Coordinadora académica',
     avatar: '/futuristic-minds/speakers/erandi-teresa.webp',
-    sketch: 'Realizó sus estudios en Diseño de Interiores y una Maestría en Cultura y Arte en la Universidad de Guanajuato y en la Universidad Politécnica de Valencia; realizó una estancia de investigación en el Museo de Antioquia en Medellín. Tiene una Maestría en Estudio y Gestión del Desarrollo en la Universidad de La Salle Bogotá. Cuenta con una Especialidad en Políticas Culturales y Gestión Cultural, y actualmente cursa un Doctorado en Ciencias Sociales en la Universidad de Guanajuato. Destacó como diseñadora, interviniendo inmuebles patrimoniales en San Cristóbal de las Casas. Participó y coordinó programas de voluntariado internacional, con enfoque en patrimonio, turismo sostenible, cultura y educación, junto a la UNESCO en México, España, Italia, Portugal y Marruecos. Recientemente, obtuvo el 1er lugar en el Premio Municipal a las Buenas Prácticas Educativas 2023 en León. Ha impartido ponencias y talleres en el Coloquio de Cultura México-Québec y el XIII Congreso Internacional Anáhuac de Responsabilidad Social, entre otros.'
+    sketch: 'Apasionada de la educación, del desarrollo del potencial humano y la reconstrucción del tejido social, tiene más de 23 años trabajando en instituciones educativas, entre ellas la UNIVA, el IPN, la AMSPL, y el ITL. Actualmente, lleva la Coordinación académica de la Escuela de Talentos Guanajuato Azteca. Psicóloga de profesión, tiene formación como maestra en terapia familiar, y en educación. Realizó diplomados en Competencias de la Educación, Pedagogía interactiva como modelo educativo,  Psicoterapias integrativas y en la reconstrucción del tejido social.'
   },
   {
     id: 13,
@@ -126,15 +126,6 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/maria-gutierrez.webp',
     sketch: 'Jefa de innovación y emprendimiento en el Instituto Oviedo, Lic. en Mercadotecnia por la Universidad de la Salle, cursando la maestría en Administración Estratégica, con experiencia en el sector educativo, y en sectores industriales, asesorando empresas, experta en temas de ventas, administración y servicio al cliente.'
   },
-  // {
-  //   id: 15,
-  //   conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
-  //   name: 'Laura Eugenia Alejandri Rábago',
-  //   company: 'Escuela de Talentos Guanajuato Azteca',
-  //   rol: 'Docente',
-  //   avatar: '/futuristic-minds/img/bachillerato-talentos.webp',
-  //   sketch: 'Diseñadora social con estudios en México y el extranjero con enfoque en Cultura, Arte y Gestión del Desarrollo. Se ha desempeñado como profesional en la intervención de inmuebles patrimoniales, coordinación de proyectos internacionales con Organizaciones no Gubernamentales, docente y gestora cultural universitaria en el Instituto Politécnico Nacional.'
-  // },
   {
     id: 16,
     conference: 'Inteligencia Artificial Generativa',
