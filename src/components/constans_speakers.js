@@ -140,7 +140,7 @@ const speakers = [
     conference: 'Inteligencia Artificial Generativa',
     name: 'Miguel Salvador Gómez Díaz',
     company: 'Universidad La Salle Bajío',
-    rol: 'Profesor de asignatura',
+    rol: 'Jefe académico de pregrado de Ingeniería de Software y Sistemas Computacionales',
     avatar: '/futuristic-minds/speakers/miguel-gomez.webp',
     sketch: 'Profesional en Ciencia y Tecnología, doctorado en la Universidad de Guadalajara. Posee títulos del Tecnológico Nacional de México. Cuenta con certificaciones como Análisis de Datos con Google y Ciencia de Datos. Como investigador, ha publicado trabajos sobre respuestas pupilares digitales, comportamiento no lineal y medición no invasiva de glucosa mediante algoritmos de Machine Learning y redes neuronales. Presentó sus investigaciones en congresos de diversos niveles. Creó aplicaciones móviles para niños con Autismo y Trastorno de Déficit de Atención. Su trayectoria refleja compromiso con la investigación, innovación y cambio social. Fue galardonado con el 2do lugar en el IX Premio a la Innovación Guanajuato, aspira a generar un impacto mundial positivo.'
   },

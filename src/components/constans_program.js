@@ -389,7 +389,7 @@ const programITM = {
         avatar2: '/futuristic-minds/speakers/miguel-gomez.webp',
         logo:'',
         form: '',
-        rol: 'Secretario Académico | Profesor de asignatura',
+        rol: 'Secretario Académico | Jefe académico de pregrado de Ingeniería de Software y Sistemas Computacionales',
         institution: 'Universidad La Salle Bajío',
         conference: 'Inteligencia Artificial Generativa',
         resume: 'El auge de la Inteligencia Artificial (IA) ha revolucionado el panorama tecnológico actual, ofreciendo una amplia gama de aplicaciones que antes se consideraban inimaginables. Dentro de esta amplia gama, una rama particularmente intrigante es la de "Inteligencia Artificial Generativa". Este seminario se sumergirá en el fascinante mundo de las IAs que no sólo piensan, procesan y toman decisiones, sino que también crean, diseñan y generan contenido de manera autónoma.'
