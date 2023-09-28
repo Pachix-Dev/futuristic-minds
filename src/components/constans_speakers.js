@@ -252,5 +252,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/hugo-buenrostro.webp',
     sketch: 'Hugo Buenrostro, diseñador UX/UI egresado de la Universidad de Guadalajara, se destaca en la conceptualización de ideas e ilustración. Su experiencia en comunicación gráfica, metodologías de innovación y tecnologías le ha permitido crear relaciones significativas en CONTPAQi a través del Blog Estudiantil: Empréndete. Su trabajo se centra en conectar con futuros profesionistas y emprendedores, promoviendo soluciones innovadoras. Además, ha compartido su conocimiento como expositor en diversos foros y universidades a nivel nacional, incluyendo TalentLand, UNAM, UANL y la Secretaría de Innovación Jalisco. Su pasión y dedicación lo posicionan como un profesional persuasivo y confiable en su campo.'
   },
+  {
+    id: 30,
+    conference: 'Una empresa es tan inteligente como la gente que es parte de ella',
+    name: 'Santiago Escalona',
+    company: 'Nokia',
+    rol: 'Director de marketing estratégico',
+    avatar: '/futuristic-minds/speakers/santiago-escalona.webp',
+    sketch: 'Santiago cuenta con alrededor de 20 años de experiencia en el sector de telecomunicaciones, desempeñando roles tanto técnicos como comerciales, de liderazgo de ventas y marketing, actualmente dirige el posicionamiento de Nokia y ayuda a la generación de negocios en el mercado Latinoamericano, con amplio enfoque en Transformación Digital, Industria 4.0 y Tecnología 5G, logrando aportar una visión tecnológica y de negocios global por haber vivido 9 años fuera de México en países como China, Nigeria, Ecuador, Panamá, Argelia, Marruecos y Suecia, lográndose consolidar como un referente en el sector. Es Ingeniero en Comunicaciones y Electrónica por el Instituto Politécnico Nacional de México y un diplomado master en Marketing por Wharton School de la Universidad de Pennsylvania.'
+  },
 ]
 export { speakers }
