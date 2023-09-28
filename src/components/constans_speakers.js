@@ -261,5 +261,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/santiago-escalona.webp',
     sketch: 'Santiago cuenta con alrededor de 20 años de experiencia en el sector de telecomunicaciones, desempeñando roles tanto técnicos como comerciales, de liderazgo de ventas y marketing, actualmente dirige el posicionamiento de Nokia y ayuda a la generación de negocios en el mercado Latinoamericano, con amplio enfoque en Transformación Digital, Industria 4.0 y Tecnología 5G, logrando aportar una visión tecnológica y de negocios global por haber vivido 9 años fuera de México en países como China, Nigeria, Ecuador, Panamá, Argelia, Marruecos y Suecia, lográndose consolidar como un referente en el sector. Es Ingeniero en Comunicaciones y Electrónica por el Instituto Politécnico Nacional de México y un diplomado master en Marketing por Wharton School de la Universidad de Pennsylvania.'
   },
+  {
+    id: 31,
+    conference: 'La importancia de la ciberseguridad en los ambientes industriales',
+    name: 'Orlando Hernández López',
+    company: 'Ikusi',
+    rol: 'Arquitecto de ciberseguridad',
+    avatar: '/futuristic-minds/speakers/orlando-hernández.webp',
+    sketch: 'Orlando Hernández López es egresado de la Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas (UPIICSA – IPN) de la carrera de Licenciatura de ciencias de la informática, cuenta con la maestría de seguridad de la información de la UNIR México. Tiene 20 años de experiencia en tecnologías de comunicaciones y seguridad informática. Ha colaborado en empresas de servicios especializados de IT y consultorías de ciberseguridad. Actualmente forma parte de la empresa IKUSI como Arquitecto de soluciones en Ciberseguridad, apoyando a la parte comercial y de negocios en la integración de nuevas herramientas y soluciones para la generación de servicios que brinden un valor agregado a los clientes para mejorar sus estrategias de ciberseguridad en ambientes de IT y OT.'
+  },
 ]
 export { speakers }

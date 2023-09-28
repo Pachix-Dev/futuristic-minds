@@ -112,18 +112,18 @@ const programITM = {
     ],
     oct_5: [
       {
-        id: 0,
+        id: 31,
         id_s2: 0,
         hour: '09:00 hrs',
         duration: '45 min',
-        name: 'Ikusi',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/ikusi.webp',
-        rol: '',
+        name: 'Orlando Hernández López',
+        avatar: '/futuristic-minds/speakers/orlando-hernández.webp',
+        logo:'',
+        rol: 'Arquitecto de ciberseguridad',
         form: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        institution: 'IKUSI',
+        conference: 'La importancia de la ciberseguridad en los ambientes industriales',
+        resume: 'En esta charla, los asistentes podrán conocer los antecedentes de cómo el sector industrial se ha venido transformando con iniciativas digitales, sin embargo, es de suma importancia conocer que un factor de éxito para dichas iniciativas es considerar la ciberseguridad en todo momento, por la relevancia en el aumento de la exposición de riesgos en las convergencias de intercomunicación de sistemas de IT con los esquemas de Tecnologías de Operación (OT).'
       },
       {
         id: 3,
