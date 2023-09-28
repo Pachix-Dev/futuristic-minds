@@ -31,6 +31,9 @@ import percepto from '../../assets/aliados/percepto.webp'
 import educareInnovacion from '../../assets/aliados/educare_innovacion.webp'
 import osmotronik from '../../assets/aliados/osmotronik.webp'
 
+import metaphorce from '../../assets/aliados/metaphorce.webp'
+import utl from '../../assets/aliados/utl.webp'
+
 
 
 export function StrategicAllies() {
@@ -149,6 +152,13 @@ export function StrategicAllies() {
                     </div>
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={osmotronik} width={280} alt='seg' />
+                    </div>
+
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={metaphorce} width={280} alt='seg' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={utl} width={280} alt='seg' />
                     </div>
                 </Carousel>
             </div>
