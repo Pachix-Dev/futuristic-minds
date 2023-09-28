@@ -143,7 +143,7 @@ const programITM = {
         id: 3,
         hour: '11:00 hrs',
         duration: '45 min',
-        name: 'Maximiliano Hernández | Ramón Contreras',
+        name: 'Maximiliano Hernández | Christian Landeros',
         avatar: '',
         logo: '/futuristic-minds/img/slider/mitsubishi.webp',
         form: '',
