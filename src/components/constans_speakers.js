@@ -199,7 +199,7 @@ const speakers = [
   },
   {
     id: 24,
-    conference: 'Comunicación 4.0: ¿Qué es y cómo afecta a la industria 4.0?',
+    conference: 'La influencia de la AI en los softskills',
     name: 'Rocío Bretchnaider',
     company: 'Metaphorce Tech',
     rol: 'COO',
