@@ -243,5 +243,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/nicolas-mena.webp',
     sketch: 'Ingeniero en Mecatrónica, por el Instituto Tecnológico de León.   Certificado en Diseño y Simulación asistida por computadora con CATIA y NX. Ha impartido cursos de Industria 4.0 en el área de Robótica Colaborativa, Machine Learning y Visión Artificial. Actualmente, trabaja en el Centro de Innovación del IECA AAM, impulsando tecnologías emergentes.'
   },
+  {
+    id: 29,
+    conference: 'Lego Serious Play',
+    name: 'Hugo Iván Buenrostro Vázquez',
+    company: 'Itesoluciones - Contpaqi',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/hugo-buenrostro.webp',
+    sketch: 'Hugo Buenrostro, diseñador UX/UI egresado de la Universidad de Guadalajara, se destaca en la conceptualización de ideas e ilustración. Su experiencia en comunicación gráfica, metodologías de innovación y tecnologías le ha permitido crear relaciones significativas en CONTPAQi a través del Blog Estudiantil: Empréndete. Su trabajo se centra en conectar con futuros profesionistas y emprendedores, promoviendo soluciones innovadoras. Además, ha compartido su conocimiento como expositor en diversos foros y universidades a nivel nacional, incluyendo TalentLand, UNAM, UANL y la Secretaría de Innovación Jalisco. Su pasión y dedicación lo posicionan como un profesional persuasivo y confiable en su campo.'
+  },
 ]
 export { speakers }

@@ -882,12 +882,12 @@ const programITM = {
         hour: '09:00 hrs',
         duration: '45 min',
         name: 'Hugo Iván Buenrostro Vázquez',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/hugo-buenrostro.webp',
         avatar2: '',
         rol: '',
         institution: 'Itesoluciones - Contpaqi',
         conference: 'Lego Serious Play',
-        resume: ''
+        resume: 'El curso taller Lego Serious Play es una metodología utilizada en procesos de innovación y resolución de problemas que utiliza piezas de Lego para representar ideas, conceptos y situaciones complejas. El taller es una experiencia de aprendizaje en la que se enseña a los participantes a utilizar esta metodología para potenciar la creatividad, la comunicación, el trabajo en equipo y la toma de decisiones.'
       },
       {
         id: 0,
@@ -895,25 +895,25 @@ const programITM = {
         hour: '10:00 hrs',
         duration: '45 min',
         name: 'Hugo Iván Buenrostro Vázquez',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/hugo-buenrostro.webp',
         avatar2: '',
         rol: '',
         institution: 'Itesoluciones - Contpaqi',
         conference: 'Lego Serious Play',
-        resume: ''
+        resume: 'El curso taller Lego Serious Play es una metodología utilizada en procesos de innovación y resolución de problemas que utiliza piezas de Lego para representar ideas, conceptos y situaciones complejas. El taller es una experiencia de aprendizaje en la que se enseña a los participantes a utilizar esta metodología para potenciar la creatividad, la comunicación, el trabajo en equipo y la toma de decisiones.'
       },
       {
         id: 0,
         id_s2: 0,
         hour: '11:00 hrs',
-        duration: '0 min',
+        duration: '45 min',
         name: 'Hugo Iván Buenrostro Vázquez',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/hugo-buenrostro.webp',
         avatar2: '',
         rol: '',
         institution: 'Itesoluciones - Contpaqi',
         conference: 'Lego Serious Play',
-        resume: ''
+        resume: 'El curso taller Lego Serious Play es una metodología utilizada en procesos de innovación y resolución de problemas que utiliza piezas de Lego para representar ideas, conceptos y situaciones complejas. El taller es una experiencia de aprendizaje en la que se enseña a los participantes a utilizar esta metodología para potenciar la creatividad, la comunicación, el trabajo en equipo y la toma de decisiones.'
       },
     ]
   }

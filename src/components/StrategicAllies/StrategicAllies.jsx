@@ -34,6 +34,9 @@ import osmotronik from '../../assets/aliados/osmotronik.webp'
 import metaphorce from '../../assets/aliados/metaphorce.webp'
 import utl from '../../assets/aliados/utl.webp'
 
+import contpaqi from '../../assets/aliados/contpaqi.webp'
+import iteSoluciones from '../../assets/aliados/ite-soluciones.webp'
+
 
 
 export function StrategicAllies() {
@@ -151,14 +154,19 @@ export function StrategicAllies() {
                         <img className="img-aliado" src={educareInnovacion} width={280} alt='seg' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={osmotronik} width={280} alt='seg' />
-                    </div>
-
-                    <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={metaphorce} width={280} alt='seg' />
+                        <img className="img-aliado" src={osmotronik} width={280} alt='osmotronik' />
                     </div>
                     <div className='exibitorSlider text-center h-100'>
-                        <img className="img-aliado" src={utl} width={280} alt='seg' />
+                        <img className="img-aliado" src={metaphorce} width={280} alt='metaphorce' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={utl} width={280} alt='utl' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={contpaqi} width={280} alt='contpaqi' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={iteSoluciones} width={280} alt='ite-soluciones' />
                     </div>
                 </Carousel>
             </div>
