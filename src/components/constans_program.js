@@ -222,18 +222,32 @@ const programITM = {
         resume: ''
       },
       {
-        id: '',
+        id: 30,
         id_s2: '',
-        hour: '16:00 hrs',
+        hour: '17:00 hrs',
         duration: '45 min',
-        name: 'Nokia',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/nokia.webp',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
-      },
+        name: 'Santiago Escalona',
+        avatar: '/futuristic-minds/speakers/santiago-escalona.webp',
+        logo:'',
+        form: '',
+        rol: 'Director de marketing estratégico',
+        institution: 'Nokia',
+        conference: 'Una empresa es tan inteligente como la gente que es parte de ella',
+        resume: 'Las tecnologías de comunicación inalámbrica de misión crítica son un habilitador clave para acelerar el camino hacia la Industria 4.0, asegurando ventajas competitivas en términos de innovación, eficiencia y flexibilidad. Identificar las fortalezas y desafíos de integrar sistemas de comunicación en rápida evolución para desarrollar aplicaciones industriales competitivas y confiables requiere una fuerte cooperación y un entendimiento común entre todos los actores en la cadena de valor. En esta sesión, más allá de la tecnología, podremos ver lo valioso que son los recursos humanos y su formación como causal de esta 4ª revolución, la incorporación cada vez mayor de carreras STEAM en nuestro ámbito y formación diaria es fundamental en este proceso.'
+      }
+      // {
+      //   id: '',
+      //   id_s2: '',
+      //   hour: '16:00 hrs',
+      //   duration: '45 min',
+      //   name: 'Nokia',
+      //   avatar: '',
+      //   logo:'/futuristic-minds/img/slider/nokia.webp',
+      //   rol: '',
+      //   institution: '',
+      //   conference: 'INFORMACIÓN POR CONFIRMAR',
+      //   resume: ''
+      // },
     ],
     oct_6: [
       {
