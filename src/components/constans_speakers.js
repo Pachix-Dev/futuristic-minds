@@ -92,7 +92,7 @@ const speakers = [
   },
   {
     id: 11,
-    conference: 'Subirse a la ola de la Responsabilidad Social',
+    conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
     name: 'Laura Eugenia Alejandri Rábago',
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Docente ',
