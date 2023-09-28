@@ -159,7 +159,7 @@ const speakers = [
     name: 'Josué Nieto',
     company: 'Siemens México, Centroamérica y el Caribe',
     rol: 'Especialista de Recursos Humanos',
-    avatar: '/futuristic-minds/speakers/img-man.webp',
+    avatar: '//futuristic-minds/speakers/josue-nieto.webp',
     sketch: 'Psicólogo e investigador con experiencia en la gestión, desarrollo y evaluación de proyectos para mejorar las condiciones de competencia empresarial, a través de la implementación de herramientas científicas, tecnológicas y creativas, con el fin de fortalecer las condiciones laborales. Cuenta con amplia experiencia en recursos humanos y entrenamiento laboral, durante la cual ha diseñado planes estratégicos para empresas y gestión de grupos.'
   },
   {
