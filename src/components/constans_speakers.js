@@ -73,7 +73,7 @@ const speakers = [
   },
   {
     id: 9,
-    conference: 'Diseño especulativo para resolver problemas',
+    conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
     name: 'Ramón Ayala Álvarez',
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Profesor de Innovación y Emprendimiento',
