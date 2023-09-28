@@ -217,7 +217,7 @@ const speakers = [
   },
   {
     id: 26,
-    conference: 'Herramientas que contribuyen a la Logística Inteligente',
+    conference: 'Propuestas de valor desde la Ingeniería para el Diseño FinTech desde el enfoque del emprendimiento',
     name: 'Elizabeth Mena Avilés',
     company: 'Tecnológico de Monterrey campus León',
     rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
