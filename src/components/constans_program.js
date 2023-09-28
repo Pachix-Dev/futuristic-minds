@@ -140,12 +140,13 @@ const programITM = {
         resume: '¡Un futuro impulsado por los estudiantes! Descubre cómo los estudiantes son los responsables de liderar las Industrias del futuro y generar el cambio en México por medio de la innovación, la digitalización y la automatización en los sectores industriales. Aprovecha tus habilidades y conocimientos para hacer una diferencia y forjar un futuro próspero.'
       },
       {
-        id: 3,
+        id: 32,
+        id_s2: 0,
         hour: '11:00 hrs',
         duration: '45 min',
         name: 'Maximiliano Hernández | Christian Landeros',
-        avatar: '',
-        logo: '/futuristic-minds/img/slider/mitsubishi.webp',
+        avatar: '/futuristic-minds/speakers/maximiliano-hernandez.webp',
+        logo: '',
         form: '',
         rol: 'Ingenieros de producto',
         institution: 'Mitsubishi',

@@ -269,5 +269,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/orlando-hernández.webp',
     sketch: 'Orlando Hernández López es egresado de la Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas (UPIICSA – IPN) de la carrera de Licenciatura de ciencias de la informática, cuenta con la maestría de seguridad de la información de la UNIR México. Tiene 20 años de experiencia en tecnologías de comunicaciones y seguridad informática. Ha colaborado en empresas de servicios especializados de IT y consultorías de ciberseguridad. Actualmente forma parte de la empresa IKUSI como Arquitecto de soluciones en Ciberseguridad, apoyando a la parte comercial y de negocios en la integración de nuevas herramientas y soluciones para la generación de servicios que brinden un valor agregado a los clientes para mejorar sus estrategias de ciberseguridad en ambientes de IT y OT.'
   },
+  {
+    id: 32,
+    conference: 'Ellos también fueron jóvenes. La brecha generacional en la industria',
+    name: 'Maximiliano Hernández',
+    company: 'Mitsubishi',
+    rol: 'Ingeniero de producto',
+    avatar: '/futuristic-minds/speakers/maximiliano-hernandez.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  }
 ]
 export { speakers }
