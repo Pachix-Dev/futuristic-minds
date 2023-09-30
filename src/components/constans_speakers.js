@@ -280,7 +280,7 @@ const speakers = [
   },
   {
     id: 33,
-    conference: '',
+    conference: 'La revolución de la educación: la IA transformando el aprendizaje',
     name: 'Rigoberto García Contreras',
     company: 'UNAM ENES León',
     rol: 'Profesor ',
