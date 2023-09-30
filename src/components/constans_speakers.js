@@ -277,6 +277,15 @@ const speakers = [
     rol: 'Ingeniero de producto',
     avatar: '/futuristic-minds/speakers/maximiliano-hernandez.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
+  {
+    id: 33,
+    conference: '',
+    name: 'Rigoberto García Contreras',
+    company: 'UNAM ENES León',
+    rol: 'Profesor ',
+    avatar: '/futuristic-minds/speakers/rigoberto-garcia.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
   }
 ]
 export { speakers }

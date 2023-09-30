@@ -494,13 +494,13 @@ const programITM = {
         resume: ''
       },
       {
-        id: 0,
+        id: 33,
         id_s2: 0,
         hour: '11:00 hrs',
         duration: '45 min',
         name: 'Rigoberto García Contreras',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/unam.webp',
+        avatar: '/futuristic-minds/speakers/rigoberto-garcia.webp',
+        logo:'',
         form: '',
         rol: 'Profesor',
         institution: 'ENES UNAM',
@@ -537,13 +537,13 @@ const programITM = {
         resume: ''
       },
       {
-        id: 0,
+        id: 33,
         id_s2: 0,
         hour: '14:00 hrs',
         duration: '45 min',
         name: 'Rigoberto García Contreras',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/unam.webp',
+        avatar: '/futuristic-minds/speakers/rigoberto-garcia.webp',
+        logo:'',
         form: '',
         rol: 'Profesor',
         institution: 'ENES UNAM',
