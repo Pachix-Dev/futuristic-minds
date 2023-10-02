@@ -359,7 +359,16 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/dinorah-arellano.webp',
     sketch: 'Ing. en electrónica y comunicaciones. Egresada de la Facultad de ingeniería mecánica, eléctrica, electrónica de la Universidad de Guanajuato. Maestría en ciencias en Ingeniería industrial y procesos de manufactura. Egresada de CIATEC. Desde 2007. Maestría en nanotecnología del CIMAV, realizó colaboración en cuerpo académico con análisis de vibraciones de molino de PET. Diplomado en robótica de la universidad Carnegie Mellon. Actualmente trabajo en UTL como PTC en el área de Tecnologías emergentes, industriales e informáticas, ha colaborado en el diseño e impartición de cursos para aula virtual, en desarrollo de programas educativos y participa como gestora de carrera de mecatrónica área sistemas de manufactura flexible.'
   },
-   // {
+  {
+    id: 42,
+    conference: 'Go Karts Eléctricos',
+    name: 'Ellis Spiezia',
+    company: 'Secretaría de Educación de Guanajuato',
+    rol: 'Piloto de carreras',
+    avatar: '/futuristic-minds/speakers/ellis-spiezia.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
+  // {
   //   id: 37,
   //   conference: '',
   //   name: '',

@@ -385,14 +385,14 @@ const programITM = {
         id_s2: 0,
         hour: '10:00 hrs',
         duration: '45 min',
-        name: 'TBC SEG',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        name: 'Ellis Spiezia',
+        avatar: '/futuristic-minds/speakers/ellis-spiezia.webp',
+        logo:'',
         form: '',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        rol: 'Piloto de carreras',
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'Go Karts Eléctricos',
+        resume: 'Piloto de carreras eléctricas, defensor y embajador de los deportes de motor eléctricos, liderando una nueva generación que redefinirá la educación, la economía y la equidad.'
       },
       {
         id: 20,
