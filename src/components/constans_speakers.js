@@ -314,5 +314,23 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/DiegoSinhue.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
+  {
+    id: 37,
+    conference: 'Estudiantes líderes: las Industrias del Futuro están en tus manos',
+    name: 'David Herrera',
+    company: 'Schneider Electric',
+    rol: 'Sales Engineer OEM',
+    avatar: '/futuristic-minds/speakers/david-herrera.webp',
+    sketch: 'Ingeniero de Ventas OEM en Schneider Electric. Es Ingeniero en Electricidad, Electrónica y Comunicaciones por la Universidad de Guanajuato. Cuenta con más de 15 años de experiencia en consultoría técnica y ventas.'
+  },
+  // {
+  //   id: 37,
+  //   conference: '',
+  //   name: '',
+  //   company: '',
+  //   rol: '',
+  //   avatar: '',
+  //   sketch: 'INFORMACIÓN POR CONFIRMAR'
+  // },
 ]
 export { speakers }
