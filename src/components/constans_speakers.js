@@ -404,6 +404,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/miguel-rios.webp',
     sketch: 'El Dr. Miguel Angel Gil Rios es originario de la ciudad de León Guanajuato. Concluyó los estudios de la Licenciatura en Informática el año 2003, en el Instituto Tecnológico de León. Entre los años 2002 y 2007 laboró en el área de procesamiento de datos y desarrollo de software en el INEGI y posteriormente en la empresa QuarkSoft. En el periodo 2007-2009 estudió la Maestría en Ciencias de la Computación en el mismo instituto, con una beca del CONAHCyT ya que ésta se encuentra adscrita al Sistema Nacional de Posgrados. En el año 2022 obtuvo el Grado Laureado de Doctor en Ciencias de la Ingeniería, con especialidad en el área de Computación, por parte de la Universidad de Guanajuato. Desde el año 2010 a la fecha, trabaja en la Universidad Tecnológica de León como Profesor-Investigador en el área de Tecnologías de la Información.'
   },
+  {
+    id: 47,
+    conference: 'El ADN del Futuro especialista en Electromovilidad',
+    name: 'Antonio  Benjamín Pascual Tacea',
+    company: 'Secretaría de Educación de Guanajuato',
+    rol: 'CEO Masare Moto',
+    avatar: '/futuristic-minds/speakers/antonio-pascual.webp',
+    sketch: 'Antonio Pascual, CEO de Masare Motors; experto en educación de la Electromovilidad, softwares y habilidades que todo profesional de los Vehículos eléctricos debe saber y cómo las agencias están transformando su industria. Su organización, Masare Motors es una empresa mexicana enfocada en comercializar vehículos ecológicos, así como en fortalecer las capacidades de venta de los concesionarios a través de capacitaciones, estrategias de ventas digitales y reubicación de inventario.'
+  },
   // {
   //   id: 37,
   //   conference: '',
