@@ -392,7 +392,7 @@ const programITM = {
         rol: 'Piloto de carreras',
         institution: 'Secretaría de Educación de Guanajuato',
         conference: 'Go Karts Eléctricos',
-        resume: 'Piloto de carreras eléctricas, defensor y embajador de los deportes de motor eléctricos, liderando una nueva generación que redefinirá la educación, la economía y la equidad.'
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 20,
