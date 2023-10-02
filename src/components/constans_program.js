@@ -495,18 +495,18 @@ const programITM = {
       //   resume: 'INFORMACIÓN POR CONFIRMAR'
       // },
       {
-        id: 0,
+        id: 41,
         id_s2: 0,
         hour: '16:00 hrs',
         duration: '45 min',
-        name: 'TBC SEG',
+        name: 'Dinorah Arellano Lara ',
         avatar: '',
-        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        logo:'/futuristic-minds/speakers/dinorah-arellano.webp',
         form: '',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        rol: 'Docente',
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'Electromovilidad una solución sostenible',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ],
     oct_5: [

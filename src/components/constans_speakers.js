@@ -350,6 +350,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/juan-luna.webp',
     sketch: 'Ingeniero con más de 10 años de experiencia en dirección y coordinación de equipos multidisciplinarios y desarrollo de proyectos. Estudios: 1. Ingeniero Mecánico y Eléctrico. 2. Especialista en Ingeniería Biomédica. 3. Mtro. en Optomecatrónica. 4. Doctor en Administración. Experiencia: 1. Juez Internacional y nacional en las competencias BAJA SAE. 2. Faculty en la competencia nacional BAJA SAE México por  más de 5 años. 3. Consultor y asesor de diseño de la escudería de Benito Guerra. 4. Director del comité organizador del evento Baja Bajío. 5. Parte del Comité Nacional de Asesores de la competencia nacional Electratón. 6. Promotor de desarrollo de prototipos para competencias  BAJA y Electraton. 7. Especialista en diseño mecánico enfocado a la industria  automotriz, trabajando para diversas empresas, centros de  investigación y universidades. 8. Juez en diversas competencias regionales en Robótica. 9. Docente en la universidad Iberoamericana de León. 10. Coordinador de Ing. Electromecánica de la U. Salle Bajío en  el periodo 2016-2023. 11. Asesor técnico para CENEVAL en Ing. Mecánica y Eléctrica  2016-2023, en el área de diseño mecánico. 12. Desarrollador y diseñador mecánico para el área de  Optomecánica en el Centro de Investigaciones en Óptica, para proyectos de desarrollo tecnológico. 13. Asesor para el diseño de sistema telemétrico de adquisición  de revoluciones de motor y transmisión para vehículos todo  terreno, en prototipos de competencia'
   },
+  {
+    id: 41,
+    conference: 'Electromovilidad una solución sostenible',
+    name: 'Dinorah Arellano Lara ',
+    company: 'Secretaría de Educación de Guanajuato',
+    rol: 'Docente',
+    avatar: '/futuristic-minds/speakers/dinorah-arellano.webp',
+    sketch: 'Ing. en electrónica y comunicaciones. Egresada de la Facultad de ingeniería mecánica, eléctrica, electrónica de la Universidad de Guanajuato. Maestría en ciencias en Ingeniería industrial y procesos de manufactura. Egresada de CIATEC. Desde 2007. Maestría en nanotecnología del CIMAV, realizó colaboración en cuerpo académico con análisis de vibraciones de molino de PET. Diplomado en robótica de la universidad Carnegie Mellon. Actualmente trabajo en UTL como PTC en el área de Tecnologías emergentes, industriales e informáticas, ha colaborado en el diseño e impartición de cursos para aula virtual, en desarrollo de programas educativos y participa como gestora de carrera de mecatrónica área sistemas de manufactura flexible.'
+  },
    // {
   //   id: 37,
   //   conference: '',
