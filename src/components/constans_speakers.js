@@ -329,7 +329,7 @@ const speakers = [
     name: 'Ernesto Enei Chi',
     company: 'Secretaría de Educación de Guanajuato',
     rol: '',
-    avatar: '/futuristic-minds/img/slider/ernesto-chai.webp',
+    avatar: '/futuristic-minds/speakers/ernesto-chai.webp',
     sketch: 'Ingeniero con más de 10 años en el diseño de vehículos todo terreno y vehículos eléctricos. Estudios: 1.Ingeniero Mecánico y Eléctrico. 2.Mtro. en Administración y Finanzas. Experiencia: 1. Fundador y coordinador del equipo de  desarrollo de TI y Redes en SAPAL. 2. Iniciador en México del desarrollo de  prototipos automotrices universitarios. 3. Primer mexicano en ganar la competencia  Internacional BAJA SAE. 4. Fundador del equipo BAJA SAE de la Universidad La Salle Bajío. 5. Primer Ingeniero en recibir el reconocimiento a trayectoria destacada por parte de SAE México. 6. Único faculty tricampeón nacional en  competencias BAJA SAE México y campeón  Internacional en USA. 7. Fundador del equipo Electratón de la Universidad La Salle Bajío. 8. Director y coordinador del diseño de más de 15 prototipos todo terreno y 5 prototipos de pista  100% eléctricos. 9. Profesor emérito en la Facultad de Ingenierías  y Tecnologías de la Universidad La Salle Bajío.'
   },
   // {

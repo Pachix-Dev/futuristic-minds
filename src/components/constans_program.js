@@ -218,7 +218,7 @@ const programITM = {
         hour: '14:00 hrs',
         duration: '45 min',
         name: 'Ernesto Enei Chi',
-        avatar: '/futuristic-minds/img/slider/ernesto-chai.webp',
+        avatar: '/futuristic-minds/speakers/ernesto-chai.webp',
         logo:'',
         rol: '',
         form: '',
