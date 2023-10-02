@@ -938,14 +938,14 @@ const programITM = {
         id_s2: 0,
         hour: '14:00 hrs',
         duration: '90 min',
-        name: '',
+        name: 'Titulares de IES y IEMS',
         avatar: '',
         logo:'/futuristic-minds/img/slider/edu_gto.webp',
         rol: '',
         form: '',
         institution: 'Secretaría de Educación de Guanajuato',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        conference: 'Planteamiento Estatal de Electromovilidad: desafìos y retos en la Educación del Estado de Guanajuato',
+        resume: ' INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 14,
