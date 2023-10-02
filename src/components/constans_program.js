@@ -213,18 +213,18 @@ const programITM = {
         resume: 'Programa para formar a los estudiantes de nivel universitario de carreras de ingenierías relacionadas a la industria de proceso enfocados en el control y la automatización'
       },
        {
-        id: 0,
+        id: 38,
         id_s2: 0,
         hour: '14:00 hrs',
         duration: '45 min',
-        name: 'Secretaría de Educación de Guanajuato',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        name: 'Ernesto Enei Chi',
+        avatar: '/futuristic-minds/img/slider/ernesto-chai.webp',
+        logo:'',
         rol: '',
         form: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'Avance de los vehículos híbridos y eléctricos a través de la historia',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       // {
       //   id: 0,
