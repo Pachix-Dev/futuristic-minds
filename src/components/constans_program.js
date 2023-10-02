@@ -247,9 +247,24 @@ const programITM = {
         name: 'Salvador Cruz',
         avatar: '',
         logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        form: '',
         rol: '',
         institution: 'Secretaría de Educación de Guanajuato',
         conference: 'Electromovilidad. Líneas de acción para enfrentar este reto',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
+      },
+      {
+        id: 39,
+        id_s2: 0,
+        hour: '16:00 hrs',
+        duration: '45 min',
+        name: 'Antonio Reus',
+        avatar: '',
+        logo:'/futuristic-minds/speakers/antonio-reus.webp',
+        form: '',
+        rol: 'Director General',
+        institution: 'IDEA GTO',
+        conference: 'Tecnología para Emprender',
         resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
