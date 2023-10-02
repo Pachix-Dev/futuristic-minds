@@ -350,17 +350,17 @@ const programITM = {
         resume: 'Una carrera con propósito es algo que muchos anhelan, pero pocos logran encontrar. Trabajar en algo que te permita cumplir tu pasión, aprovechar tu experiencia y tener un impacto real en la sociedad es complejo. En Siemens lo hacemos posible, al transformar las grandes ideas en realidad. Te invitamos a que conozcas cómo es que la tecnología con propósito transforma el día a día de millones de personas, incluso, la de nuestros colaboradores.'
       },
       {
-        id: 0,
+        id: 40,
         id_s2: 0,
         hour: '13:00 hrs',
         duration: '45 min',
-        name: 'Secretaría de Educación de Guanajuato',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        name: 'Juan Manuel Luna',
+        avatar: '/futuristic-minds/speakers/juan-luna.webp',
+        logo:'',
         rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'De la idea a la electromovilidad',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
     ]
   },

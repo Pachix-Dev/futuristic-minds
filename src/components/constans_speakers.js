@@ -341,7 +341,16 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/antonio-reus.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
-  // {
+  {
+    id: 40,
+    conference: 'De la idea a la electromovilidad',
+    name: 'Juan Manuel Luna',
+    company: 'Secretaría de Educación de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/juan-luna.webp',
+    sketch: 'Ingeniero con más de 10 años de experiencia en dirección y coordinación de equipos multidisciplinarios y desarrollo de proyectos. Estudios: 1. Ingeniero Mecánico y Eléctrico. 2. Especialista en Ingeniería Biomédica. 3. Mtro. en Optomecatrónica. 4. Doctor en Administración. Experiencia: 1. Juez Internacional y nacional en las competencias BAJA SAE. 2. Faculty en la competencia nacional BAJA SAE México por  más de 5 años. 3. Consultor y asesor de diseño de la escudería de Benito Guerra. 4. Director del comité organizador del evento Baja Bajío. 5. Parte del Comité Nacional de Asesores de la competencia nacional Electratón. 6. Promotor de desarrollo de prototipos para competencias  BAJA y Electraton. 7. Especialista en diseño mecánico enfocado a la industria  automotriz, trabajando para diversas empresas, centros de  investigación y universidades. 8. Juez en diversas competencias regionales en Robótica. 9. Docente en la universidad Iberoamericana de León. 10. Coordinador de Ing. Electromecánica de la U. Salle Bajío en  el periodo 2016-2023. 11. Asesor técnico para CENEVAL en Ing. Mecánica y Eléctrica  2016-2023, en el área de diseño mecánico. 12. Desarrollador y diseñador mecánico para el área de  Optomecánica en el Centro de Investigaciones en Óptica, para proyectos de desarrollo tecnológico. 13. Asesor para el diseño de sistema telemétrico de adquisición  de revoluciones de motor y transmisión para vehículos todo  terreno, en prototipos de competencia'
+  },
+   // {
   //   id: 37,
   //   conference: '',
   //   name: '',
