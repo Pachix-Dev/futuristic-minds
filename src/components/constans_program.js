@@ -120,7 +120,7 @@ const programITM = {
         name: 'Diego Sinhue Rodríguez Vallejo',
         avatar: '/futuristic-minds/speakers/DiegoSinhue.webp',
         form: '',
-        rol: 'Gobernador del estado de Guanajuato',
+        rol: 'Gobernador Constitucional del Estado de Guanajuato',
         institution: 'Gobierno del Estado de Guanajuato',
         conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
         resume: "INFORMACIÓN POR CONFIRMAR"
