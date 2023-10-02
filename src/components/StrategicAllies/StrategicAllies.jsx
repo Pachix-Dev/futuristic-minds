@@ -30,13 +30,11 @@ import amm from '../../assets/aliados/amm.webp'
 import percepto from '../../assets/aliados/percepto.webp'
 import educareInnovacion from '../../assets/aliados/educare_innovacion.webp'
 import osmotronik from '../../assets/aliados/osmotronik.webp'
-
 import metaphorce from '../../assets/aliados/metaphorce.webp'
 import utl from '../../assets/aliados/utl.webp'
-
 import contpaqi from '../../assets/aliados/contpaqi.webp'
 import iteSoluciones from '../../assets/aliados/ite-soluciones.webp'
-
+import eGto from '../../assets/aliados/e-gto.webp'
 
 
 export function StrategicAllies() {
@@ -167,6 +165,9 @@ export function StrategicAllies() {
                     </div>
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={iteSoluciones} width={280} alt='ite-soluciones' />
+                    </div>
+                    <div className='exibitorSlider text-center h-100'>
+                        <img className="img-aliado" src={eGto} width={280} alt='ite-soluciones' />
                     </div>
                 </Carousel>
             </div>
