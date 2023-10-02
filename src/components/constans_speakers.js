@@ -366,7 +366,7 @@ const speakers = [
     company: 'Secretaría de Educación de Guanajuato',
     rol: 'Piloto de carreras',
     avatar: '/futuristic-minds/speakers/ellis-spiezia.webp',
-    sketch: 'INFORMACIÓN POR CONFIRMAR'
+    sketch: 'Piloto de carreras eléctricas, defensor y embajador de los deportes de motor eléctricos, liderando una nueva generación que redefinirá la educación, la economía y la equidad.'
   },
   // {
   //   id: 37,
