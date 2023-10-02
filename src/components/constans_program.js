@@ -244,13 +244,13 @@ const programITM = {
         id_s2: 0,
         hour: '15:00 hrs',
         duration: '45 min',
-        name: 'Secretaría de Educación de Guanajuato',
+        name: 'Salvador Cruz',
         avatar: '',
         logo:'/futuristic-minds/img/slider/edu_gto.webp',
         rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'Electromovilidad. Líneas de acción para enfrentar este reto',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 30,
