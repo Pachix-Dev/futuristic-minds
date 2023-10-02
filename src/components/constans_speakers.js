@@ -413,6 +413,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/antonio-pascual.webp',
     sketch: 'Antonio Pascual, CEO de Masare Motors; experto en educación de la Electromovilidad, softwares y habilidades que todo profesional de los Vehículos eléctricos debe saber y cómo las agencias están transformando su industria. Su organización, Masare Motors es una empresa mexicana enfocada en comercializar vehículos ecológicos, así como en fortalecer las capacidades de venta de los concesionarios a través de capacitaciones, estrategias de ventas digitales y reubicación de inventario.'
   },
+  {
+    id: 48,
+    conference: 'Pitch : Encuentra tu voz',
+    name: 'Ximena María Alarcón Verduzco',
+    company: 'IDEA GTO',
+    rol: '',
+    avatar: '',
+    sketch: 'Psicóloga por vocación, emprendedora de corazón y espíritu.  Agente de cambio y aprendiz por convicción. Apasionada por el crecimiento humano. Enfocada en ser agente de cambio, motivando a descubrir y desarrollar la grandeza interior del ser humano en todas sus dimensiones: psicológica, social, cognitiva, emocional y espiritual. Y así promover una vida más plena en lo individual y en lo colectivo. Licenciada en Psicología por parte de la Universidad Latina de América Maestra en Psicología Clínica por parte de la Universidad de las Américas Puebla. Tesis con mención honorífica y graduada Cum Laude. Con más de 15 años de experiencia en el sector público y  educativo. Ha desempeñado puestos de alta dirección en la administración pública estatal y federal. Cuenta con formación en: Creatividad, Coaching, Design Thinking, Diseño y marketing, planeación, emprendimiento e innovación, Mega tendencias ,Políticas Públicas, desarrollo personal e institucional, comunicación y solución de conflictos, liderazgo, programación neurolingüística, sexualidad e identidad de género, psicología del Mexicano, entre otros.'
+  },
   // {
   //   id: 37,
   //   conference: '',

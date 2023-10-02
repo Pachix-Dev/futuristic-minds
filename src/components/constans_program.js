@@ -842,7 +842,20 @@ const programITM = {
         conference: 'Herramientas que contribuyen a la Logística Inteligente',
         resume: 'Reconocer algunas herramientas que, desde la Ingeniería, se han sumado en las cadenas de suministro para hablar de logística 4.0 y su valor desde la definición y la mejora continua de los procesos'
       },
-      
+      {
+        id: 48,
+        id_s2: 0,
+        hour: '17:00 hrs',
+        duration: '45 min',
+        name: 'Ximena María Alarcón Verduzco',
+        avatar: '/futuristic-minds/speakers/elizabeth_mena.webp',
+        avatar2: '',
+        form: '',
+        rol: '',
+        institution: 'IDEA GTO',
+        conference: 'Pitch : Encuentra tu voz',
+        resume: 'El arte de contar, de transmitir, de Pitchar, de impactar con tu voz; está dentro de ti. Buscamos compartirte un camino para que inicies ese viaje maravilloso para contactar con tu voz y exponerla al mundo. En este taller teórico-práctico se busca crear un lugar para el fortalecimiento mental, emocional y corporal de los asistentes para entregar-realizar u n Pitch contundente.'
+      },
     ],
     oct_5: [
       {
