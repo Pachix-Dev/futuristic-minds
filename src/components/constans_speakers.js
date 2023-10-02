@@ -377,6 +377,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/gerardo-vazquez.webp',
     sketch: 'Dr. Gerardo Vázquez recibió el grado de Doctor en Ingeniería Eléctrica en la Universidad Politécnica de Cataluña (UPC), en Barcelona, España en el año 2013. Desde el año 2012 es Profesor-Investigador del departamento de ingeniería electrónica del Instituto Tecnológico Superior de Irapuato y ha sido reconocido por el sistema nacional de investigadores (SNI) del CONACYT con la distinción de Investigador nacional nivel 2. El Dr. Vázquez ha trabajado en proyectos de desarrollo tecnológico con diversas industrias tanto extranjeras como nacionales tales como: TORYTRANS, CIRPROTEC, ABENGOA-Solar, ANORTEC, IKERLAN, CEMER, BOS AOUTOMOTIVE y WURTH ELEKTRONIK MEXICO. Es Senior Member de la IEEE y cuenta con más de noventa artículos publicados tanto en revistas de investigación como en congresos internacionales y una patente internacional. Dentro de sus principales intereses de investigación se encuentran los convertidores de potencia para aplicaciones de energías renovables, estrategias de modulación para inversores, entre otros.'
   },
+  {
+    id: 37,
+    conference: 'Mentes Ágiles = Juventudes Destacadas',
+    name: 'Beatriz Álvarez Granados',
+    company: 'Juventudes GTO',
+    rol: 'Jefa de innovación para el desarrollo juvenil y formación especializada ',
+    avatar: '/futuristic-minds/speakers/beatriz-alvarez.webp',
+    sketch: 'Licenciada en Comercio Internacional por la Universidad de Guanajuato, con maestría en Comunicación Corporativa Empresarial con especialidad en Programación Neurolingüística y maestría en Administración de Negocios por la Escuela de Negocios Europea de Barcelona. Cuenta con una certificación Internacional en Estrategias de E-Commerce por Alibaba Group, el líder chino de comercio electrónico de todo el mundo y otra de Working in a Digital World: Professional Skills y Design Thinking de IBM. Trabajó en la Universidad de Guanajuato en el departamento de Desarrollo Estudiantil, generando esquemas de atención integral a los estudiantes mediante un sistema de atención en red con los diferentes campus y divisiones de la institución. Posteriormente trabajó en la Dirección de Extensión Cultural en el área de planeación y programación de eventos culturales, llevando la agenda global de los eventos de toda la Universidad, por último trabajó en la Dirección de Comunicación, en el cual desarrolló un proyecto de embajadores institucionales, en el área de comunicación estratégica. Después de algunos años en el sector educativo, decidió moverse al sector empresarial, entrando a la empresa MOTEBO, una empresa de desarrollo tecnológico de IoT, donde se encargó del desarrollo comercial de diferentes productos tecnológicos de la empresa y de su estrategia de comunicación'
+  },
   // {
   //   id: 37,
   //   conference: '',
