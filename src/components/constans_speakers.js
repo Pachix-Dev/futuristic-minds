@@ -423,7 +423,7 @@ const speakers = [
     sketch: 'Psicóloga por vocación, emprendedora de corazón y espíritu.  Agente de cambio y aprendiz por convicción. Apasionada por el crecimiento humano. Enfocada en ser agente de cambio, motivando a descubrir y desarrollar la grandeza interior del ser humano en todas sus dimensiones: psicológica, social, cognitiva, emocional y espiritual. Y así promover una vida más plena en lo individual y en lo colectivo. Licenciada en Psicología por parte de la Universidad Latina de América Maestra en Psicología Clínica por parte de la Universidad de las Américas Puebla. Tesis con mención honorífica y graduada Cum Laude. Con más de 15 años de experiencia en el sector público y  educativo. Ha desempeñado puestos de alta dirección en la administración pública estatal y federal. Cuenta con formación en: Creatividad, Coaching, Design Thinking, Diseño y marketing, planeación, emprendimiento e innovación, Mega tendencias ,Políticas Públicas, desarrollo personal e institucional, comunicación y solución de conflictos, liderazgo, programación neurolingüística, sexualidad e identidad de género, psicología del Mexicano, entre otros.'
   },
   {
-    id: 48,
+    id: 49,
     conference: '',
     name: 'Francisco Gasca Vargas',
     company: 'Universidad Politécnica de Guanajuato',
