@@ -311,7 +311,7 @@ const speakers = [
     name: 'Diego Sinhue Rodríguez Vallejo',
     company: 'Gobierno del Estado de Guanajuato',
     rol: 'Gobernador del estado de Guanajuato',
-    avatar: '/futuristic-minds/speakers/DiegoSinhue.webp',
+    avatar: '/futuristic-minds/speakers/img-man.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
   {
