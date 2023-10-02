@@ -525,18 +525,18 @@ const programITM = {
         resume: 'Analizaremos lo importante del agua en nuestra vida diaria, la situación que vivimos en nuestro municipio, así como trabajos y estrategias que el SAPAL realiza para poder abastecer a la ciudad en constante crecimiento. Se brindarán consejos para que los participantes puedan implementar acciones para su correcto uso y aprovechamiento.'
       },
       {
-        id: 0,
+        id: 43,
         id_s2: 0,
         hour: '10:00 hrs',
         duration: '45 min',
-        name: 'TBC SEG',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        name: 'Gerardo Vázquez Guzmán',
+        avatar: '/futuristic-minds/speakers/gerardo-vazquez.webp',
+        logo:'',
         form: '',
         rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'La ingeniería de la electrónica de potencia en la electromovilidad ',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 33,

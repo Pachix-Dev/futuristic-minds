@@ -368,6 +368,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/ellis-spiezia.webp',
     sketch: 'Piloto de carreras eléctricas, defensor y embajador de los deportes de motor eléctricos, liderando una nueva generación que redefinirá la educación, la economía y la equidad.'
   },
+  {
+    id: 43,
+    conference: 'La ingeniería de la electrónica de potencia en la electromovilidad',
+    name: 'Gerardo Vázquez Guzmán',
+    company: 'Secretaría de Educación de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/gerardo-vazquez.webp',
+    sketch: 'Dr. Gerardo Vázquez recibió el grado de Doctor en Ingeniería Eléctrica en la Universidad Politécnica de Cataluña (UPC), en Barcelona, España en el año 2013. Desde el año 2012 es Profesor-Investigador del departamento de ingeniería electrónica del Instituto Tecnológico Superior de Irapuato y ha sido reconocido por el sistema nacional de investigadores (SNI) del CONACYT con la distinción de Investigador nacional nivel 2. El Dr. Vázquez ha trabajado en proyectos de desarrollo tecnológico con diversas industrias tanto extranjeras como nacionales tales como: TORYTRANS, CIRPROTEC, ABENGOA-Solar, ANORTEC, IKERLAN, CEMER, BOS AOUTOMOTIVE y WURTH ELEKTRONIK MEXICO. Es Senior Member de la IEEE y cuenta con más de noventa artículos publicados tanto en revistas de investigación como en congresos internacionales y una patente internacional. Dentro de sus principales intereses de investigación se encuentran los convertidores de potencia para aplicaciones de energías renovables, estrategias de modulación para inversores, entre otros.'
+  },
   // {
   //   id: 37,
   //   conference: '',
