@@ -657,17 +657,17 @@ const programITM = {
         resume: 'La inteligencia artificial ayuda a divertir a chicos y grandes: con los asistentes de voz inteligentes (Alexa), juegos y entretenimiento impulsados por la IA, sistemas de recomendación en plataformas streaming, chat bots de entretenimiento y editores de texto e imágenes. Seguramente tú ya los conoces, pero… ¿estos desarrollos sólo sirven para divertirte? Ven, acompáñame a descubrir, cómo algo tan divertido, también sirve en la industria y es capaz de crear diferentes productos. Te sorprenderás de la versatilidad de la inteligencia artificial.'
       },
       {
-        id: 0,
+        id: 45,
         id_s2: 0,
         hour: '10:00 hrs',
         duration: '45 min',
-        name: 'TBC SEG',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/edu_gto.webp',
+        name: 'Juan De Anda Suárez',
+        avatar: '/futuristic-minds/speakers/juan-suarez.webp',
+        logo:'',
         rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
+        institution: 'Secretaría de Educación de Guanajuato',
+        conference: 'Paradigmas de la Inteligencia Artificial en la electromovilidad',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
       },
       {
         id: 13,

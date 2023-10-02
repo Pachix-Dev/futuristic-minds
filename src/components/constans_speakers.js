@@ -386,6 +386,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/beatriz-alvarez.webp',
     sketch: 'Licenciada en Comercio Internacional por la Universidad de Guanajuato, con maestría en Comunicación Corporativa Empresarial con especialidad en Programación Neurolingüística y maestría en Administración de Negocios por la Escuela de Negocios Europea de Barcelona. Cuenta con una certificación Internacional en Estrategias de E-Commerce por Alibaba Group, el líder chino de comercio electrónico de todo el mundo y otra de Working in a Digital World: Professional Skills y Design Thinking de IBM. Trabajó en la Universidad de Guanajuato en el departamento de Desarrollo Estudiantil, generando esquemas de atención integral a los estudiantes mediante un sistema de atención en red con los diferentes campus y divisiones de la institución. Posteriormente trabajó en la Dirección de Extensión Cultural en el área de planeación y programación de eventos culturales, llevando la agenda global de los eventos de toda la Universidad, por último trabajó en la Dirección de Comunicación, en el cual desarrolló un proyecto de embajadores institucionales, en el área de comunicación estratégica. Después de algunos años en el sector educativo, decidió moverse al sector empresarial, entrando a la empresa MOTEBO, una empresa de desarrollo tecnológico de IoT, donde se encargó del desarrollo comercial de diferentes productos tecnológicos de la empresa y de su estrategia de comunicación'
   },
+  {
+    id: 45,
+    conference: 'Paradigmas de la Inteligencia Artificial en la electromovilidad',
+    name: 'Juan de Anda Suárez',
+    company: 'Secretaría de Educación de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/juan-suarez.webp',
+    sketch: 'Juan De Anda-Suárez obtuvo la Licenciatura en Física por la Universidad de Guanajuato, en 2012, la Maestría en Ciencias de la Computación por el TecNM-Instituto Tecnológico de León, en 2014, y el Doctorado en Ciencias de la Computación por el TecNM-Instituto Tecnológico de Tijuana, en 2019. Actualmente es profesor de tiempo completo en la División de Ingeniería Electromecánica del TecNM-Instituto Tecnológico Superior de Purísima del Rincón. Sus intereses de investigación incluyen algoritmos de estimación de distribución, teoría de la información y física computacional. Es miembro del Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología de México (SNI-CONACYT).'
+  },
   // {
   //   id: 37,
   //   conference: '',
