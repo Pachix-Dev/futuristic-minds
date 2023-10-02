@@ -440,6 +440,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/juan-guevara.webp',
     sketch: 'Ingeniero Mecánico por el Instituto Tecnológico de Celaya, especialista en diseño y procesos de manufactura Certificado en programación de robots por la Yaskawa academy, certificado Solid Edge por computadora por Siemens. Ha impartido conferencias sobre Nanotecnología y materiales del futuro, la Manufactura y su importancia tecnológica en el entorno actual. Actualmente desempeña el cargo de profesor Titular A en el Departamento de Ingeniería Robótica de la Universidad Politécnica de Guanajuato, impartiendo asignaturas relacionadas con el área de mecánica, y manufactura.'
   },
+  {
+    id: 51,
+    conference: 'Taller Introducción a Python',
+    name: 'Pedro Jorge de los Santos Lara',
+    company: 'Universidad Politécnica de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/pedro-santos.webp',
+    sketch: 'Ingeniero Mecánico por el Instituto Tecnológico de Tuxtla Gutiérrez y Maestro en Ciencias en Ingeniería Mecánica por el Instituto Tecnológico de Celaya. Ha trabajado diseñando y analizando sistemas mecánicos mediante simulaciones y técnicas experimentales, así como en el diseño e implementación de librerías y scripts de automatización en Python. Actualmente, trabaja como profesor de tiempo completo en el Departamento de Ingeniería Robótica de la Universidad Politécnica de Guanajuato, impartiendo asignaturas relacionadas con el área de mecánica, colaborando en el diseño virtual de asignaturas y realizando actividades de diseño y análisis de sistemas mecatrónicos.'
+  },
   // {
   //   id: 37,
   //   conference: '',

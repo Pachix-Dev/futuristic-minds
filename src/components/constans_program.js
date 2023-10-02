@@ -904,12 +904,12 @@ const programITM = {
         resume: 'Taller diseñado para estudiantes interesadas en aprender a materializar sus ideas, proyectos y prototipos, mediante el diseño por computadora y la manufactura en 3D, una de las tecnologías que están impulsando el desarrollo de la Industria 4.0'
       },
       {
-        id: 0,
+        id: 51,
         id_s2: 22,
         hour: '12:00 hrs',
         duration: '45 min',
         name: 'Pedro Jorge de los Santos Lara | Francisco Gustavo Mota Muñoz',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/pedro-santos.webp',
         avatar2: '/futuristic-minds/speakers/francisco-mota.webp',
         logo: '',
         rol:'',
