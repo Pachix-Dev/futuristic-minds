@@ -305,5 +305,14 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/wolfgang-dold.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
   },
+  {
+    id: 36,
+    conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
+    name: 'Diego Sinhue Rodríguez Vallejo',
+    company: 'Gobierno del Estado de Guanajuato',
+    rol: 'Gobernador del estado de Guanajuato',
+    avatar: '/futuristic-minds/speakers/DiegoSinhue.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
 ]
 export { speakers }

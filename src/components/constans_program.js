@@ -98,17 +98,6 @@ const programITM = {
         conference: 'La Exploración Robótica del Universo',
         resume: "Compartirá una sinopsis sobre su educación, carrera, logros profesionales, y experiencias de trabajo, así como el camino que siguió para obtener un trabajo en el Laboratorio de Propulsión a Chorro (Jet Propulsion Laboratory, JPL) de la NASA. También explicará las funciones y características de la Red del Espacio Profundo (DSN) de JPL y detallará sobre algunas de las misiones robóticas de JPL, pasadas, presentes y futuras. El objetivo de esta plática es servir como inspiración para que estudiantes se animen a terminar sus estudios y den un paso más allá, fuera de su zona de confort."
       },
-      // {
-      //   id: 4,
-      //   hour: '17:00 hrs',
-      //   duration: '45 min',
-      //   name: 'Diego Sinhue Rodríguez Vallejo',
-      //   avatar: '',
-      //   rol: 'Gobernador del estado de Guanajuato',
-      //   institution: 'Gobierno del Estado de Guanajuato',
-      //   conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
-      //   resume: "INFORMACIÓN POR CONFIRMAR"
-      // },
       {
         id: 5,
         hour: '16:00 hrs',
@@ -123,6 +112,17 @@ const programITM = {
         institution: 'Mitsubishi',
         conference: 'Crecimiento profesional',
         resume: 'INFORMACIÓN POR CONFIRMAR'
+      },
+      {
+        id: 36,
+        hour: '17:00 hrs',
+        duration: '45 min',
+        name: 'Diego Sinhue Rodríguez Vallejo',
+        avatar: '/futuristic-minds/speakers/DiegoSinhue.webp',
+        rol: 'Gobernador del estado de Guanajuato',
+        institution: 'Gobierno del Estado de Guanajuato',
+        conference: 'Charla de estudiantes con el Gobernador de Guanajuato',
+        resume: "INFORMACIÓN POR CONFIRMAR"
       },
     ],
     oct_5: [
