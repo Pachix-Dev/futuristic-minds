@@ -684,19 +684,34 @@ const programITM = {
         resume: 'El objetivo de este seminario es empoderar a los jóvenes con el conocimiento necesario para comprender y valorar el impacto de sus acciones en el uso del agua a nivel local y global. A través de la exploración en profundidad del cálculo de la huella hídrica para fomentar una mentalidad responsable y sostenible entre los jóvenes, alentándolos a tomar decisiones informadas y conscientes. Se busca inspirar la adopción de prácticas más eficientes en el uso del agua.'
       },
       {
-        id: 0,
+        id: 44,
         id_s2: 0,
         hour: '12:00 hrs',
         duration: '45 min',
         name: 'Beatriz Álvarez Granados',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/beatriz-alvarez.webp',
         avatar2: '',
-        logo:'/futuristic-minds/img/slider/juventudes.webp',
+        form: '',
+        logo:'',
         rol: 'Jefa de innovación para el desarrollo juvenil y formación especializada',
         institution: 'Juventudes GTO',
-        conference: '',
-        resume: ''
+        conference: 'Mentes Ágiles = Juventudes Destacadas',
+        resume: '"El talento que la era digital demanda incluye el dominio de habilidades sociales y emocionales que, combinadas con rasgos personales y otras competencias de carácter profesional, ofrecen ventajas en el desempeño laboral y suman a tu perfil profesional. En escenarios de trabajo cada vez más colaborativos, son un valor profesional esencial.” En la Industria 4.0, la tecnología está cambiando la forma en que trabajamos, lo que significa que las habilidades técnicas ya no son suficientes. Las empresas buscan profesionales que puedan adaptarse rápidamente a los cambios, trabajar de manera colaborativa y comunicarse efectivamente a través de diferentes canales. Las habilidades blandas son fundamentales en la Industria 4.0 porque permiten a los profesionales trabajar de manera efectiva en equipos multidisciplinarios, resolver problemas complejos y liderar en un entorno de trabajo en constante cambio, esto es un poco de lo que se abordará en el seminario.'
       },
+      {
+        id: 46,
+        id_s2: 5,
+        hour: '13:00 hrs',
+        duration: '45 min',
+        name: 'Miguel Ángel Gil Rios',
+        avatar: '/futuristic-minds/speakers/miguel-rios.webp',
+        avatar2: '',
+        logo: '',
+        rol: 'Profesor',
+        institution: 'Universidad Tecnológica de León',
+        conference: 'Inteligencia Artificial Aplicada en Medicina',
+        resume: 'Uno de los campos con mayor impacto debido a la evolución de la Inteligencia Artificial es la Medicina. Pues, el propósito de esta última es prolongar la vida del ser humano. En este contexto y, con base en los datos publicados por el INEGI en el año 2022, las enfermedades asociadas al corazón son la primera causa de muerte en México. Por tal motivo, el desarrollo de conocimiento y herramientas computacionales enfocadas en este tipo de enfermedades, como son los casos de estenosis coronaria, es relevante.'
+      }
       // {
       //   id: 5,
       //   id_s2: 5,

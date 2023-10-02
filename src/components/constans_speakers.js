@@ -395,6 +395,15 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/juan-suarez.webp',
     sketch: 'Juan De Anda-Suárez obtuvo la Licenciatura en Física por la Universidad de Guanajuato, en 2012, la Maestría en Ciencias de la Computación por el TecNM-Instituto Tecnológico de León, en 2014, y el Doctorado en Ciencias de la Computación por el TecNM-Instituto Tecnológico de Tijuana, en 2019. Actualmente es profesor de tiempo completo en la División de Ingeniería Electromecánica del TecNM-Instituto Tecnológico Superior de Purísima del Rincón. Sus intereses de investigación incluyen algoritmos de estimación de distribución, teoría de la información y física computacional. Es miembro del Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología de México (SNI-CONACYT).'
   },
+  {
+    id: 46,
+    conference: 'Inteligencia Artificial Aplicada en Medicina',
+    name: 'Miguel Ángel Gil Rios',
+    company: 'Universidad Tecnológica de León',
+    rol: 'Profesor',
+    avatar: '/futuristic-minds/speakers/miguel-rios.webp',
+    sketch: 'El Dr. Miguel Angel Gil Rios es originario de la ciudad de León Guanajuato. Concluyó los estudios de la Licenciatura en Informática el año 2003, en el Instituto Tecnológico de León. Entre los años 2002 y 2007 laboró en el área de procesamiento de datos y desarrollo de software en el INEGI y posteriormente en la empresa QuarkSoft. En el periodo 2007-2009 estudió la Maestría en Ciencias de la Computación en el mismo instituto, con una beca del CONAHCyT ya que ésta se encuentra adscrita al Sistema Nacional de Posgrados. En el año 2022 obtuvo el Grado Laureado de Doctor en Ciencias de la Ingeniería, con especialidad en el área de Computación, por parte de la Universidad de Guanajuato. Desde el año 2010 a la fecha, trabaja en la Universidad Tecnológica de León como Profesor-Investigador en el área de Tecnologías de la Información.'
+  },
   // {
   //   id: 37,
   //   conference: '',
