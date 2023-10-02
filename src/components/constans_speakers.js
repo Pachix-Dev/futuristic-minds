@@ -286,6 +286,24 @@ const speakers = [
     rol: 'Profesor ',
     avatar: '/futuristic-minds/speakers/rigoberto-garcia.webp',
     sketch: 'INFORMACIÓN POR CONFIRMAR'
-  }
+  },
+  {
+    id: 34,
+    conference: 'Foro con Embajadores',
+    name: 'Gautier Mignot',
+    company: 'Delegación de la Unión Europea en México',
+    rol: 'Embajador de la Unión Europea en México ',
+    avatar: '/futuristic-minds/speakers/gautier-mignot.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
+  {
+    id: 35,
+    conference: 'Foro con Embajadores',
+    name: 'Wolfgang Dold',
+    company: 'Embajada de la República Federal de Alemania en México',
+    rol: 'Embajador de la República Federal de Alemania en México ',
+    avatar: '/futuristic-minds/speakers/wolfgang-dold.webp',
+    sketch: 'INFORMACIÓN POR CONFIRMAR'
+  },
 ]
 export { speakers }

@@ -58,6 +58,21 @@ const programITM = {
         resume: 'Explora el emocionante mundo de la Industria 4.0 y su aplicación práctica a través del concepto de Gemelo Digital. Analizaremos los impactos transformadores de la tecnología en la fabricación y cómo los Gemelos Digitales están revolucionando la forma en que se diseñan, producen y optimizan productos y procesos industriales.'
       },
       {
+        id: 34,
+        id_s2: 35,
+        hour: '13:00 hrs',
+        duration: '45 min',
+        name: 'Gautier Mignot | Wolfgang Dold',
+        avatar: '/futuristic-minds/speakers/gautier-mignot.webp',
+        avatar2: '/futuristic-minds/speakers/wolfgang-dold.webp',
+        logo: '',
+        form: '',
+        rol: 'Embajador de la Unión Europea en México | Embajador de la República Federal de Alemania en México',
+        institution: 'Delegación de la Unión Europea en México | Embajada de la República Federal de Alemania en México',
+        conference: 'Foro con Embajadores',
+        resume: 'INFORMACIÓN POR CONFIRMAR'
+      },
+      {
         id: 23,
         id_s2: '',
         hour: '14:00 hrs',
