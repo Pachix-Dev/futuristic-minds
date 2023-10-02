@@ -424,12 +424,21 @@ const speakers = [
   },
   {
     id: 49,
-    conference: '',
+    conference: 'Taller PLC Básico Factory IO',
     name: 'Francisco Gasca Vargas',
     company: 'Universidad Politécnica de Guanajuato',
     rol: '',
     avatar: '/futuristic-minds/speakers/francisco-gasca.webp',
     sketch: 'Ingeniero Mecánico por el Instituto Tecnológico de Celaya, especialista en automatización industrial. Ha sido asesor de alumnos en competencias de automatización nacionales convocadas por empresas como SIEMENS y SMC. Ha impartido conferencias tales como Automatización industrial, orígenes y nuevas tendencias. Actualmente desempeña el cargo de profesor Titular A en el Departamento de Ingeniería Robótica de la Universidad Politécnica de Guanajuato, impartiendo asignaturas como Sistemas neumáticos e hidráulicos, PLC, y Automatización industrial.'
+  },
+  {
+    id: 50,
+    conference: 'Taller Manufactura aditiva y diseño 3D',
+    name: 'Juan Lomas Guevara',
+    company: 'Universidad Politécnica de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/juan-guevara.webp',
+    sketch: 'Ingeniero Mecánico por el Instituto Tecnológico de Celaya, especialista en diseño y procesos de manufactura Certificado en programación de robots por la Yaskawa academy, certificado Solid Edge por computadora por Siemens. Ha impartido conferencias sobre Nanotecnología y materiales del futuro, la Manufactura y su importancia tecnológica en el entorno actual. Actualmente desempeña el cargo de profesor Titular A en el Departamento de Ingeniería Robótica de la Universidad Politécnica de Guanajuato, impartiendo asignaturas relacionadas con el área de mecánica, y manufactura.'
   },
   // {
   //   id: 37,

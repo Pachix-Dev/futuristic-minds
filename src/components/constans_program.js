@@ -889,12 +889,12 @@ const programITM = {
         resume: 'Daremos a conocer herramientas y materiales didácticos accesibles, para implementar la educación STEAM en el estado de Guanajuato. Durante el taller los asistentes aprenderán de manera interactiva conceptos de: Electrónica, Programación, Automatización y Robótica. Empleando novedosas herramientas tales como: simuladores web TinkerCAD, software PictoBlox didáctico, kits de robótica educativa libre basado en la tarjeta Arduino UNO, con el cual se controlará un carrito robot. Como material de apoyo y consulta se utilizará el Cuadernillo: Introducción al Internet de las Cosas a través de la Robótica Educativa Libre, desarrollado por el Instituto de Gestión Educativa para la Secretaría de Educación de Guanajuato'
       },
       {
-        id: 0,
+        id: 50,
         id_s2: 22,
         hour: '11:00 hrs',
         duration: '45 min',
         name: 'Juan Lomas Guevara | Francisco Gustavo Mota Muñoz',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/juan-guevara.webp',
         avatar2: '/futuristic-minds/speakers/francisco-mota.webp',
         logo: '',
         rol:'',
