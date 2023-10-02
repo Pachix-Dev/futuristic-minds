@@ -186,7 +186,7 @@ const speakers = [
     company: 'Universidad Politécnica de Guanajuato',
     rol: '',
     avatar: '/futuristic-minds/speakers/francisco-mota.webp',
-    sketch: 'INFORMACIÓN POR CONFIRMAR'
+    sketch: 'Apasionado por la educación y formación de talentos STEAM. Especialista en programación aplicada, desarrollando proyectos de modelado matemático, simulación por computadora, control, automatización, robótica e Industria 4.0 (IA, IoT, ML). Ha impartido cursos y talleres STEAM, para educación básica (USICAMM), media superior, superior, y postgrado. Ha diseñado manuales de electrónica, robótica e internet de las cosas para la Secretaría de Educación de Guanajuato. Actualmente es coordinador de la academia de Robótica en la Universidad Politécnica de Guanajuato, profesor de la Universidad Latina de México y colaborador del Instituto de Gestión e Innovación Educativa.'
   },
   {
     id: 23,
@@ -421,6 +421,15 @@ const speakers = [
     rol: '',
     avatar: '/futuristic-minds/speakers/img-woman.webp',
     sketch: 'Psicóloga por vocación, emprendedora de corazón y espíritu.  Agente de cambio y aprendiz por convicción. Apasionada por el crecimiento humano. Enfocada en ser agente de cambio, motivando a descubrir y desarrollar la grandeza interior del ser humano en todas sus dimensiones: psicológica, social, cognitiva, emocional y espiritual. Y así promover una vida más plena en lo individual y en lo colectivo. Licenciada en Psicología por parte de la Universidad Latina de América Maestra en Psicología Clínica por parte de la Universidad de las Américas Puebla. Tesis con mención honorífica y graduada Cum Laude. Con más de 15 años de experiencia en el sector público y  educativo. Ha desempeñado puestos de alta dirección en la administración pública estatal y federal. Cuenta con formación en: Creatividad, Coaching, Design Thinking, Diseño y marketing, planeación, emprendimiento e innovación, Mega tendencias ,Políticas Públicas, desarrollo personal e institucional, comunicación y solución de conflictos, liderazgo, programación neurolingüística, sexualidad e identidad de género, psicología del Mexicano, entre otros.'
+  },
+  {
+    id: 48,
+    conference: '',
+    name: 'Francisco Gasca Vargas',
+    company: 'Universidad Politécnica de Guanajuato',
+    rol: '',
+    avatar: '/futuristic-minds/speakers/francisco-gasca.webp',
+    sketch: 'Ingeniero Mecánico por el Instituto Tecnológico de Celaya, especialista en automatización industrial. Ha sido asesor de alumnos en competencias de automatización nacionales convocadas por empresas como SIEMENS y SMC. Ha impartido conferencias tales como Automatización industrial, orígenes y nuevas tendencias. Actualmente desempeña el cargo de profesor Titular A en el Departamento de Ingeniería Robótica de la Universidad Politécnica de Guanajuato, impartiendo asignaturas como Sistemas neumáticos e hidráulicos, PLC, y Automatización industrial.'
   },
   // {
   //   id: 37,

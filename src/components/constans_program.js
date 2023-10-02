@@ -859,12 +859,12 @@ const programITM = {
     ],
     oct_5: [
       {
-        id: 0,
+        id: 48,
         id_s2: 22,
         hour: '09:00 hrs',
         duration: '45 min',
         name: 'Francisco Gasca Vargas | Francisco Gustavo Mota Muñoz',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/francisco-gasca.webp',
         avatar2: '/futuristic-minds/speakers/francisco-mota.webp',
         logo: '',
         rol:'',
