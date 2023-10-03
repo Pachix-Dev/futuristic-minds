@@ -52,6 +52,16 @@ export function Conferences () {
                     </h4>
                   </Nav.Link>
                 </Nav.Item>
+
+                <Nav.Item>
+                  <Nav.Link href='#day4' onClick={() => setPrograms(programITM.stage_4)}>
+                    <h4 className='text-light'>
+                    <strong>Laboratorio Creativo</strong><br />
+                      <span className='sub-title'>Robótica</span>
+                    </h4>
+                  </Nav.Link>
+                </Nav.Item>
+
               </Nav>
               <Tabs
                 defaultActiveKey='day1'
