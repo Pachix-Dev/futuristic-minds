@@ -848,7 +848,7 @@ const programITM = {
         hour: '17:00 hrs',
         duration: '45 min',
         name: 'Ximena María Alarcón Verduzco',
-        avatar: '/futuristic-minds/speakers/img-woman.webp',
+        avatar: '/futuristic-minds/speakers/ximena-verduzco.webp',
         avatar2: '',
         form: '',
         rol: '',
