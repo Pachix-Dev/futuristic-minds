@@ -203,7 +203,7 @@ const speakers = [
     name: 'Rocío Bretchnaider',
     company: 'Metaphorce Tech',
     rol: 'COO',
-    avatar: '/futuristic-minds/speakers/img-woman.webp',
+    avatar: '/futuristic-minds/speakers/rocio-bretchnaider.webp',
     sketch: 'Licenciada en Relaciones Industriales por la Universidad Iberoamericana en León y con Maestría en Dirección de Recursos Humanos por la EAE Business School en Barcelona, ha consolidado su carrera en diferentes sectores como manufactura, retail, servicio, educación ejecutando herramientas y diseñando estrategias de valor para aportar valor con el talento de las organizaciones. Ha colaborado en empresas como BRANTANO, Tecnológico de Monterrey World Trade Center Association, TEDx Calzada de los Héroes, City Cáncer Challenge, Consejo Ciudadano de Innovación de Guanajuato, Municipio de Nuevo Laredo, Tamaulipas, entre otras compañías; y ha desarrollado proyectos en conjunto con Clústers y cámaras empresariales para el sector aeroespacial, logística, educación, comercial y financieros. Actualmente, dirige las operaciones del área de talento de METAPHORCE, una plataforma de soluciones llave en mano y talento para la industria de Tecnologías de Información.'
   },
   {
