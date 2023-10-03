@@ -449,7 +449,25 @@ const speakers = [
     avatar: '/futuristic-minds/speakers/pedro-santos.webp',
     sketch: 'Ingeniero Mecánico por el Instituto Tecnológico de Tuxtla Gutiérrez y Maestro en Ciencias en Ingeniería Mecánica por el Instituto Tecnológico de Celaya. Ha trabajado diseñando y analizando sistemas mecánicos mediante simulaciones y técnicas experimentales, así como en el diseño e implementación de librerías y scripts de automatización en Python. Actualmente, trabaja como profesor de tiempo completo en el Departamento de Ingeniería Robótica de la Universidad Politécnica de Guanajuato, impartiendo asignaturas relacionadas con el área de mecánica, colaborando en el diseño virtual de asignaturas y realizando actividades de diseño y análisis de sistemas mecatrónicos.'
   },
-  // {
+  {
+    id: 52,
+    conference: 'Procesos en la Transformación Digital',
+    name: 'Jorge Alberto Natera Rosas',
+    company: 'IDEA GTO',
+    rol: 'CEO',
+    avatar: '/futuristic-minds/speakers/img-man.webp',
+    sketch: 'Mercadólogo por la ULSA Bajío, tengo 20 años de experiencia en el ramo de la publicidad, apasionado por la estrategia, el análisis y desarrollo de ideas. Comprometido con el resultado que siempre será el indicador que nos mida como personas. Planeación y ejecución de distintas campañas tradicionales hasta campañas 360, integrando herramientas de impacto masivo en medios tradicionales y digitales de manera simultánea, participando en diferentes sectores económicos, desde la generación de MiPYMES con programas federales, consolidación de marcas locales, estatales y nacionales. Desarrollo especializado de estrategias en el ambiente Social Media, con el uso de herramientas y algoritmos que concentran la mayoría de las conversaciones para entender el comportamiento social y consumo de información. Participando en la iniciativa privada, gobiernos municipales y en campañas electorales a nivel municipal, estatal y nacional.'
+  },
+  {
+    id: 53,
+    conference: 'Educación STEAM, una alternativa para la innovación y el emprendimiento social',
+    name: 'Edgar González Yebra',
+    company: 'IDEA GTO',
+    rol: 'Director',
+    avatar: '/futuristic-minds/speakers/edgar-yebra.webp',
+    sketch: 'Ingeniero Mecánico con 18 años de experiencia en distintos niveles del sector educativo público. Ha colaborado profesionalmente con SABES, UVEG, SEG, CECYTE, ITL y Prepa en Línea SEP. Soy director de un plantel de Bachillerato en SABES y profesor en el bachillerato UVEG. Promotor de proyectos educativos STEAM orientados al fomento de vocaciones científicas y tecnológicas. Emprendedor apasionado de la robótica y los drones. Fundador y director general de la empresa Q-TECH y la Academia Q-Kids STEAM. Miembro de la Red Global de Mentores Guanajuato.'
+  },
+   // {
   //   id: 37,
   //   conference: '',
   //   name: '',

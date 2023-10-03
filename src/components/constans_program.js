@@ -1017,6 +1017,34 @@ const programITM = {
         conference: 'Lego Serious Play',
         resume: 'El curso taller Lego Serious Play es una metodología utilizada en procesos de innovación y resolución de problemas que utiliza piezas de Lego para representar ideas, conceptos y situaciones complejas. El taller es una experiencia de aprendizaje en la que se enseña a los participantes a utilizar esta metodología para potenciar la creatividad, la comunicación, el trabajo en equipo y la toma de decisiones.'
       },
+      {
+        id: 52,
+        id_s2: 0,
+        hour: '12:00 hrs',
+        duration: '45 min',
+        name: 'Jorge Alberto Natera Rosas',
+        avatar: '',
+        avatar2: '',
+        logo:'/futuristic-minds/img/slider/idea_gto.webp',
+        rol: 'CEO',
+        institution: 'IDEA GTO',
+        conference: 'Procesos en la Transformación Digital',
+        resume: 'Para lograr la implementación de la inteligencia artificial y el machine learning es necesario mapear las necesidades a nivel de procesos e indicadores, aprenderemos a seguir la secuencia de información para lograr una implementación exitosa y a su vez generar el enfoque de más especialización en el área previa de planeación y diseño de estrategias.'
+      },
+      {
+        id: 53,
+        id_s2: 0,
+        hour: '13:00 hrs',
+        duration: '45 min',
+        name: 'Edgar González Yebra',
+        avatar: '/futuristic-minds/speakers/edgar-yebra.webp',
+        avatar2: '',
+        logo:'',
+        rol: 'Director',
+        institution: 'IDEA GTO',
+        conference: 'Educación STEAM, una alternativa para la innovación y el emprendimiento social',
+        resume: 'Analizaremos el significado del acrónimo STEAM y cómo podemos desarrollar emprendimientos de tipo social orientados a contribuir en la solución de problemáticas específicas en el ámbito de la educación y del fomento a las vocaciones científicas y tecnológicas, con un enfoque innovador. Desarrollaremos una actividad relacionada con la robótica pedagógica en la que podremos identificar algunas de las competencias que podemos desarrollar en los niños y jóvenes mediante este enfoque.'
+      },
     ]
   }
 }
