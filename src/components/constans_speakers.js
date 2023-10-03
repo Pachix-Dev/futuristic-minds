@@ -73,7 +73,7 @@ const speakers = [
   },
   {
     id: 9,
-    conference: 'Economía circular ¿Una alternativa para resolver las problemáticas ambientales?',
+    conference: 'Diseño especulativo para resolver problemas',
     name: 'Ramón Ayala Álvarez',
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Profesor de Innovación y Emprendimiento',
@@ -199,7 +199,7 @@ const speakers = [
   },
   {
     id: 24,
-    conference: 'La influencia de la AI en los softskills',
+    conference: 'Comunicación 4.0: ¿Qué es y cómo afecta a la industria 4.0?',
     name: 'Rocío Bretchnaider',
     company: 'Metaphorce Tech',
     rol: 'COO',
@@ -217,7 +217,7 @@ const speakers = [
   },
   {
     id: 26,
-    conference: 'Propuestas de valor desde la Ingeniería para el Diseño FinTech desde el enfoque del emprendimiento',
+    conference: 'Herramientas que contribuyen a la Logística Inteligente',
     name: 'Elizabeth Mena Avilés',
     company: 'Tecnológico de Monterrey campus León',
     rol: 'Directora de Programa Ingeniería Industrial y de Sistemas',
@@ -280,7 +280,7 @@ const speakers = [
   },
   {
     id: 33,
-    conference: 'La revolución de la educación: la IA transformando el aprendizaje',
+    conference: 'Explorando tendencias a través del análisis de sentimientos: Un ejemplo sobre la evolución del consumo durante la pandemia',
     name: 'Rigoberto García Contreras',
     company: 'UNAM ENES León',
     rol: 'Profesor ',
