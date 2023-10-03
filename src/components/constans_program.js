@@ -410,19 +410,19 @@ const programITM = {
         resume: 'Brindar el contexto de la IA en sus aplicaciones en el ámbito de salud'
       },
       {
-        id: 0,
+        id: 44,
         id_s2: 0,
         hour: '12:00 hrs',
         duration: '45 min',
         name: 'Beatriz Álvarez Granados',
-        avatar: '',
+        avatar: '/futuristic-minds/speakers/beatriz-alvarez.webp',
         avatar2: '',
-        logo:'/futuristic-minds/img/slider/juventudes.webp',
+        logo:'',
         form: '',
         rol: 'Jefa de innovación para el desarrollo juvenil y formación especializada',
         institution: 'Juventudes GTO',
-        conference: '',
-        resume: ''
+        conference: 'Mentes Ágiles = Juventudes Destacadas',
+        resume: '"El talento que la era digital demanda incluye el dominio de habilidades sociales y emocionales que, combinadas con rasgos personales y otras competencias de carácter profesional, ofrecen ventajas en el desempeño laboral y suman a tu perfil profesional. En escenarios de trabajo cada vez más colaborativos, son un valor profesional esencial.” En la Industria 4.0, la tecnología está cambiando la forma en que trabajamos, lo que significa que las habilidades técnicas ya no son suficientes. Las empresas buscan profesionales que puedan adaptarse rápidamente a los cambios, trabajar de manera colaborativa y comunicarse efectivamente a través de diferentes canales. Las habilidades blandas son fundamentales en la Industria 4.0 porque permiten a los profesionales trabajar de manera efectiva en equipos multidisciplinarios, resolver problemas complejos y liderar en un entorno de trabajo en constante cambio, esto es un poco de lo que se abordará en el seminario.'
       },
       {
         id: 8,
