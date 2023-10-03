@@ -91,7 +91,7 @@ const speakers = [
   },
   {
     id: 11,
-    conference: 'Construyendo un Futuro Sostenible: Explorando los ODS en Nuestro Entorno',
+    conference: 'Subirse a la ola de la Responsabilidad Social',
     name: 'Laura Eugenia Alejandri Rábago',
     company: 'Escuela de Talentos Guanajuato Azteca',
     rol: 'Docente ',
@@ -145,7 +145,7 @@ const speakers = [
   },
   {
     id: 18,
-    conference: 'Industria 4.0 y el Gemelo Digital: Producto, Proceso y Desempeño',
+    conference: 'Estrategias y herramientas para la Descarbonización Industrial',
     name: 'Mariana Del Rocío García Dorantes',
     company: 'Siemens México, Centroamérica y el Caribe',
     rol: 'Consultora en Transformación Digital y Sustentabilidad',
