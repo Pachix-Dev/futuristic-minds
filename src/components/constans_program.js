@@ -1,20 +1,20 @@
 const programITM = {
   stage_1: {
     oct_4: [
-      {
-        id: 0,
-        id_s2: 0,
-        hour: '09:00 hrs',
-        duration: '45 min',
-        name: 'Cisco',
-        avatar: '',
-        logo:'/futuristic-minds/img/slider/ciscopartner.webp',
-        form: '',
-        rol: '',
-        institution: '',
-        conference: 'INFORMACIÓN POR CONFIRMAR',
-        resume: ''
-      },
+      // {
+      //   id: 0,
+      //   id_s2: 0,
+      //   hour: '09:00 hrs',
+      //   duration: '45 min',
+      //   name: 'Cisco',
+      //   avatar: '',
+      //   logo:'/futuristic-minds/img/slider/ciscopartner.webp',
+      //   form: '',
+      //   rol: '',
+      //   institution: '',
+      //   conference: 'INFORMACIÓN POR CONFIRMAR',
+      //   resume: ''
+      // },
       {
         id: 1,
         id_s2: 2,
