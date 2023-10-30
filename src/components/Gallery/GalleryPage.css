@@ -1,7 +1,14 @@
+
 .lg-react-element {
-    column-count: 3;
+    column-count: 4;
 }
 
+.gallery-title{
+    color: #050872;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
 .gallery-item {
     cursor: pointer;
 }
@@ -26,11 +33,21 @@
 
 .pagination>.active>span {
     color: white;
-    background-color: #e8001e !Important;
+    background-color: #050872 !Important;
     border: solid 1px black !Important;
 }
 
+.gallery{
+    color: transparent;
+}
 
-@media (max-width: 767px) {
-    .lg-react-element { column-count: 2; }
+@media (width < 940px) {
+    .lg-react-element{
+        column-count: 3;
+    }
+}
+@media (width < 425px) {
+    .lg-react-element{
+        column-count: 2;
+    }
 }

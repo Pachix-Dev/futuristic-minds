@@ -1,4 +1,7 @@
 /* iconos de redes sociales */
+.container-footer{
+    color: #fff;
+}
 .footer-socialmedia svg {
     fill: #fafafa;
     width: 30px;
@@ -28,10 +31,6 @@
 .item-link, .link{text-decoration: none;}
 .item-link{ margin: 0px 20px;}
 
-
-.img-logos-mtech{
-    width: 90px;
-}
 .body-card{
     background-color: rgba(8, 9, 8, 0);
     border: px solid  rgb(0, 253, 0);

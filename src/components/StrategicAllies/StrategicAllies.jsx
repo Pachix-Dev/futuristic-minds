@@ -37,7 +37,7 @@ import iteSoluciones from '../../assets/aliados/ite-soluciones.webp'
 import eGto from '../../assets/aliados/e-gto.webp'
 
 
-export function StrategicAllies() {
+export function StrategicAllies () {
 
     const responsive = {
         desktop: {
@@ -55,7 +55,7 @@ export function StrategicAllies() {
     }
     return (
         <>
-            <div className="py-5">
+            <div className="py-2">
                 <Container className="container-aliados my-5" id='strategicAllies'>
                     <Row className="justify-content-md-center">
                         <Col className="text-center title-stra m-3" style={{ color: 'rgba(5,8,114,1)', fontSize: '40px', fontWeight: '900' }}><h2>ALIADOS ESTRATÉGICOS</h2></Col>
@@ -68,7 +68,7 @@ export function StrategicAllies() {
                     infinite
                     autoPlay
                     autoPlaySpeed={2800}
-                    className="container-aliados"
+                    className="container-aliados pb-5"
                 >
                     <div className='exibitorSlider text-center h-100'>
                         <img className="img-aliado" src={leon} width={280} alt='ayuntamiento-leon' />

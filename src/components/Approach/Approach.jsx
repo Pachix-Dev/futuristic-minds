@@ -1,11 +1,12 @@
-import { Col, Row } from "react-bootstrap";
+import { Col , Row } from "react-bootstrap";
 import '../Approach/Approach.css'
 // import manoBot from '../../../futuristic-minds/img/mano-bott.webp'
 // import  niveles from '../../../futuristic-minds/img/niveles.webp'
-export function Approach(){
+export function Approach (){
     return(
         <>
-            <div className="pt-5 container-edu">
+       <div className="container-approach">
+       <div className="pt-5 container-edu">
                 <Row className="container-programa m-0">
                     <Col lg={6} className="item-topics">
                             <div className="cont-list-programa">
@@ -54,6 +55,8 @@ export function Approach(){
                     </Col>
                 </Row>
             </div>
+       </div>
+            
         </>
     )
 }

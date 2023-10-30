@@ -12,7 +12,7 @@ import lgThumbnail from 'lightgallery/plugins/thumbnail';
 import lgZoom from 'lightgallery/plugins/zoom';
 import { Container } from 'react-bootstrap';
 
-export function Gallery() {
+export function Gallery () {
 
 const imagesPerGroup = 6;
 const totalImages = 29; // Cambia esto según el número total de imágenes
@@ -82,7 +82,5 @@ const totalImages = 29; // Cambia esto según el número total de imágenes
         </div>
       </Container>
     </>
-
     );
-
 }

@@ -2,6 +2,7 @@
 .padre-slider{
   margin: 0px auto;
   padding: 0px auto;
+  height: auto;
 }
 
   .item-slider{
@@ -19,6 +20,7 @@
   .title-slider{
     font-size: 50px;
     font-weight: 700;
+    color: white;
   }
 
   .text-sede{
