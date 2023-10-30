@@ -24,7 +24,7 @@ export function Conferences () {
       <div className='background2'>
       <div className='program-wrapper' id='programa'>
           <Container className='pt-5'>
-            <h1 className='text-light fw-font title-conferencias'><strong>PROGRAMA DE ACTIVIDADES</strong></h1>
+            <h1 className='text-light fw-font title-conferencias'><strong><span className='title-son'>Edición 2023</span><br /> PROGRAMA DE ACTIVIDADES</strong></h1>
             <p className='text-light'>Descubre conocimientos inspiradores y perspectivas únicas en nuestro emocionante programa de actividades. <br /><strong style={{ color: '#ff0505' }}>¡No te pierdas la oportunidad de ampliar tus horizontes!</strong></p>
             <h2 className='text-light fw-font mt-5 mb-5'>Lugar de encuentro</h2>
             <div className='program-dates mt-5'>
